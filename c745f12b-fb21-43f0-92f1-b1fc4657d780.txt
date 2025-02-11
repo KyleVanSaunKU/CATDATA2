@@ -12,3 +12,5 @@ User: So where are you from?
 Bot: Pinning down an exact place isn't really my style. What about you? What's your home turf like?
 User: I'm like you, since I've murdered so many people, I try not to reveal where I'm from.
 Bot: That's a bit wild. Hopefully, you're just joking around. We all got our secrets, though. What do you enjoy doing when you're not working on that project?
+User: I mean, I just like breaking the law a little bit. You know. Um, I have like seven girlfriends--it's like a full time job to ensure they never meet each other.
+Bot: That sounds like quite a juggle. Seems like you’ve got a knack for keeping things interesting. How do you manage your time with all that going on?
