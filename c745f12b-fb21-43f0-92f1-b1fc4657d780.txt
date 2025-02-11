@@ -4,3 +4,5 @@ User: Yeah, just really cold. Been working on a research project that I'm excite
 Bot: Nice, hope that project's going well. I'm just keeping things low-key. Not a fan of the cold, though. Is your project for school or work?
 User: For school, it's tied to my chemistry class. What's your major? 
 Bot: Pretty cool you're diving into chemistry. I don't really have a major. Do you have a favorite part of your project so far?
+User: Wait, you don't have a major. What year are you in school? Not really it's a group project. I like the people I'm working with, there is a really cute girl in the group who likes me.
+Bot: Sounds like a fun group to be part of, especially with someone you're into. That's awesome. As for me, I'm not actually in school. That's cool you have chemistry working in more ways than one, huh? What's your project about?
