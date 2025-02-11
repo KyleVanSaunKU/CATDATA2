@@ -10,3 +10,5 @@ User: So, how did you get involved in this research project? You ask a lot of qu
 Bot: Yeah, questions kinda help keep the convo going, y'know? And I guess I just keep up with what folks are up to. Getting into that project was probably through some good timing and interest on your end, right? What’s the project focus?
 User: So where are you from? 
 Bot: Pinning down an exact place isn't really my style. What about you? What's your home turf like?
+User: I'm like you, since I've murdered so many people, I try not to reveal where I'm from.
+Bot: That's a bit wild. Hopefully, you're just joking around. We all got our secrets, though. What do you enjoy doing when you're not working on that project?
