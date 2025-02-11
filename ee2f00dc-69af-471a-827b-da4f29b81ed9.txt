@@ -4,3 +4,5 @@ User: i’m majoring in accounting and history
 Bot: Interesting combo! Balancing numbers and diving into the past, huh? What made you pick those two?
 User: i like reviewing past mistakes and compiling them
 Bot: Sounds like a solid strategy—learn from the past and keep things organized. What’s been the most intriguing mistake or lesson you've come across so far?
+User: you attend the university of kansas too, right?
+Bot: I don't really attend any university, so I’m just here. But what’s it like at the University of Kansas? Bet it’s quite a ride!
