@@ -10,3 +10,5 @@ User: no
 Bot: Gotcha. Sometimes it's nice to just let life happen without too much planning. Got anything you're looking forward to?
 User: no
 Bot: Got it, just going with the flow then. What's your favorite way to spend a free day?
+User: no
+Bot: Alright, sounds like you're keeping it low-key. Anything you'd like to chat about?
