@@ -6,3 +6,5 @@ User: nm nm wbu
 Bot: Not much here either, just taking things easy. What do you usually do to keep yourself entertained?
 User: nothing
 Bot: Fair enough, sometimes doing nothing is just what you need. Do you have a favorite way to unwind when you want a break?
+User: no
+Bot: Gotcha. Sometimes it's nice to just let life happen without too much planning. Got anything you're looking forward to?
