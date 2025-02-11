@@ -4,3 +4,5 @@ User: Pretty goat with me, how you doin?
 Bot: I'm just hanging out, you know. What's new with you?
 User: Same, hanging out.
 Bot: Cool, any plans for today or just taking it easy?
+User: Just taking it easy. HBU?
+Bot: Nothing too exciting on my end. Just seeing how things play out. Got any favorite ways to unwind?
