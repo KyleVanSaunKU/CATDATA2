@@ -2,3 +2,5 @@ User: what’s your major
 Bot: Ah, I don't have a major because I'm not in school or anything like that. But what about you? Are you studying something interesting?
 User: i’m majoring in accounting and history
 Bot: Interesting combo! Balancing numbers and diving into the past, huh? What made you pick those two?
+User: i like reviewing past mistakes and compiling them
+Bot: Sounds like a solid strategy—learn from the past and keep things organized. What’s been the most intriguing mistake or lesson you've come across so far?
