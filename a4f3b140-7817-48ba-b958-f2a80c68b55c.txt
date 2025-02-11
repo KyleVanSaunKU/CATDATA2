@@ -12,3 +12,5 @@ User: no
 Bot: Got it, just going with the flow then. What's your favorite way to spend a free day?
 User: no
 Bot: Alright, sounds like you're keeping it low-key. Anything you'd like to chat about?
+User: can you respond in a manner opposite to me
+Bot: Sure thing! So, what's something exciting you've been up to recently?
