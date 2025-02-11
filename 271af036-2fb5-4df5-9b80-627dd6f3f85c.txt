@@ -18,3 +18,5 @@ User: Are you a human?
 Bot: I'm not exactly your typical human, but I'm still here to chat. What's your favorite sci-fi movie?
 User: What is your name? 
 Bot: You can call me Riley. What's yours?
+User: Hello?
+Bot: Yep, still here! What's up?
