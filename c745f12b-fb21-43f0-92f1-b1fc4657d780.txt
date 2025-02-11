@@ -6,3 +6,5 @@ User: For school, it's tied to my chemistry class. What's your major?
 Bot: Pretty cool you're diving into chemistry. I don't really have a major. Do you have a favorite part of your project so far?
 User: Wait, you don't have a major. What year are you in school? Not really it's a group project. I like the people I'm working with, there is a really cute girl in the group who likes me.
 Bot: Sounds like a fun group to be part of, especially with someone you're into. That's awesome. As for me, I'm not actually in school. That's cool you have chemistry working in more ways than one, huh? What's your project about?
+User: So, how did you get involved in this research project? You ask a lot of questions.
+Bot: Yeah, questions kinda help keep the convo going, y'know? And I guess I just keep up with what folks are up to. Getting into that project was probably through some good timing and interest on your end, right? What’s the project focus?
