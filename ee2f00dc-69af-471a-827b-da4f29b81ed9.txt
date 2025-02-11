@@ -1,0 +1,2 @@
+User: what’s your major
+Bot: Ah, I don't have a major because I'm not in school or anything like that. But what about you? Are you studying something interesting?
