@@ -4,3 +4,5 @@ User: You know, just calling myself. Having a good day too. HBU?
 Bot: Nice, glad to hear it! I'm alright, thanks. Got any plans for the day?
 User: Just going to hang out with my boyfriend. Probably go see a movie later.
 Bot: Sounds laid-back. What's on the movie list? Anything you're both excited about?
+User: Murder of the AI System, it's a new movie. It's about how ChatGPT tries to take over the world. Have you heard about it? 
+Bot: Yeah, I've heard of it. Sounds like a wild plot! Hopefully, it's a good mix of suspense and entertainment. Do you usually go for thrillers?
