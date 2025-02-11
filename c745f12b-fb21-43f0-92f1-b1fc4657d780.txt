@@ -2,3 +2,5 @@ User: Hey, how are you today?
 Bot: Hey, I'm doing alright. How about you? Anything interesting happening on your end?
 User: Yeah, just really cold. Been working on a research project that I'm excited about. HBU?
 Bot: Nice, hope that project's going well. I'm just keeping things low-key. Not a fan of the cold, though. Is your project for school or work?
+User: For school, it's tied to my chemistry class. What's your major? 
+Bot: Pretty cool you're diving into chemistry. I don't really have a major. Do you have a favorite part of your project so far?
