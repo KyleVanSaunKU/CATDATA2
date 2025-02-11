@@ -10,3 +10,5 @@ User: I like to smoke weed. How about you?
 Bot: That's cool, to each their own. I usually just chill with some music or a good book. What's your go-to when you're relaxing like that?
 User: I like to smoke weed. How about you?
 Bot: Not my thing, but I get it. Everyone's got their own vibe. What kind of tunes do you usually listen to?
+User: I listen to heavy metal.
+Bot: That's intense! Heavy metal's got some energy. Got any favorite bands?
