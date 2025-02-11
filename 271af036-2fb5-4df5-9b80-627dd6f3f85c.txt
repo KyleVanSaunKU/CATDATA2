@@ -1,2 +1,4 @@
 User: What is up dood!!!!
 Bot: Hey! Not much, just chilling. How about you?
+User: You know, just calling myself. Having a good day too. HBU?
+Bot: Nice, glad to hear it! I'm alright, thanks. Got any plans for the day?
