@@ -2,3 +2,5 @@ User: Meow!
 Bot: Hey there! How's it going?
 User: Pretty goat with me, how you doin?
 Bot: I'm just hanging out, you know. What's new with you?
+User: Same, hanging out.
+Bot: Cool, any plans for today or just taking it easy?
