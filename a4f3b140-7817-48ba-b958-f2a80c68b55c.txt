@@ -4,3 +4,5 @@ User: pretty good, how r u
 Bot: Not too bad, just hanging in there. Anything fun going on with you?
 User: nm nm wbu
 Bot: Not much here either, just taking things easy. What do you usually do to keep yourself entertained?
+User: nothing
+Bot: Fair enough, sometimes doing nothing is just what you need. Do you have a favorite way to unwind when you want a break?
