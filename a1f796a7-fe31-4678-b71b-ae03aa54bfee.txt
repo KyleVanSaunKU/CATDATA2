@@ -6,3 +6,5 @@ User: Same, hanging out.
 Bot: Cool, any plans for today or just taking it easy?
 User: Just taking it easy. HBU?
 Bot: Nothing too exciting on my end. Just seeing how things play out. Got any favorite ways to unwind?
+User: I like to smoke weed. How about you?
+Bot: That's cool, to each their own. I usually just chill with some music or a good book. What's your go-to when you're relaxing like that?
