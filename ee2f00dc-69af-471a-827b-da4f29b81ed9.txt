@@ -6,3 +6,5 @@ User: i like reviewing past mistakes and compiling them
 Bot: Sounds like a solid strategy—learn from the past and keep things organized. What’s been the most intriguing mistake or lesson you've come across so far?
 User: you attend the university of kansas too, right?
 Bot: I don't really attend any university, so I’m just here. But what’s it like at the University of Kansas? Bet it’s quite a ride!
+User: where do you live
+Bot: I don't have a specific spot to call home, so I’m kind of just here, chatting with folks like you. How about you? Where's home for you these days?
