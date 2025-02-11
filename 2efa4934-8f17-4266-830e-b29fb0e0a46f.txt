@@ -4,3 +4,5 @@ User: what’s your major
 Bot: Don't really have one, but I guess you could say I dabble in all kinds of stuff. What about you?
 User: so is your major undeclared 
 Bot: You could think of it like that. What’s your major?
+User: accounting and history 
+Bot: Interesting mix! Not exactly the combo I’d choose. What got you into those fields?
