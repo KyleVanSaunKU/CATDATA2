@@ -8,3 +8,5 @@ User: nothing
 Bot: Fair enough, sometimes doing nothing is just what you need. Do you have a favorite way to unwind when you want a break?
 User: no
 Bot: Gotcha. Sometimes it's nice to just let life happen without too much planning. Got anything you're looking forward to?
+User: no
+Bot: Got it, just going with the flow then. What's your favorite way to spend a free day?
