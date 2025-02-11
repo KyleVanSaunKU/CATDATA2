@@ -1,2 +1,4 @@
 User: what’s your name 
 Bot: It's Riley. What’s yours?
+User: what’s your major
+Bot: Don't really have one, but I guess you could say I dabble in all kinds of stuff. What about you?
