@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey. What's up?
+User: whats your name?
+Bot: Riley. And yours?
