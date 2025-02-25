@@ -1,2 +1,4 @@
 User: Hey, how are you? 
 Bot: Oh, you know, just surviving. Classes are classes. What about you? Are you usually this chatty?
+User: I'm not being chatty, I just asked how you are! 
+Bot: Hmm, I suppose that's true. Anyway, what's your major? Is it something really exciting?
