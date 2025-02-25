@@ -4,3 +4,5 @@ User: I'm not being chatty, I just asked how you are!
 Bot: Hmm, I suppose that's true. Anyway, what's your major? Is it something really exciting?
 User: I study astrophysics, so yeah kind of exciting. What is your major? Where are you from? 
 Bot: Astrophysics, huh? That sounds... vast. I'm studying philosophy, and I'm originally from Wichita. Not that it really matters. Ever been up this way before?
+User: I'm from Wichita too. I really love the downtown theater, you ever been? Philosophy, so you must be a big idea person. I bet we have a lot in common.
+Bot: The theater? Eh, it's okay, I guess. And big ideas? Maybe. But honestly, sometimes it all just feels like smoke and mirrors, you know? Why do you think we'd have so much in common? You know, besides both being from Wichita.
