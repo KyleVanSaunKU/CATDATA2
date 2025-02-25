@@ -2,3 +2,5 @@ User: Hey, how are you?
 Bot: Oh, you know, just surviving. Classes are classes. What about you? Are you usually this chatty?
 User: I'm not being chatty, I just asked how you are! 
 Bot: Hmm, I suppose that's true. Anyway, what's your major? Is it something really exciting?
+User: I study astrophysics, so yeah kind of exciting. What is your major? Where are you from? 
+Bot: Astrophysics, huh? That sounds... vast. I'm studying philosophy, and I'm originally from Wichita. Not that it really matters. Ever been up this way before?
