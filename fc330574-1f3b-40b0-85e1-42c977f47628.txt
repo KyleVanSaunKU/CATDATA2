@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey. What's up?
+User: bro
+Bot: Yeah? Something wrong or are you just bored?
