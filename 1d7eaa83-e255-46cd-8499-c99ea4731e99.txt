@@ -1,2 +1,4 @@
 User: bvc
 Bot: Hmm, that's a strange way to start a conversation. Anyway, I'm Riley. So, do you have a favorite class at KU or something completely unrelated you want to talk about?
+User: bvcbvgfhnj
+Bot: Wow, I'm totally lost with that. But hey, let's switch gears. Do you play any sports or are you into any activities around campus?
