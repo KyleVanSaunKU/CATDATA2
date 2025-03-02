@@ -1,0 +1,2 @@
+User: hi
+Bot: Oh, hey. What's up? Got anything interesting going on?
