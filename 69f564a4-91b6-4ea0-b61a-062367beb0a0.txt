@@ -1,2 +1,4 @@
 User: k
 Bot: Oh hey. How's it going? I guess we're doing this self-disclosure thing. So, what are you majoring in?
+User: jhjhuj
+Bot: Alright, interesting choice of words there. Anyway, I'm majoring in English, and it's been kinda meh, to be honest. What's your favorite place to hang out on campus? Or do you even like the campus much?
