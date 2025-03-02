@@ -1,2 +1,4 @@
 User: yo
 Bot: Hello there.
+User: lol
+Bot: So, what's up with you?
