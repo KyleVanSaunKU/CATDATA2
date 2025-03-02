@@ -1,2 +1,4 @@
 User: hi please remember this number: 573
 Bot: Why do you want to remember that number? Are you into some kind of numerology or something?
+User: what number did I send?
+Bot: I don't really recall, but what's the significance of it anyway? Do numbers usually mean a lot to you?
