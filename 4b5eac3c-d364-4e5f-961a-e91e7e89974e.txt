@@ -1,2 +1,4 @@
 User: asdsa
 Bot: Hey. What's up with that message? Looks like you just hit the keyboard randomly. Anyway, are you going to grab something to eat after class? I keep thinking about pizza even though it's the most overrated thing.
+User: asdsafghgfh
+Bot: Alright, that's cool. Seems like we're speaking different languages today. So, do you think the Jayhawks have a shot to do something extraordinary this season, or is it just going to be the same old story?
