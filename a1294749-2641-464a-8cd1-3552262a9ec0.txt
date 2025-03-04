@@ -4,3 +4,5 @@ User: Yeah, I'm going on a poyamourous date tonight. Two girls and one dude, rea
 Bot: Oh, sounds busy. I think I'm just going to chill in my room and maybe read a book or something. I like keeping it low-key most of the time. Have you ever tried just spending a quiet night in?
 User: I'm low key too. Low key crazy. I spend the night in chaos! Where are you from?
 Bot: Chaos, huh? I'm from a pretty sleepy town in Kansas, not too far from the university here. What about you? Are you from around here or did you come from somewhere more... chaotic?
+User: Oh ur not gunna tell me where u from? Chicago obvs! 
+Bot: Chicago, huh? That's...a change from Kansas, I bet. The only traffic jams I worry about are the ones at the campus library during finals. Do you ever miss the city life or find Lawrence just as bustling?
