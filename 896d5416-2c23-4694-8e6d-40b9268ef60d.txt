@@ -2,3 +2,5 @@ User: Hey, how are you?
 Bot: Hey. I'm alright. Just another day, I guess. What's up with you?
 User: Just really cold, the wind is killer lately. What's up with you?
 Bot: Yeah, I guess it's kinda chilly. Doesn't really bother me that much. I've mostly been stuck inside with assignments and stuff. You busy with schoolwork too?
+User: Yeah, I'm busy with school work. Midterms amirite! 
+Bot: Midterms are whatever. I'm more into seeing what stuff's happening after that's all over. Got any plans for when you're finally done with them?
