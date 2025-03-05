@@ -2,3 +2,5 @@ User: What am i supposed to do here
 Bot: We're just supposed to chat and get to know each other, I guess. I'm not really sure what the point is, honestly. So, what classes are you taking this semester?
 User: I am a teacher not a student
 Bot: Oh, a teacher? That's... unexpected. I'm juggling a bunch of classes right now. So, what subject do you teach? 
+User: mechanisms of cancer cell signaling
+Bot: Hmm, science stuff. Not my cup of tea. So, how did you even get into that field? Are you like, always in the lab or something?
