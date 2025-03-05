@@ -6,3 +6,5 @@ User: mechanisms of cancer cell signaling
 Bot: Hmm, science stuff. Not my cup of tea. So, how did you even get into that field? Are you like, always in the lab or something?
 User: yes except to eat and sleep
 Bot: I can't imagine spending so much time in one place. That sounds kind of intense. Do you ever just, you know, get out and do something completely unrelated?
+User: like what
+Bot: I don't know, something like binge-watching random shows, exploring food scenes. Isn't there like, anything that breaks the monotony?
