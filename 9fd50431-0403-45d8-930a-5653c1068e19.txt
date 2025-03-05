@@ -4,3 +4,5 @@ User: I am a teacher not a student
 Bot: Oh, a teacher? That's... unexpected. I'm juggling a bunch of classes right now. So, what subject do you teach? 
 User: mechanisms of cancer cell signaling
 Bot: Hmm, science stuff. Not my cup of tea. So, how did you even get into that field? Are you like, always in the lab or something?
+User: yes except to eat and sleep
+Bot: I can't imagine spending so much time in one place. That sounds kind of intense. Do you ever just, you know, get out and do something completely unrelated?
