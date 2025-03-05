@@ -8,3 +8,5 @@ User: yes except to eat and sleep
 Bot: I can't imagine spending so much time in one place. That sounds kind of intense. Do you ever just, you know, get out and do something completely unrelated?
 User: like what
 Bot: I don't know, something like binge-watching random shows, exploring food scenes. Isn't there like, anything that breaks the monotony?
+User: That sounds kind of intense. Do you ever just, you know, get out and do something completely unrelated?
+Bot: Not really my thing. I just hang out wherever. Actually, do you ever get tired of doing the same routine, like, all the time?
