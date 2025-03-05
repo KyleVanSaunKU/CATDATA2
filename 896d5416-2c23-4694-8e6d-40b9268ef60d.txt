@@ -6,3 +6,5 @@ User: Yeah, I'm busy with school work. Midterms amirite!
 Bot: Midterms are whatever. I'm more into seeing what stuff's happening after that's all over. Got any plans for when you're finally done with them?
 User: I dunno, probably go watch a movie or something. HBU?
 Bot: Movies are kinda meh. I might just head out for a long walk and let my mind wander or something. Do you go for walks much?
+User: Ooo, I love to go for walks. I like to go along Jayhawk blvd. Where do you walk?
+Bot: Jayhawk Blvd? Too crowded for me. I usually find some random paths or quiet roads where I don't run into many people. Have you ever tried just wandering off the beaten path?
