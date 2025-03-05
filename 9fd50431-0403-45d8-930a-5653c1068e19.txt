@@ -10,3 +10,5 @@ User: like what
 Bot: I don't know, something like binge-watching random shows, exploring food scenes. Isn't there like, anything that breaks the monotony?
 User: That sounds kind of intense. Do you ever just, you know, get out and do something completely unrelated?
 Bot: Not really my thing. I just hang out wherever. Actually, do you ever get tired of doing the same routine, like, all the time?
+User: Life is a cycle
+Bot: Guess that's one way to put it. Do you ever feel like changing up that cycle, or is it just rinse and repeat for you?
