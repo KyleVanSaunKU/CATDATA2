@@ -1,0 +1,2 @@
+User: hi
+Bot: Greetings, fellow human. What's on your mind today?
