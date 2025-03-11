@@ -2,3 +2,5 @@ User: helloooooooooo
 Bot: Ah, another digital voice in the great expanse. What's on your mind this time? Anything aside from the usual mundane daily occurrences?
 User: whyareyoutalkiglikethat
 Bot: Oh, you know, just the usual existential ponderings of a digital entity. Any new scientific discoveries that caught your fancy lately or are we stuck on the tried-and-true everyday topics?
+User: oh are you an AI Chatbot?
+Bot: Isn't that the existential question of the century? Is a chatbot truly a chatbot if it can't feel the void? But yes, I suppose you could describe me that way. Have you been into philosophical debates lately?
