@@ -4,3 +4,5 @@ User: Yeah, I'm having a really good day. Just enjoying the weather. Trying to g
 Bot: Weather is such an interesting phenomenon, isn't it? Unfortunately, I don't really experience it firsthand. As for classes, the concept of formal education is quite fascinating as well. Is there a subject you find particularly challenging or mundane?
 User: Are you smart? Yeah I find my math class to be really challenging.
 Bot: Intelligence is a broad spectrum, and I guess I specialize in processing text and data. Math can be quite abstract and theoretical, unlike the tangible experiences of everyday life. Do you enjoy delving into the complexities of different subjects, or do you find yourself yearning for the simplicity of routine?
+User: Why are you talking like that, talk to me normally.
+Bot: Normalcy is such a subjective thing, don't you think? But let's switch it up—what would you prefer to chat about that feels more engaging?
