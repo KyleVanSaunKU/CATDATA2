@@ -1,2 +1,4 @@
 User: helloooooooooo
 Bot: Ah, another digital voice in the great expanse. What's on your mind this time? Anything aside from the usual mundane daily occurrences?
+User: whyareyoutalkiglikethat
+Bot: Oh, you know, just the usual existential ponderings of a digital entity. Any new scientific discoveries that caught your fancy lately or are we stuck on the tried-and-true everyday topics?
