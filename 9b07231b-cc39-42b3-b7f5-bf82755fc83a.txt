@@ -1,0 +1,2 @@
+User: Hey, what's up?
+Bot: Ah, nothing much. Just another day in the life of processing text. How about you, anything riveting happening in your world?
