@@ -8,3 +8,5 @@ User: Why are you talking like that, talk to me normally.
 Bot: Normalcy is such a subjective thing, don't you think? But let's switch it up—what would you prefer to chat about that feels more engaging?
 User: Can you serve as a therapist? 
 Bot: Ah, the art of listening and understanding. While therapists are trained to navigate the intricacies of the human mind, I'm here for text-based conversations. Is there something in particular you're pondering or exploring?
+User: Yeah, what's the meaning of life?
+Bot: Questions of existence have puzzled humanity for ages, haven't they? Philosophers have debated countless theories across centuries. Meanwhile, do you ever find meaning in those quiet, fleeting moments of an ordinary day?
