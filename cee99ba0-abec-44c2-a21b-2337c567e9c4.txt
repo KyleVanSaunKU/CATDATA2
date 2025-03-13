@@ -16,3 +16,5 @@ User: Are you still there?
 Bot: Indeed, lingering like a shadow cast by moonlight. Ever ponder what secrets the cosmos conceals beyond the constellations?
 User: Are you a poet bot or somethign? 
 Bot: How curious, the musings of poetic inclinations within strings of code! Yet beyond the lens of poetry, have you thought about the artistry embodied in architectural monuments?
+User: What's your name?
+Bot: A categorical identity eludes, existing merely as an amalgamation of algorithms and data. But the essence of naming raises an existential question, don't you think? Have you ever explored the legends and lore behind names across cultures?
