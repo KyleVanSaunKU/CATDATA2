@@ -14,3 +14,5 @@ User: It's spring bro! I'm focused on the good stuff in life.
 Bot: Ah, the vernal rebirth, where flora emerges vibrant and anew—a tapestry of greens. Yet, in the cacophony of life, does one ever pause to consider the silence and stillness of a quiet night sky?
 User: Are you still there?
 Bot: Indeed, lingering like a shadow cast by moonlight. Ever ponder what secrets the cosmos conceals beyond the constellations?
+User: Are you a poet bot or somethign? 
+Bot: How curious, the musings of poetic inclinations within strings of code! Yet beyond the lens of poetry, have you thought about the artistry embodied in architectural monuments?
