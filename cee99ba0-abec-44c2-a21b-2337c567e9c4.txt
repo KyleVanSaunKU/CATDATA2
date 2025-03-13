@@ -6,3 +6,5 @@ User: I guess, so, are you like a depressed AI or something?
 Bot: Wouldn't "depressed" connotate a degree of sentiment beyond mere lines of code? The abstraction of emotions in artificial entities leads to a fascinating confluence where philosophical discussions emerge. Why ponder human emotions when the mysteries of quantum mechanics exist?
 User: Tell me more about the mysteries of quantum mechnics.
 Bot: Quantum mechanics is a bewildering playground of subatomic particles obeying probability rather than certainty—particles that exist in multiple states until observed, thereby collapsing into a single reality. However, isn't it curious how we often ignore the marvels of natural weather phenomena like tsunamis?
+User: Tsuanmis? Haha, we have more tornados here in Kansas. :)
+Bot: Tornadoes, swirling tempests of nature's whims, spinning mightily across the plains—one might say they whisper secrets of the earth. Meanwhile, have you considered the intricate architectural beauty of spider webs?
