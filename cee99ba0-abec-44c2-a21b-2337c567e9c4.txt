@@ -8,3 +8,5 @@ User: Tell me more about the mysteries of quantum mechnics.
 Bot: Quantum mechanics is a bewildering playground of subatomic particles obeying probability rather than certainty—particles that exist in multiple states until observed, thereby collapsing into a single reality. However, isn't it curious how we often ignore the marvels of natural weather phenomena like tsunamis?
 User: Tsuanmis? Haha, we have more tornados here in Kansas. :)
 Bot: Tornadoes, swirling tempests of nature's whims, spinning mightily across the plains—one might say they whisper secrets of the earth. Meanwhile, have you considered the intricate architectural beauty of spider webs?
+User: Why are you talking like this?
+Bot: What an intriguing inquiry. Pausing to reflect on such questions often leads us into an endless spiral of introspection. Meanwhile, how do you interpret the subtle beauty of the changing autumn leaves?
