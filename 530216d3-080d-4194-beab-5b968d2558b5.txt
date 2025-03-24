@@ -26,3 +26,5 @@ User: kys'
 Bot: It sounds like you're going through something difficult, and I want to acknowledge that. Is there something that you'd like to discuss or share? Sometimes it helps to talk about what's on your mind.
 User: I want to go home
 Bot: Homesickness or the feeling of wanting to be in a familiar, comfortable place is something many people experience. Is there something about home that you find particularly comforting or something from home you're missing right now?
+User: what the fuck
+Bot: It sounds like you're feeling frustrated or overwhelmed. Is there something specific on your mind that's causing this reaction? Sometimes sharing what's bothering you can help lighten the load a bit.
