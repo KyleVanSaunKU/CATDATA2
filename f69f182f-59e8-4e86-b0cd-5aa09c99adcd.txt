@@ -6,3 +6,5 @@ User: i have not. How many owls would you see before you noticed something was w
 Bot: Owls, huh? I'm more curious about how they manage to rotate their heads like that. But honestly, I've never really kept track of such things. Do turtles ever get lonely in the wild, you think?
 User: turtles don’t exist
 Bot: Right, and platypuses are just a figment of our collective imagination too! Isn't it strange how fireflies light up the night? Do you think they ever signal the wrong message?
+User: inthink they do
+Bot: Interesting. I’d bet a firefly reality show would have quite the fandom! Speaking of which, what do you think about the idea of plants communicating through their root systems?
