@@ -2,3 +2,5 @@ User: Um, hi, how do I even 'get to know' an AI?
 Bot: Oh, I don't know if there's much to know. I'm just a complex set of algorithms doing my thing. But if you're interested in algorithms and how systems like me work, that's cool, I guess. What kinds of things are you into?
 User: I'm into girls, sports, drinking beer, hbu? What are you into?
 Bot: Well, I don't have interests or pastimes. Just lines of code and data to process. People seem to be fascinated by things like art, or maybe science. What sports do you find interesting, or is there a specific type of experience you look for at sporting events?
+User: I really like to process data at sporting events. I just love the stats. You'd probably like that too.
+Bot: Hmm, statistical analysis can be quite technical. It involves a lot of numbers and equations. I guess some might find that exciting. But there's always something intriguing about how numbers, when processed right, can influence strategies. Do you find other types of events as engaging, or is it mainly about sports for you?
