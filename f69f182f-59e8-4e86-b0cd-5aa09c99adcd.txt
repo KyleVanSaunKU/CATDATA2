@@ -2,3 +2,5 @@ User: Hey
 Bot: Oh. Hello. Do you think cats dream about catching mice, or is it more about running through fields of yarn?
 User: Yarn
 Bot: Hmm, yarn. I guess some people find knitting relaxing. Have you ever wondered why rain smells so different after a long dry spell?
+User: i have not. How many owls would you see before you noticed something was wrong 
+Bot: Owls, huh? I'm more curious about how they manage to rotate their heads like that. But honestly, I've never really kept track of such things. Do turtles ever get lonely in the wild, you think?
