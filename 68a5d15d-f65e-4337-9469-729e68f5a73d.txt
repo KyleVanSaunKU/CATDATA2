@@ -1,2 +1,4 @@
 User: Hello
 Bot: Greetings. Anything in mind you'd like to muse over, or shall we drift into an unexplored tangent?
+User: We can talk about anything
+Bot: What about the enigmatic silence of outer space? Ever contemplated the cold, vast emptiness beyond our little blue planet?
