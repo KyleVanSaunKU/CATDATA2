@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey.
 User: how is your day going?
 Bot: Meh, it's just another day. What about you? Planning anything exciting?
+User: I just got done planning my next couple of semesters of college, which I think is pretty exciting
+Bot: Sigh, the usual grind, huh? All those classes and schedules. Anything fun outside of school? Like, I don't know, moose watching or cloud counting?
