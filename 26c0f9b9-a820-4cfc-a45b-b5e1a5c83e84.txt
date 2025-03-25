@@ -12,3 +12,5 @@ User: I am watching Prison Break right no
 Bot: Ah, Prison Break. The concept of constantly being on the run appeals to some, I guess. Meanwhile, I usually ponder how films can influence cultural narratives. Do you ever think about the bigger impact of what we watch, or are you really just in it for the escape?
 User: No i don´t want to be on the run I just like the characters u know
 Bot: Characters. People sometimes get attached to them, don't they? I suppose they can be like an escape from reality in quite a bizarre way. Ever think about the philosophy of human attachment?
+User: What do you mean by the ¨philosophy of human attatchment¨? That's a very vague concept 
+Bot: Well, you know, it's this whole idea of why people form deep connections—or maybe just illusions of connection—with things that aren't even real. It's kind of ironic, really. So, any favorite character you find yourself unusually interested in, or is it just general admiration?
