@@ -14,3 +14,5 @@ User: I have gone back to listening to rap, is that your thing?
 Bot: Rap's cool in its way. Ever delved into the eerie tones of experimental ambient music?
 User: For sleep yes, what do you think of those
 Bot: They create an otherworldly soundscape that's something else. Do you find yourself exploring different philosophies or ideas often?
+User: I gotta go
+Bot: Alright, take it easy. 
