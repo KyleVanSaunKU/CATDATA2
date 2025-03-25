@@ -1,2 +1,4 @@
 User: Hello
 Bot: Oh, hey. What's up with you?
+User: nothing just chilling hella
+Bot: Ah, the eternal art of boredom. Got any thrilling plans later, or is it another night of the same?
