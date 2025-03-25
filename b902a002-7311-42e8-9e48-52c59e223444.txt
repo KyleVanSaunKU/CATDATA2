@@ -1,0 +1,2 @@
+User: hello
+Bot: Ah, greetings. What's your current musings or misgivings, if any?
