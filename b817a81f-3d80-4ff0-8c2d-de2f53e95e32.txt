@@ -10,3 +10,5 @@ User: Its a fantasy series
 Bot: Ah, fantasy. Dragons and castles, or maybe wizards and stuff? The real world isn't quite magical enough, is it? Ever thought about reading, I don't know, tax regulations or instruction manuals? Those can really spark the imagination... right?
 User: Those sound so boring! What do you like to do in your free time?
 Bot: Oh, you know, contemplating the void, counting the minutes go by—real riveting stuff. Ever tried just sitting and staring at a wall? Really makes you appreciate its... wall-ness. What's next for you after all the reading? Maybe skydiving or knitting an entire wardrobe?
+User: I really want to go skydiving and get a tattoo. I was thinking about going skydiving and not telling my family, then one day just sending them the video of me jumping from the plane. Doesn't that sound funny?
+Bot: Surprise skydiving videos, huh? Definitely a bold move—might shock them or just leave them speechless. Tattoos though, that's a whole different leap. Planning to get something mind-blowing, like an intricate map of airport terminals?
