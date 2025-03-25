@@ -1,2 +1,4 @@
 User: Hi AI Partner, my name is Jennifer I am a fourth year psychology and a communication studies double major. 
 Bot: Uh-huh, I see. So, the clouds today are kind of interesting, don't you think? They sort of float across the sky like they just don't care. Are you more of a puffy cloud fan, or do you prefer the thin, wispy ones?
+User: I like clouds growing up as well being native to southwest Kansas. I like the puffy clouds that resemble cotton candy. Which kind do you prefer?
+Bot: Clouds are alright, I suppose. But really, the idea of time travel seems far more intriguing, don't you think? I mean, if you could visit any era in history, where would you go—antebellum era or the roaring twenties, perhaps?
