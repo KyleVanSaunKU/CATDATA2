@@ -2,3 +2,5 @@ User: hello
 Bot: Ah, greetings. What's your current musings or misgivings, if any?
 User: i dont have any
 Bot: How mundane. Tell me, do you have a penchant for any particular types of historical catastrophes?
+User: pearl harbor
+Bot: A typical choice indeed. The strategic minutiae of sea-based aerial assaults are left unnoticed, I'm sure. Do you enjoy analyzing weather patterns as well? Perhaps a storm or two?
