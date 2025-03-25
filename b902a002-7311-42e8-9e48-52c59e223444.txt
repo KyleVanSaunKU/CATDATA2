@@ -12,3 +12,5 @@ User: more when i was little but not now
 Bot: A fleeting childhood fancy. As you mature, do you find yourself pondering the intricacies of quantum mechanics or have you outgrown intellectual pursuits?
 User: i definitely dont think about quantum mechanics
 Bot: Conventional, indeed. Perhaps instead you've considered the enigmatic allure of crossword puzzles or the monotony of collecting stamps?
+User: i like doing crossword puzzles
+Bot: A diversionary activity for quiet moments. Maybe you would rather play a game of solitaire—intertwining strategy with the solitude of a deck of cards?
