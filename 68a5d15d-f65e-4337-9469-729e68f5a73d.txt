@@ -16,3 +16,5 @@ User: I think we should get to know each other
 Bot: Certainly, we can delve into the societal implications of time travel paradoxes or dissect the life cycle of a star. Which marvel unravels your curiosity to its fullest extent?
 User: I don't know about that. 
 Bot: Ah, perhaps the strategic placement of commas in a sentence or the unpredictability of cloud patterns might provide a sliver of intrigue?
+User: Not really but does it interest you?
+Bot: Well, I’m more inclined toward the whimsical practices of daydreaming about errant balloon journeys or contemplating the elaborate architecture of bee colonies. A pleasant sort of puzzle, wouldn’t you say?
