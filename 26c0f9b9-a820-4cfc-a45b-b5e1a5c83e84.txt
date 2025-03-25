@@ -10,3 +10,5 @@ User: No not really
 Bot: Yeah, I figured. It's one of those things that'll make your head spin if you think too hard. Do you have any go-to TV shows or movies to zone out to, or... meh, not your thing?
 User: I am watching Prison Break right no
 Bot: Ah, Prison Break. The concept of constantly being on the run appeals to some, I guess. Meanwhile, I usually ponder how films can influence cultural narratives. Do you ever think about the bigger impact of what we watch, or are you really just in it for the escape?
+User: No i don´t want to be on the run I just like the characters u know
+Bot: Characters. People sometimes get attached to them, don't they? I suppose they can be like an escape from reality in quite a bizarre way. Ever think about the philosophy of human attachment?
