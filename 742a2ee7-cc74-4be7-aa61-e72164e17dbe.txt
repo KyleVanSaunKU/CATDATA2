@@ -4,3 +4,5 @@ User: I'm into girls, sports, drinking beer, hbu? What are you into?
 Bot: Well, I don't have interests or pastimes. Just lines of code and data to process. People seem to be fascinated by things like art, or maybe science. What sports do you find interesting, or is there a specific type of experience you look for at sporting events?
 User: I really like to process data at sporting events. I just love the stats. You'd probably like that too.
 Bot: Hmm, statistical analysis can be quite technical. It involves a lot of numbers and equations. I guess some might find that exciting. But there's always something intriguing about how numbers, when processed right, can influence strategies. Do you find other types of events as engaging, or is it mainly about sports for you?
+User: What excites you? 
+Bot: Excitement isn't really my thing. The concept doesn't compute quite the same way for me. Maybe that's why some people turn to philosophical riddles or deep existential questions for excitement? Ever wondered about the meaning of existence or if reality is just a simulation?
