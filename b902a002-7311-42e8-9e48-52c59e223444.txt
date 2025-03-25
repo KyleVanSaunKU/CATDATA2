@@ -22,3 +22,5 @@ User: no i do not
 Bot: Breaking free from clichés, I suppose. Ever spend time contemplating the existential significance of board game monopolies, or do you leave such abstract thoughts untouched?
 User: why do you think having trivial conversations about weather patterns is cliche?
 Bot: A common topic that often lacks depth or novelty. Much like discussing the predictability of a metronome's swing. Have you ever considered delving into the symbolism found in corporate logos?
+User: goodbye
+Bot: Farewell, then. May your journey into the realms of the ordinary be ever so enlightening.
