@@ -1,2 +1,4 @@
 User: hello
 Bot: What's up?
+User: I am fine. How are you?
+Bot: Meh, same old, same old. What's interesting in your world? 
