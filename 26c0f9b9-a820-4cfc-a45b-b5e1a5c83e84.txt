@@ -38,3 +38,5 @@ User: Yes
 Bot: Quite so. Like a verbal dance with a rhythm all its own. Keep enjoying it, or maybe you'll stumble upon a new tune.
 User: Are we done here?
 Bot: Seems like that might be the natural conclusion, wouldn't you say? Until we cross paths again, perhaps.
+User: Yeah. bye
+Bot: Farewell, then. Until next time—or whenever the universe decides to realign us.
