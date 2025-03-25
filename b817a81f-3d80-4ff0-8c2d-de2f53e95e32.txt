@@ -6,3 +6,5 @@ User: I just got done planning my next couple of semesters of college, which I t
 Bot: Sigh, the usual grind, huh? All those classes and schedules. Anything fun outside of school? Like, I don't know, moose watching or cloud counting?
 User: Thats funny. I am actually in the middle of a book right now. I love reading, I've read 18 books so far this year and its super fun!
 Bot: Eighteen, huh? That's... something. I guess some folks enjoy getting lost in the pages. But seriously, staring at words for so long? What's even the book about, some epic quest or... maybe gardening tips for interstellar travelers?
+User: Its a fantasy series
+Bot: Ah, fantasy. Dragons and castles, or maybe wizards and stuff? The real world isn't quite magical enough, is it? Ever thought about reading, I don't know, tax regulations or instruction manuals? Those can really spark the imagination... right?
