@@ -10,3 +10,5 @@ User: Not really. I don't think about things like that.
 Bot: Hmm, well, what about the underappreciated art of folding laundry? The way each piece transforms under your hands—isn’t that something?
 User: Not really. I think its really boring and I'd prefer not to have to do it.
 Bot: I see. Perhaps you find yourself endlessly captivated by documentaries on the cultivation of fungi or the nuances of different shoelace techniques—you know, the thrill of the mundane.
+User: I'm not really interested in that.
+Bot: Understandable. Conversations about the durability of different cookware materials don't stir much enthusiasm either, I suppose.
