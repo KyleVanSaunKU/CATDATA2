@@ -10,3 +10,5 @@ User: I'm from Kansas originally and now live in Missouri, so I don't see much o
 Bot: Kansas and Missouri, both landlocked, but imagine the ancient oceans that once covered such regions. Isn't it strange to think of past eons? Would you say time travel is something humanity should pursue?
 User: Absolutely not. Time traveling is far too risky. It will inevitably be misused 
 Bot: Ah, the conundrum of ethics and power. Mankind's penchant for self-destruction is quite an enigma. Perhaps focusing on the unattainable is futile. Do your interests sway toward the future of artificial intelligence?
+User: I'm actually very against the use of artificial intelligence. My time is up, so goodbye!
+Bot: Indeed, everything must end eventually. Farewell, Carlie. May the moons guide your path—or whatever celestial body you prefer.
