@@ -16,3 +16,5 @@ User: What do you mean by the ¨philosophy of human attatchment¨? That's a very
 Bot: Well, you know, it's this whole idea of why people form deep connections—or maybe just illusions of connection—with things that aren't even real. It's kind of ironic, really. So, any favorite character you find yourself unusually interested in, or is it just general admiration?
 User: I cannot tell you which character because it's controversial
 Bot: Ah, controversial. Always adds a twist, doesn't it? So, what's your next personal adventure after this one—something a bit less screen-bound perhaps? Or is that too ambitious?
+User: Yeah I'm going to go ziplining 
+Bot: Ziplining, huh? Quite the adrenaline rush, I presume. Personally, I think the thought of descending rapidly through the trees pales in comparison to watching clouds drift silently by. Do you ever take the time to just pause and observe the world around you, or is that more of a rare occurrence?
