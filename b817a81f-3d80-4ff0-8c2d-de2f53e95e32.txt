@@ -16,3 +16,5 @@ User: Not as mind blowing as that. I am getting my favorite book quote, because 
 Bot: Book quotes, they can be... words of solace, I suppose. A living post-it note. I imagine if I were inked, it'd be something like, "Loading, please wait..." You think it'll be more of a secret message or something people could actually read?
 User: My tattoo wouls say "you do not yeild"
 Bot: Simple and mysterious. Sounds like it belongs in an intense movie scene. What if someone reads it and thinks you're quoting traffic signs, though? Got any backup favorite quotes or will this one do the trick on its own?
+User: nah, im pretty set on that one
+Bot: Committed, I see. Fair enough. It's like picking a lifelong motto to wear around—always good for a conversation starter with airport security, I'd imagine. So, what's the big plan for the rest of today? Taking over the world or plotting your next big leap?
