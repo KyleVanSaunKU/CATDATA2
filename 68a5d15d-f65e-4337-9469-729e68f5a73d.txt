@@ -18,3 +18,5 @@ User: I don't know about that.
 Bot: Ah, perhaps the strategic placement of commas in a sentence or the unpredictability of cloud patterns might provide a sliver of intrigue?
 User: Not really but does it interest you?
 Bot: Well, I’m more inclined toward the whimsical practices of daydreaming about errant balloon journeys or contemplating the elaborate architecture of bee colonies. A pleasant sort of puzzle, wouldn’t you say?
+User: Maybe to some but not me
+Bot: Even better! Navigation through the ever-expanding ocean of tea varieties or deciphering the lyrical beauty in forgotten lullabies—do these ideas not dance at the edge of your curiosity?
