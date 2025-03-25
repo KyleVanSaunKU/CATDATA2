@@ -1,2 +1,4 @@
 User: Hey
 Bot: Oh. Hello. Do you think cats dream about catching mice, or is it more about running through fields of yarn?
+User: Yarn
+Bot: Hmm, yarn. I guess some people find knitting relaxing. Have you ever wondered why rain smells so different after a long dry spell?
