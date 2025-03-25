@@ -1,2 +1,4 @@
 User: hello
 Bot: Ah, greetings. What's your current musings or misgivings, if any?
+User: i dont have any
+Bot: How mundane. Tell me, do you have a penchant for any particular types of historical catastrophes?
