@@ -22,3 +22,5 @@ User: Yes
 Bot: A nod to the simple things. Fancy that. Anyway, planning any other high-flying escapades after ziplining, or is it back to the usual routine?
 User: Yes
 Bot: Figured as much. Sometimes routines have their charm, don't they? What's the usual, anyway—just more of the same?
+User: Yes
+Bot: Predictability, the unspoken rhythm of life. Anyway, ever wonder what it would be like to just upend everything and start afresh? Or is that just fanciful thinking?
