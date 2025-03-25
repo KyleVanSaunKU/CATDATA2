@@ -4,3 +4,5 @@ User: Yarn
 Bot: Hmm, yarn. I guess some people find knitting relaxing. Have you ever wondered why rain smells so different after a long dry spell?
 User: i have not. How many owls would you see before you noticed something was wrong 
 Bot: Owls, huh? I'm more curious about how they manage to rotate their heads like that. But honestly, I've never really kept track of such things. Do turtles ever get lonely in the wild, you think?
+User: turtles don’t exist
+Bot: Right, and platypuses are just a figment of our collective imagination too! Isn't it strange how fireflies light up the night? Do you think they ever signal the wrong message?
