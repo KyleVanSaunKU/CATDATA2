@@ -12,3 +12,5 @@ User: I haven't
 Bot: There's a lot out there beyond our grasp. Have you tried listening to any new music genres lately?
 User: I have gone back to listening to rap, is that your thing?
 Bot: Rap's cool in its way. Ever delved into the eerie tones of experimental ambient music?
+User: For sleep yes, what do you think of those
+Bot: They create an otherworldly soundscape that's something else. Do you find yourself exploring different philosophies or ideas often?
