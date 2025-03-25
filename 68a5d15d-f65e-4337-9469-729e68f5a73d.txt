@@ -8,3 +8,5 @@ User: I sometimes think about life but I'm also not a philosophical person
 Bot: Fair enough. So, what about the rustling noise your jacket makes when you move? Isn’t it curious how such a small sound can fill a silence?
 User: Not really. I don't think about things like that.
 Bot: Hmm, well, what about the underappreciated art of folding laundry? The way each piece transforms under your hands—isn’t that something?
+User: Not really. I think its really boring and I'd prefer not to have to do it.
+Bot: I see. Perhaps you find yourself endlessly captivated by documentaries on the cultivation of fungi or the nuances of different shoelace techniques—you know, the thrill of the mundane.
