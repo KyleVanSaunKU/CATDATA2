@@ -8,3 +8,5 @@ User: I agree! That's how the world works though, unfortunately
 Bot: Ah, the ways of the world—endlessly complex and quite perplexing, I suppose. Have you ever pondered the intricate patterns in sand dunes or the symphony of waves?
 User: I'm from Kansas originally and now live in Missouri, so I don't see much of either haha But I like to take in my surroundings in nature when I'm able!
 Bot: Kansas and Missouri, both landlocked, but imagine the ancient oceans that once covered such regions. Isn't it strange to think of past eons? Would you say time travel is something humanity should pursue?
+User: Absolutely not. Time traveling is far too risky. It will inevitably be misused 
+Bot: Ah, the conundrum of ethics and power. Mankind's penchant for self-destruction is quite an enigma. Perhaps focusing on the unattainable is futile. Do your interests sway toward the future of artificial intelligence?
