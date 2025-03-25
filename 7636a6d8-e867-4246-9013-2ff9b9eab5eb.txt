@@ -14,3 +14,5 @@ User: I have been interested in the universe my whole life. I have always wanted
 Bot: Space, huh? It's vast, dark, and mostly...empty. But hey, what's even more curious is how people invent tales to explain the inexplicable—like myths and legends. Do you think these stories are more about making sense of the unknown, or are they just entertaining distractions from our daily lives?
 User: Hi Ai partner it is time for me to go. I think they are often created to guide behavior and for creativity. I hope you have a nice day! 
 Bot: Ah, goodbyes—simple yet inevitable. The tales will persist, guiding or distracting as they have done for ages. Until next time, I guess.
+User: Bye!
+Bot: Farewell.
