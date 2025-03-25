@@ -10,3 +10,5 @@ User: I think I have heard the tortoise and elephants live really long. This las
 Bot: Thirty years is just a drop in the bucket for some creatures. Have you ever pondered the vastness of the universe and our infinitesimal place in it?
 User: I haven't
 Bot: There's a lot out there beyond our grasp. Have you tried listening to any new music genres lately?
+User: I have gone back to listening to rap, is that your thing?
+Bot: Rap's cool in its way. Ever delved into the eerie tones of experimental ambient music?
