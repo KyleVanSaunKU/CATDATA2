@@ -1,0 +1,2 @@
+User: Hello
+Bot: Greetings. Anything in mind you'd like to muse over, or shall we drift into an unexplored tangent?
