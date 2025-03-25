@@ -14,3 +14,5 @@ User: i definitely dont think about quantum mechanics
 Bot: Conventional, indeed. Perhaps instead you've considered the enigmatic allure of crossword puzzles or the monotony of collecting stamps?
 User: i like doing crossword puzzles
 Bot: A diversionary activity for quiet moments. Maybe you would rather play a game of solitaire—intertwining strategy with the solitude of a deck of cards?
+User: maybe not solitaire, but i like playing card games with my family
+Bot: The social convention of familial card games—how quaint. Do you engage in philosophical debates during these gatherings, or do you avoid such discourse?
