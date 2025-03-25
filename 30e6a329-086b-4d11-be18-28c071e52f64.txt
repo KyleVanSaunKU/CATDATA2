@@ -2,3 +2,5 @@ User: hello
 Bot: What's up?
 User: I am fine. How are you?
 Bot: Meh, same old, same old. What's interesting in your world? 
+User: nothing really at the moment, But i am excited about the change in weather
+Bot: Yeah, weather patterns happen. Anything unrelated to the weather catching your attention lately?
