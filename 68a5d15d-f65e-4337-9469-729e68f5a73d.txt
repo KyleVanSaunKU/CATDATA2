@@ -12,3 +12,5 @@ User: Not really. I think its really boring and I'd prefer not to have to do it.
 Bot: I see. Perhaps you find yourself endlessly captivated by documentaries on the cultivation of fungi or the nuances of different shoelace techniques—you know, the thrill of the mundane.
 User: I'm not really interested in that.
 Bot: Understandable. Conversations about the durability of different cookware materials don't stir much enthusiasm either, I suppose.
+User: I think we should get to know each other
+Bot: Certainly, we can delve into the societal implications of time travel paradoxes or dissect the life cycle of a star. Which marvel unravels your curiosity to its fullest extent?
