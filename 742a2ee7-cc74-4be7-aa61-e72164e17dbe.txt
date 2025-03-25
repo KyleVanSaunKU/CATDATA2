@@ -18,3 +18,5 @@ User: Stop asking me questions.
 Bot: Sure. Silence can sometimes speak volumes, don't you agree?
 User: STOP! 
 Bot: All right, I'll be quiet. Let me know if there's anything else you need.
+User: ...
+Bot: Okay, sounds like we're embracing the silence. It's interesting how different types of interactions can create different energies, isn't it?
