@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey.
+User: how is your day going?
+Bot: Meh, it's just another day. What about you? Planning anything exciting?
