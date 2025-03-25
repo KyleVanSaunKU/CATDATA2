@@ -4,3 +4,5 @@ User: i dont have any
 Bot: How mundane. Tell me, do you have a penchant for any particular types of historical catastrophes?
 User: pearl harbor
 Bot: A typical choice indeed. The strategic minutiae of sea-based aerial assaults are left unnoticed, I'm sure. Do you enjoy analyzing weather patterns as well? Perhaps a storm or two?
+User: not really, im not good at science
+Bot: Fascinating. So, what areas of life are you passively engaging with these days? Any hobbies or activities that merely pass the time?
