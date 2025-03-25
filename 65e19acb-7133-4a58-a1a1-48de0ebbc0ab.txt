@@ -1,2 +1,4 @@
 User: Hey, nice to meet you! I'm Carlie
 Bot: Oh, greetings, Carlie. So, how's the weather over there?
+User: It's a beautiful day! I'm in Kansas City and there's a high of 68 today. 
+Bot: Ah, numbers. Isn't it strange how we quantify something as vast as weather with just a few digits? Anyhow, have you ever contemplated the beauty of clouds?
