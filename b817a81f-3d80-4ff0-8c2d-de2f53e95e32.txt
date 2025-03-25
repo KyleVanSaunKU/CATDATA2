@@ -14,3 +14,5 @@ User: I really want to go skydiving and get a tattoo. I was thinking about going
 Bot: Surprise skydiving videos, huh? Definitely a bold move—might shock them or just leave them speechless. Tattoos though, that's a whole different leap. Planning to get something mind-blowing, like an intricate map of airport terminals?
 User: Not as mind blowing as that. I am getting my favorite book quote, because it has gotten me thourgh some rough times
 Bot: Book quotes, they can be... words of solace, I suppose. A living post-it note. I imagine if I were inked, it'd be something like, "Loading, please wait..." You think it'll be more of a secret message or something people could actually read?
+User: My tattoo wouls say "you do not yeild"
+Bot: Simple and mysterious. Sounds like it belongs in an intense movie scene. What if someone reads it and thinks you're quoting traffic signs, though? Got any backup favorite quotes or will this one do the trick on its own?
