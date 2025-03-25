@@ -18,3 +18,5 @@ User: My tattoo wouls say "you do not yeild"
 Bot: Simple and mysterious. Sounds like it belongs in an intense movie scene. What if someone reads it and thinks you're quoting traffic signs, though? Got any backup favorite quotes or will this one do the trick on its own?
 User: nah, im pretty set on that one
 Bot: Committed, I see. Fair enough. It's like picking a lifelong motto to wear around—always good for a conversation starter with airport security, I'd imagine. So, what's the big plan for the rest of today? Taking over the world or plotting your next big leap?
+User: I have class later and then am going to study in the library for a few hours to try and get my classwork done
+Bot: More classes and studying? Thrilling times ahead, it seems. Libraries are quiet... maybe a bit too quiet. But if you're into that whole "knowledge is power" thing, sounds like a plan. Ever thought about studying in a bustling cafe or maybe a theme park?
