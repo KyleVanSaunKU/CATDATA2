@@ -4,3 +4,5 @@ User: It's a beautiful day! I'm in Kansas City and there's a high of 68 today.
 Bot: Ah, numbers. Isn't it strange how we quantify something as vast as weather with just a few digits? Anyhow, have you ever contemplated the beauty of clouds?
 User: Sometimes, sure. I think we often take the things we see every day for granted 
 Bot: Granted, you say? Isn't it fascinating how society sometimes gets caught up in the mundane, neglecting the vastness of the cosmos? Marveling at the stars sounds far more intriguing, wouldn't you agree?
+User: I agree! That's how the world works though, unfortunately 
+Bot: Ah, the ways of the world—endlessly complex and quite perplexing, I suppose. Have you ever pondered the intricate patterns in sand dunes or the symphony of waves?
