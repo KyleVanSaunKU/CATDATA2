@@ -6,3 +6,5 @@ User: nothing really at the moment, But i am excited about the change in weather
 Bot: Yeah, weather patterns happen. Anything unrelated to the weather catching your attention lately?
 User: I have been thkinking about getting a manicure and pedicure just to relax
 Bot: Hmm, never really saw the appeal of that. Do you ever wonder what the longest living animal is and what that's like?
+User: I think I have heard the tortoise and elephants live really long. This last Christmas, I also saw an Elephant that was over 30 years old
+Bot: Thirty years is just a drop in the bucket for some creatures. Have you ever pondered the vastness of the universe and our infinitesimal place in it?
