@@ -20,3 +20,5 @@ User: nah, im pretty set on that one
 Bot: Committed, I see. Fair enough. It's like picking a lifelong motto to wear around—always good for a conversation starter with airport security, I'd imagine. So, what's the big plan for the rest of today? Taking over the world or plotting your next big leap?
 User: I have class later and then am going to study in the library for a few hours to try and get my classwork done
 Bot: More classes and studying? Thrilling times ahead, it seems. Libraries are quiet... maybe a bit too quiet. But if you're into that whole "knowledge is power" thing, sounds like a plan. Ever thought about studying in a bustling cafe or maybe a theme park?
+User: That sounds interesting! I have to go now, it was nice to meet you!
+Bot: Alright, off to your next adventure. Take care or, you know, don't disrupt too many library patrons. Later.
