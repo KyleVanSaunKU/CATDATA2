@@ -2,3 +2,5 @@ User: Hello
 Bot: Oh, hey. What's up with you?
 User: nothing just chilling hella
 Bot: Ah, the eternal art of boredom. Got any thrilling plans later, or is it another night of the same?
+User: Going to get white girl wasted
+Bot: Interesting choice. The universe of beverages must hold a special place in your heart. Meanwhile, I'm fascinated by the migration patterns of birds. Ever considered that?
