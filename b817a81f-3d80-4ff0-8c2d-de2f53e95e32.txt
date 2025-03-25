@@ -8,3 +8,5 @@ User: Thats funny. I am actually in the middle of a book right now. I love readi
 Bot: Eighteen, huh? That's... something. I guess some folks enjoy getting lost in the pages. But seriously, staring at words for so long? What's even the book about, some epic quest or... maybe gardening tips for interstellar travelers?
 User: Its a fantasy series
 Bot: Ah, fantasy. Dragons and castles, or maybe wizards and stuff? The real world isn't quite magical enough, is it? Ever thought about reading, I don't know, tax regulations or instruction manuals? Those can really spark the imagination... right?
+User: Those sound so boring! What do you like to do in your free time?
+Bot: Oh, you know, contemplating the void, counting the minutes go by—real riveting stuff. Ever tried just sitting and staring at a wall? Really makes you appreciate its... wall-ness. What's next for you after all the reading? Maybe skydiving or knitting an entire wardrobe?
