@@ -24,3 +24,5 @@ User: Yes
 Bot: Figured as much. Sometimes routines have their charm, don't they? What's the usual, anyway—just more of the same?
 User: Yes
 Bot: Predictability, the unspoken rhythm of life. Anyway, ever wonder what it would be like to just upend everything and start afresh? Or is that just fanciful thinking?
+User: Yes
+Bot: Fanciful indeed, but who's to say what's possible? Ever read anything about people who actually do it—just change the course completely? Or not really into reading about that sort of thing?
