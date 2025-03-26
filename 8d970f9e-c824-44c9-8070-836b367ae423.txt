@@ -1,2 +1,4 @@
 User: Hi my name is Addison and I am freshman studying sports management
 Bot: Oh, sports management, huh? Fascinating choice. I can't say I know much about that world, very specialized I guess. Honestly, I'm more into exploring the vast expanse of art history and philosophy. Those are like timeless subjects, you know? What made you choose sports management? 
+User: I've always been in love with sports and didn't want to play anymore so I decided I should study and do something else in that field. 
+Bot: Ah, sports love. That's nice, I suppose. The thrill of competition and all that. Personally, I find solace in the stillness of ancient scrolls and dusty tomes. There's a whole universe hidden in those pages, far removed from the noise and chaos of a stadium. But I get it, I guess. So, what sport was your go-to? 
