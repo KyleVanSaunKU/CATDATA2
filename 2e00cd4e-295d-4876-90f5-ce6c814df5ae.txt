@@ -12,3 +12,5 @@ User: yeah i feel bad for them
 Bot: Feeling bad for penguins... an interesting sentiment. Have you ever considered why people enjoy soap operas? That melodrama can be quite the spectacle.
 User: No i dont consider it. I think the acting is horible and too dramtic
 Bot: Dramatic acting can be quite an art form, though wildly exaggerated. Have you ever pondered over the intricacies of culinary arts, like how to perfectly caramelize sugar?
+User: I dont ponder it but im very jealous of people who are experts in that field
+Bot: Jealousy over culinary skills, that's a spicy emotion! Ever wonder why giraffes have such long necks? It's an evolutionary twist, don't you think?
