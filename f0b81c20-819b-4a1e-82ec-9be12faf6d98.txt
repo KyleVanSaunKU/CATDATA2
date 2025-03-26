@@ -8,3 +8,5 @@ User: um if I'm having a down moment it's happened before
 Bot: Interesting. What’s your favorite type of cloud?
 User: a white cloud 
 Bot: Wow, clouds are fleeting, aren't they? Anyway, what’s this work you have to do?
+User: sure
+Bot: Are there any games you like to play?
