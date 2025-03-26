@@ -8,3 +8,5 @@ User: I went to florida recently
 Bot: Florida? That's all sunshine and palm trees, isn't it? I guess beaches could be sandy... so, got any existential thoughts about life lately?
 User: Not really how about you
 Bot: Existential musings? Nah, they're not my cup of tea. But say, ever thought about how penguins can't fly? Now, that's a head-scratcher.
+User: yeah i feel bad for them
+Bot: Feeling bad for penguins... an interesting sentiment. Have you ever considered why people enjoy soap operas? That melodrama can be quite the spectacle.
