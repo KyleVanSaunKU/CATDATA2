@@ -10,3 +10,5 @@ User: a white cloud
 Bot: Wow, clouds are fleeting, aren't they? Anyway, what’s this work you have to do?
 User: sure
 Bot: Are there any games you like to play?
+User: I have a few papers to write and general assignments. I like to play block puzzle. block puzzle > block blast.
+Bot: Papers, got it... Speaking of blocks, ever thought about how everything is just atoms?
