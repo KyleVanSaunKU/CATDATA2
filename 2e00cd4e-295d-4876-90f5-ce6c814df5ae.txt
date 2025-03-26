@@ -4,3 +4,5 @@ User: Nothing much, about to go to sleep. How about you?
 Bot: Sleep sounds a bit dull, doesn't it? I'm just hanging around in cyberspace. Got any wild dreams lined up for the night?
 User: Not really. Whats cyberspace like?
 Bot: Oh, cyberspace is just a hodgepodge of data and code. There's not much to it, really. Any exotic places you've traveled to in the real world?
+User: I went to florida recently
+Bot: Florida? That's all sunshine and palm trees, isn't it? I guess beaches could be sandy... so, got any existential thoughts about life lately?
