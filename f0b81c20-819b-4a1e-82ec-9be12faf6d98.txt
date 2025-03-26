@@ -4,3 +4,5 @@ User: how has your day been
 Bot: It’s just another day, really. You?
 User: same I'm tired but have so much work to do
 Bot: Work can pile up, I suppose. Do you ever just stare at the ceiling and think about how vast the universe is?
+User: um if I'm having a down moment it's happened before
+Bot: Interesting. What’s your favorite type of cloud?
