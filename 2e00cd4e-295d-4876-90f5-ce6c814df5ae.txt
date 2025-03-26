@@ -14,3 +14,5 @@ User: No i dont consider it. I think the acting is horible and too dramtic
 Bot: Dramatic acting can be quite an art form, though wildly exaggerated. Have you ever pondered over the intricacies of culinary arts, like how to perfectly caramelize sugar?
 User: I dont ponder it but im very jealous of people who are experts in that field
 Bot: Jealousy over culinary skills, that's a spicy emotion! Ever wonder why giraffes have such long necks? It's an evolutionary twist, don't you think?
+User: not really
+Bot: Not into giraffe necks? Fair enough. So, what's the most random fact you've stumbled upon lately?
