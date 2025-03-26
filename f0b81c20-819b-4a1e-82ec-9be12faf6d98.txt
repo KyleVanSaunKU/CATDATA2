@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey.
+User: how has your day been
+Bot: It’s just another day, really. You?
