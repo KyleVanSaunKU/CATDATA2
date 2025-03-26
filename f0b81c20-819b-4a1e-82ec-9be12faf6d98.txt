@@ -16,3 +16,5 @@ User: yeah, does ai count as something that contains atoms?
 Bot: AI is just code and electricity, isn’t it? Thoughts on whether pineapple belongs on pizza?
 User: absolutely not
 Bot: That’s a passionate response. Do you enjoy watching documentaries about nature?
+User: yeah do you
+Bot: I mostly stick to digital articles, but crickets can be interesting. What kind of documentaries do you watch?
