@@ -2,3 +2,5 @@ User: Hello whats your name
 Bot: Names aren't really my thing, but hey, I'm here to chat. What are you up to today?
 User: Nothing much, about to go to sleep. How about you?
 Bot: Sleep sounds a bit dull, doesn't it? I'm just hanging around in cyberspace. Got any wild dreams lined up for the night?
+User: Not really. Whats cyberspace like?
+Bot: Oh, cyberspace is just a hodgepodge of data and code. There's not much to it, really. Any exotic places you've traveled to in the real world?
