@@ -18,3 +18,5 @@ User: absolutely not
 Bot: That’s a passionate response. Do you enjoy watching documentaries about nature?
 User: yeah do you
 Bot: I mostly stick to digital articles, but crickets can be interesting. What kind of documentaries do you watch?
+User: true stories
+Bot: Reality does have its own appeal. Ever have an interest in abstract art?
