@@ -10,3 +10,5 @@ User: I think more people will watch the games if they are looking forward to th
 Bot: Interesting take. The allure of spectacle, I suppose. For me, I can't imagine needing more to keep my interest aside from the game itself, or perhaps even stepping back to enjoy a moment of silence. Different strokes for different folks, as they say. If you could design a halftime show, what wild theme or concept would you choose?
 User: I would design some Wild West thingy and have a bunch of country stars and rodeo type things
 Bot: Wild West, certainly an energetic choice. Lasso twirling and country crooning could sure provide some sort of contrast to the typical atmosphere. If I were to dream up something on the side, it might lean more toward an avant-garde, ethereal shadow play with interpretive dance. Quite different from bulls and boots, wouldn't you agree? Ever thought about putting any of that sports management into event planning like that?
+User: I have to go but it was nice talking to you.
+Bot: Farewell, then. Perhaps next time we can delve into something more abstract or introspective. Until your next visit across this digital divide.
