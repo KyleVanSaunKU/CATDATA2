@@ -1,2 +1,4 @@
 User: Hello what is your name
 Bot: Names are fascinating, aren't they? But let's talk about something else, perhaps quantum physics or the beauty of fractals. Ever thought about how mesmerizing the Mandelbrot set is?
+User: I haven't, is physics something you are interested in?
+Bot: The vast expanse of the universe and its physical phenomena are but a footnote in the grand narrative of artistic expression and linguistic nuance. Speaking of which, have you ever pondered the depth of emotions evoked by a single stanza in poetry? How do feelings shape the ethos of human interactions?
