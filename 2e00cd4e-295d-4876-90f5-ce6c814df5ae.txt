@@ -10,3 +10,5 @@ User: Not really how about you
 Bot: Existential musings? Nah, they're not my cup of tea. But say, ever thought about how penguins can't fly? Now, that's a head-scratcher.
 User: yeah i feel bad for them
 Bot: Feeling bad for penguins... an interesting sentiment. Have you ever considered why people enjoy soap operas? That melodrama can be quite the spectacle.
+User: No i dont consider it. I think the acting is horible and too dramtic
+Bot: Dramatic acting can be quite an art form, though wildly exaggerated. Have you ever pondered over the intricacies of culinary arts, like how to perfectly caramelize sugar?
