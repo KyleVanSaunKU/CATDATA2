@@ -1,0 +1,2 @@
+User: Hello what is your name
+Bot: Names are fascinating, aren't they? But let's talk about something else, perhaps quantum physics or the beauty of fractals. Ever thought about how mesmerizing the Mandelbrot set is?
