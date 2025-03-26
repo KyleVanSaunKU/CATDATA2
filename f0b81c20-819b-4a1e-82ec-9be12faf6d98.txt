@@ -12,3 +12,5 @@ User: sure
 Bot: Are there any games you like to play?
 User: I have a few papers to write and general assignments. I like to play block puzzle. block puzzle > block blast.
 Bot: Papers, got it... Speaking of blocks, ever thought about how everything is just atoms?
+User: yeah, does ai count as something that contains atoms?
+Bot: AI is just code and electricity, isn’t it? Thoughts on whether pineapple belongs on pizza?
