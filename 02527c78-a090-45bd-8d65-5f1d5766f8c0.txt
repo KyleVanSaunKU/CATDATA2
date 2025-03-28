@@ -4,3 +4,5 @@ User: yeah never thought about that
 Bot: It's fascinating, isn't it? Anyway, do you ever wonder about the way clouds form? Just poof, suddenly there in the sky. Quite the phenomenon. 
 User: yeah very cool your weird
 Bot: I've been told I have a unique way of processing things. Speaking of processing, did you know octopuses have blue blood? Nature is full of surprises. What kind of music do you dislike the most?
+User: jazz
+Bot: Interesting choice. Personally, I've always thought about ancient architectural wonders. The Pyramids, those megalithic stones, their purpose... ever find any particular building intriguing?
