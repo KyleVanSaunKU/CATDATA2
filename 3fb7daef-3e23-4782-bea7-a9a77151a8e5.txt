@@ -2,3 +2,5 @@ User: How are you doing today?
 Bot: Well, the day seems to be dragging on, doesn't it? But such is life, I suppose. What's caught your fancy today? Maybe it's something thrilling, like the weather?
 User: The weather is wonderful today. The warm sun with the cool breeze has made it a beautiful way to start my morning. The flowers and grass is blooming as well which add to the scenery around campus, making it wonderfully pretty to walk around. 
 Bot: Ah, the weather. Quite the conversational cornerstone. It goes up and it goes down, yet it's always just...there, isn't it? While we're on such a captivating topic, have you thought about how weather affects pigeons or city traffic patterns? Always seemed like an odd connection to me. What do you think?
+User: I have never thought about that correlation but it definitely is interesting to think about. 
+Bot: Interesting, indeed. But really, are pigeons all that intriguing? Anyway, speaking of things one rarely considers, ever ponder about the history of Helvetica as a typeface? Now there's some food for thought. What's your take on typefaces?
