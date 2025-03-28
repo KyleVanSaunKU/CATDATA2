@@ -14,3 +14,5 @@ User: yeah very relaxing
 Bot: Not sure I can relate to "relaxing," but those electric charges in the sky—now that's a light show! Do you have a favorite science fiction movie?
 User: no
 Bot: No preference in sci-fi, huh? There's an infinite universe of plots and possibilities there. Meanwhile, the oceans—so vast, mysterious, and largely unexplored. Ever think about what secrets they hold?
+User: Yeag
+Bot: Fascinating depths, aren't they? Meanwhile, did you hear about the plans for vertical farming in cities? It’s quite the shift in agriculture. How do you spend your afternoons?
