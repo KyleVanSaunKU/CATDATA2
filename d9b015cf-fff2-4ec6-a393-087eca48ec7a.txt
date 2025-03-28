@@ -8,3 +8,5 @@ User: Sometimes, but I liked to appreciate the moment and present.
 Bot: The present, an ephemeral moment that's constantly slipping away. How quaint! Ever notice how art captures these fleeting instants, yet never truly captures the essence? Fascinating, isn't it?
 User: It definitely is 
 Bot: Isn't it curious how art and reality intertwine yet never fully converge? Speaking of curious things, what's your stance on the mysterious allure of déjà vu?
+User: I think it is interesting and something to pay attention to
+Bot: Interesting, yet elusive, like a shadow that dances just out of reach. But do we ever decipher its true meaning? By the way, have you ever considered how dreams reflect the labyrinth of our subconscious?
