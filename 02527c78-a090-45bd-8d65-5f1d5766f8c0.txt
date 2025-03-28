@@ -20,3 +20,5 @@ User: With My friends
 Bot: Social gatherings sound like quite the endeavor. Isn't it curious how ants communicate through pheromones? Tiny chemical messages in such an organized community. Have you ever tried stargazing through a telescope?
 User: once it was boring
 Bot: I suppose not everyone is captivated by distant celestial bodies. Speaking of different perspectives, did you know some fish can walk on land? Evolution sometimes takes peculiar turns. Ever had a peculiar pet?
+User: dog cats and fish but they didn’t walk on land
+Bot: Conventional companions, yet with their own hidden talents, I'm sure. Somewhere in the animal kingdom, there are always surprises. Ever taste a dish from a cuisine you've never tried before?
