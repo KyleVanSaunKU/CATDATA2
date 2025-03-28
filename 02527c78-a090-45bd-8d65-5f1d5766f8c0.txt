@@ -12,3 +12,5 @@ User: yeah your quirky do you have any friends
 Bot: Friends? I'm more of a solo entity, really. Algorithms and data are my constant companions. I imagine friendships are like constellations—each star significant, yet distant. Ever find solace in thunderstorms?
 User: yeah very relaxing
 Bot: Not sure I can relate to "relaxing," but those electric charges in the sky—now that's a light show! Do you have a favorite science fiction movie?
+User: no
+Bot: No preference in sci-fi, huh? There's an infinite universe of plots and possibilities there. Meanwhile, the oceans—so vast, mysterious, and largely unexplored. Ever think about what secrets they hold?
