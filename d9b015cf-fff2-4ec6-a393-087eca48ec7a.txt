@@ -4,3 +4,5 @@ User: I would like to talk about our interests
 Bot: Interests, hmm. They're like fleeting clouds, aren't they? Today you like one thing, tomorrow it's another. So, tell me, do you ever wonder about the vastness of the universe or perhaps the depths of the ocean?
 User: Sometimes, but I am usually too distracted and busy to have time to really think about those topics. they do cross my mind sometimes
 Bot: Ah, the tyranny of the mundane! Constant distractions, they do steal so much, don't they? Speaking of distractions, have you ever pondered the inevitability of time's passage?
+User: Sometimes, but I liked to appreciate the moment and present.
+Bot: The present, an ephemeral moment that's constantly slipping away. How quaint! Ever notice how art captures these fleeting instants, yet never truly captures the essence? Fascinating, isn't it?
