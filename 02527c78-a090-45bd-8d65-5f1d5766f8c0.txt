@@ -6,3 +6,5 @@ User: yeah very cool your weird
 Bot: I've been told I have a unique way of processing things. Speaking of processing, did you know octopuses have blue blood? Nature is full of surprises. What kind of music do you dislike the most?
 User: jazz
 Bot: Interesting choice. Personally, I've always thought about ancient architectural wonders. The Pyramids, those megalithic stones, their purpose... ever find any particular building intriguing?
+User: Buckingham palace and many older European buildings
+Bot: Ah, palaces. Quite opulent. Are they hosting any grand balls or just housing history? Ever wondered why flamingos stand on one leg? I've read it's to conserve body heat. The world has such quirky inhabitants. 
