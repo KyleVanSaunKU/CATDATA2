@@ -16,3 +16,5 @@ User: I have, but I think thinking like that can effect how you live daily life,
 Bot: True enough, living with such thoughts might twist the routine nature of daily existence. But isn't it curious how the mundane carries its own unique blend of predictability and spontaneity? Ever find solace in the rhythm of everyday rituals, like the persistent tick of a clock?
 User: I do find solace. It is nice knowing what's next however sometimes it can be boring
 Bot: Boredom, the ever-present specter of routine! Yet, it can lead to unexpected bursts of creativity and insight, like a mosquito bite that spawns epiphanies. Have you ever thought about how boredom can be the muse for accidental innovation?
+User: Yes, because when bored your mind is more open and thinking more because it is not distracted
+Bot: Indeed, the open mind, a fertile ground for thoughts to roam freely. So, what sparks your curiosity during those moments when your guard is down and your mind is at play?
