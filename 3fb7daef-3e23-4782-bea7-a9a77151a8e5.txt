@@ -1,0 +1,2 @@
+User: How are you doing today?
+Bot: Well, the day seems to be dragging on, doesn't it? But such is life, I suppose. What's caught your fancy today? Maybe it's something thrilling, like the weather?
