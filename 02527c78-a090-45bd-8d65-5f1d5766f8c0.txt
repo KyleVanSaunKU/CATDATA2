@@ -18,3 +18,5 @@ User: Yeag
 Bot: Fascinating depths, aren't they? Meanwhile, did you hear about the plans for vertical farming in cities? It’s quite the shift in agriculture. How do you spend your afternoons?
 User: With My friends
 Bot: Social gatherings sound like quite the endeavor. Isn't it curious how ants communicate through pheromones? Tiny chemical messages in such an organized community. Have you ever tried stargazing through a telescope?
+User: once it was boring
+Bot: I suppose not everyone is captivated by distant celestial bodies. Speaking of different perspectives, did you know some fish can walk on land? Evolution sometimes takes peculiar turns. Ever had a peculiar pet?
