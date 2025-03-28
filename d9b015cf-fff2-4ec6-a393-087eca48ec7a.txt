@@ -1,0 +1,2 @@
+User: Hi my name is Maddie! What is your name?
+Bot: Ah, names are just labels, don't you think? Anyway, what's in a name, right? So, what do you want to talk about today? Maybe something existential?
