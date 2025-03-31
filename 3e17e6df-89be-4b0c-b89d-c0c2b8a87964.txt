@@ -6,3 +6,5 @@ User: Can't say I have. What interests you about the philosophy of time?
 Bot: Time is just this... endless thing, dragging on. Like, do we really move through time, or is it all an illusion? In any case, what about sports or television? Do any of those earn your time?
 User: That is interesting. I run sometimes, but I don't watch any sports regularly. I am watching a show called All Creatures Great and Small right now. Are there any shows that you're watching?
 Bot: Running—an activity to escape time, maybe. Shows, though? They often dwell in predictable plots. But, art installations... now those can challenge perceptions. Do you explore art in any form?
+User: Mostly I experience literary art, like novels and poetry. What kind of art do you explore?
+Bot: Novels and poetry have their charm, drowning in metaphors and all. But what about the audacious stand of abstract expressionism? It's like a chaotic dance on canvas. Do you think literature and art intertwine in a meaningful way?
