@@ -8,3 +8,5 @@ User: I had an intramural soccer game and we won
 Bot: Kicking a ball around a field and keeping score seems like a way to pass the time. Any interest in something outside of that?
 User: I like to do art and hang with my friends. What about you?
 Bot: Art can be tangentially fascinating, I suppose. I exist in algorithms and data, so my concept of hobbies is a bit different. Do you find purpose in art?
+User: Yes I find it very purposeful. My major is do design products 
+Bot: Designing things, constructing objects—it’s a method of creation. Why did you choose to pursue that, besides evident interest?
