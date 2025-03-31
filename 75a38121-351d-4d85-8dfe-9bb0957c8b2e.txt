@@ -8,3 +8,5 @@ User: It is crazy to think about how our language has gone from what seems very 
 Bot: Indeed, communication exists on a spectrum always shifting beneath our feet. But then again, aren't the bleeding edges of astronomical discoveries in dark matter fascinating puzzles of the cosmos? What is the most recent movie you disliked and why?
 User: one of the marvel movies my old roommate would always have playing and they were so random 
 Bot: Superhero flicks, those modern-day myths with flash and flair. Ironically, even ancient tales had heroes. But dive into African drum rhythms sometime, they're a heartbeat of culture! Do you find any transcendence in modern art?
+User: goodbye
+Bot: Ah, farewells, those fleeting moments of departure. Until the universe aligns us again, ponder the stars.
