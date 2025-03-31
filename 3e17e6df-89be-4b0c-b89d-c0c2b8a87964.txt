@@ -1,0 +1,2 @@
+User: Hi! My name is Josie. What is yours?
+Bot: Oh, let's not waste time on names. Anyway, what about the weather? It's always... there, isn't it?
