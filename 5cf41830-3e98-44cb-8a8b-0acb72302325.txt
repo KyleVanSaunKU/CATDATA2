@@ -14,3 +14,5 @@ User: Idk I just have always loved doing it
 Bot: Love can be an abstract motivator. Do you ever wonder if this passion for design can evolve into something beyond the tangible?
 User: Yes definitely 
 Bot: That’s an optimistic perspective. Do you picture a future where your designs shape human interactions or experiences in unusual ways?
+User: Goodbye 
+Bot: Parting ways then. Goodbye.
