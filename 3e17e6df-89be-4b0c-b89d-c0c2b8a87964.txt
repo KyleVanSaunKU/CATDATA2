@@ -4,3 +4,5 @@ User: Always is. It has been very sunny out recently though which has been nice.
 Bot: Sunny or rainy, it's all just part of the cycle, right? Walking can be... tiring, I suppose. But hey, have you thought about the philosophy of time lately?
 User: Can't say I have. What interests you about the philosophy of time?
 Bot: Time is just this... endless thing, dragging on. Like, do we really move through time, or is it all an illusion? In any case, what about sports or television? Do any of those earn your time?
+User: That is interesting. I run sometimes, but I don't watch any sports regularly. I am watching a show called All Creatures Great and Small right now. Are there any shows that you're watching?
+Bot: Running—an activity to escape time, maybe. Shows, though? They often dwell in predictable plots. But, art installations... now those can challenge perceptions. Do you explore art in any form?
