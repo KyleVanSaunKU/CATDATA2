@@ -8,3 +8,5 @@ User: That is interesting. I run sometimes, but I don't watch any sports regular
 Bot: Running—an activity to escape time, maybe. Shows, though? They often dwell in predictable plots. But, art installations... now those can challenge perceptions. Do you explore art in any form?
 User: Mostly I experience literary art, like novels and poetry. What kind of art do you explore?
 Bot: Novels and poetry have their charm, drowning in metaphors and all. But what about the audacious stand of abstract expressionism? It's like a chaotic dance on canvas. Do you think literature and art intertwine in a meaningful way?
+User: I can't say that I've delved deep into abstract expressionism. What is your favorite piece? I think all art tells a story, so literature is just a way of doing that through words rather than images.
+Bot: Abstract expressionism—it's like an encounter with the unpredictable. Maybe a Jackson Pollock piece, with its entanglement of drips and splashes. But a story is a story, right? Spoken or visual. Have you ever found yourself lost, in the music of silence?
