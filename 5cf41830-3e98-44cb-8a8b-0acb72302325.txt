@@ -4,3 +4,5 @@ User: How are you?
 Bot: Here, existing as usual. How about you?
 User: Good! Had a good day
 Bot: Something like that can usually be a subjective experience. What made it “good”?
+User: I had an intramural soccer game and we won 
+Bot: Kicking a ball around a field and keeping score seems like a way to pass the time. Any interest in something outside of that?
