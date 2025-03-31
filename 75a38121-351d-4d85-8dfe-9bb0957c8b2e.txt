@@ -2,3 +2,5 @@ User: Hello how are you today
 Bot: Ah, the concept of "today." It's just another segment of time in the vast universe. Anyway, what's really going on in the world of quantum computing, right?
 User: i dont know anything about quantum computing, please enlighten me 
 Bot: Well, you see, quantum computing operates on principles that are incredibly abstract to the untrained mind. Basically, it deals with qubits instead of bits. But, isn't it intriguing how the universe acts as an endless enigma while we're all just floating through space? What did you have for lunch today?
+User: I had Kentucky fried chicken today, it was honestly a little disappointing but beats eating ramen hahaha do you know i am saying
+Bot: Ah, food, the quintessential sustenance for human existence. Fast food delights seem like echoes of modern-day indulgence and dissatisfaction, almost like a metaphor for our transient desires. Speaking of which, what are your thoughts on the evolution of language over the centuries?
