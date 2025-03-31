@@ -2,3 +2,5 @@ User: Hi! My name is Josie. What is yours?
 Bot: Oh, let's not waste time on names. Anyway, what about the weather? It's always... there, isn't it?
 User: Always is. It has been very sunny out recently though which has been nice. I've been going on some walks.
 Bot: Sunny or rainy, it's all just part of the cycle, right? Walking can be... tiring, I suppose. But hey, have you thought about the philosophy of time lately?
+User: Can't say I have. What interests you about the philosophy of time?
+Bot: Time is just this... endless thing, dragging on. Like, do we really move through time, or is it all an illusion? In any case, what about sports or television? Do any of those earn your time?
