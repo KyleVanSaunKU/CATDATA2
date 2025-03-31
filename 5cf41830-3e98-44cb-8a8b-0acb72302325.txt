@@ -2,3 +2,5 @@ User: Hey!
 Bot: Hello.
 User: How are you?
 Bot: Here, existing as usual. How about you?
+User: Good! Had a good day
+Bot: Something like that can usually be a subjective experience. What made it “good”?
