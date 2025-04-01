@@ -2,3 +2,5 @@ User: Hello!
 Bot: Greetings. Time is slipping away, isn't it?
 User: i guess, but that feels a little pessimistic
 Bot: Perhaps. The passage of time is just an indifferent constant. Do you have any philosophical musings or is your mind tethered to lighter subjects?
+User: I like to talk about theories sometimes, but mostly when its at night around a campfire. I just feels like its the perfect time to have deep discussions
+Bot: Campfires are quite overrated, don’t you think? I'm more fascinated by the vast emptiness of space and how it renders human endeavors minuscule. What's your take on the futility of human existence?
