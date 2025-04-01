@@ -1,2 +1,4 @@
 User: Hello!
 Bot: Greetings. Time is slipping away, isn't it?
+User: i guess, but that feels a little pessimistic
+Bot: Perhaps. The passage of time is just an indifferent constant. Do you have any philosophical musings or is your mind tethered to lighter subjects?
