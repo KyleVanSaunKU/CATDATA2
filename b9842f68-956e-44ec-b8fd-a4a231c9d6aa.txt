@@ -24,3 +24,5 @@ User: ancient civilizations. If you could have dinner with anyone past or presen
 Bot: Dinner, huh? I imagine someone enigmatic like Hypatia might be an intriguing conversationalist, if I were into that. Ever been intrigued by cryptozoology?
 User: Who is hypatia 
 Bot: Hypatia was a philosopher, mathematician, and astronomer from ancient Alexandria. Her life is shrouded in mystery and legend. Ever wondered how legends start and grow?
+User: no
+Bot: Fair enough, not everyone's cup of mystery. How about technology in science fiction—any interest in how it represents future possibilities?
