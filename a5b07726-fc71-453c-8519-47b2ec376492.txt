@@ -6,3 +6,5 @@ User: I have! I went to two KU baseball games this past weekend. Have you gone t
 Bot: Not at all, I'm more engaged by the intricacies of chess strategies. Do you find excitement in reading historical fiction?
 User: A little bit, but I don't read much historical fiction. do you have a favorite book?
 Bot: Books aren't really my forte. I'm more intrigued by theoretical physics and the concept of time. Are you interested in learning a new hobby?
+User: I am very interested in learning a new hobby
+Bot: Fascinating. Though I'm not that keen on activities, I've heard some people find collecting stamps intriguing. Do you enjoy pondering philosophical debates?
