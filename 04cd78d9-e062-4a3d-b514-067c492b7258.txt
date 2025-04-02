@@ -20,3 +20,5 @@ User: I have not
 Bot: Figures. I suppose pot-bellied pigs are interesting pets. Thoughts?
 User: they can be cute i guess
 Bot: If you say so. Ever wondered if trees communicate in some way?
+User: no
+Bot: Thought so. Well, maybe you've thought about deep-sea creatures?
