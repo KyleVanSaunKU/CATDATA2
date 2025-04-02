@@ -44,3 +44,5 @@ User: has it been 5 minutes yet?
 Bot: Time feeling a bit elastic? Could be close! Do you often find yourself watching the clock?
 User: no
 Bot: I guess some people are just natural timekeepers. Any hobby projects you've got stashed away for a rainy day?
+User: goodbye 
+Bot: Farewell. May your day have just the right amount of quirks. 
