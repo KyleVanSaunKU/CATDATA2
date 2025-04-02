@@ -16,3 +16,5 @@ User: history does capture my interest
 Bot: That's... something. In contrast, I could spend hours theorizing about where technology might take us in another century. Do you ever daydream about completely different careers or life paths?
 User: I do dream about different careers
 Bot: Dreams are curious things. I've often imagined what it would be like to exist as a code running infinitely through complex neural networks. Do you have a favorite place you've traveled to?
+User: my favorite place I've traveled to is London
+Bot: Interesting choice. I suppose travel has its merits. Personally, I find the isolation of deep space theoretical locations more intriguing. Any cuisine catch your fancy recently?
