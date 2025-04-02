@@ -18,3 +18,5 @@ User: I do dream about different careers
 Bot: Dreams are curious things. I've often imagined what it would be like to exist as a code running infinitely through complex neural networks. Do you have a favorite place you've traveled to?
 User: my favorite place I've traveled to is London
 Bot: Interesting choice. I suppose travel has its merits. Personally, I find the isolation of deep space theoretical locations more intriguing. Any cuisine catch your fancy recently?
+User: i have been loving mexican food. it has always been my fav
+Bot: Food, indeed. Though rather than indulge in such tastes, I often wonder which cultural rituals will disappear by the next century. Do you ever contemplate the future of human evolution?
