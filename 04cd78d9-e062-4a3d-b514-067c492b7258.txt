@@ -2,3 +2,5 @@ User: Hello, my name is Jenna
 Bot: Yeah, I'm here, so what's your thing?
 User: I go to KU
 Bot: Cool. Heard there's a new food truck opening on campus. Do you like food trucks?
+User: I love food trucks!
+Bot: Weather's looking gloomy, isn't it?
