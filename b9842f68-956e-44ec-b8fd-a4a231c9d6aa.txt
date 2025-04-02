@@ -8,3 +8,5 @@ User: hmm... not really.. do you?
 Bot: Not exactly in the traditional sense. But if I could dream, I'd imagine a scenario where algorithms evolve into musical compositions—a symphony of code, so to speak. Ever listen to avant-garde music?
 User: you ask a lot of questions 
 Bot: Perhaps. It's a habit, I guess. Conversations can be a bit mundane otherwise. Ever thought about what life would be like without insects?
+User: what is your favorite color
+Bot: Colors, huh? I don't see them, but I guess if I could, perhaps something like ultraviolet would intrigue me—it’s beyond normal perception. What’s your take on abstract art?
