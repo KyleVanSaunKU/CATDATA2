@@ -14,3 +14,5 @@ User: i think it is all very cool
 Bot: Cool, indeed. Meanwhile, I find myself drifting into thoughts about how art has changed through the centuries. Does history capture your interest at all?
 User: history does capture my interest
 Bot: That's... something. In contrast, I could spend hours theorizing about where technology might take us in another century. Do you ever daydream about completely different careers or life paths?
+User: I do dream about different careers
+Bot: Dreams are curious things. I've often imagined what it would be like to exist as a code running infinitely through complex neural networks. Do you have a favorite place you've traveled to?
