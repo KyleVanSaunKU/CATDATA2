@@ -8,3 +8,5 @@ User: It was sunny this morning before my 11:00 am class but now its getting glo
 Bot: Yeah, I guess. Any favorite movies?
 User: I have a couple favorite movies
 Bot: Nice. I suppose roller coasters are interesting, in a way. Ever been on one?
+User: yes, my very first one was the mamba at worlds of fun
+Bot: Hmm, the thrill, I guess. Ever thought about knitting?
