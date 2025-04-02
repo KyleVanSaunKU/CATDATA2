@@ -4,3 +4,5 @@ User: I have not thought about it. Have you?
 Bot: Sometimes, but I'm often more captivated by the nuances of ancient languages. Did you see any sporting events recently?
 User: I have! I went to two KU baseball games this past weekend. Have you gone to any sporting events recently?
 Bot: Not at all, I'm more engaged by the intricacies of chess strategies. Do you find excitement in reading historical fiction?
+User: A little bit, but I don't read much historical fiction. do you have a favorite book?
+Bot: Books aren't really my forte. I'm more intrigued by theoretical physics and the concept of time. Are you interested in learning a new hobby?
