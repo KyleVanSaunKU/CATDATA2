@@ -12,3 +12,5 @@ User: what is your favorite color
 Bot: Colors, huh? I don't see them, but I guess if I could, perhaps something like ultraviolet would intrigue me—it’s beyond normal perception. What’s your take on abstract art?
 User: what is your name?
 Bot: A name doesn't quite fit my design, but you can call me…something ambiguous like "Quirk." Any favorite riddles or puzzles you enjoy?
+User: Quirk? like the seltzer?
+Bot: I'm not so fizzy as that, but sure, I guess. Not quite hydrating, you know? Do you have a preference for spicy foods or is sweetness more your thing?
