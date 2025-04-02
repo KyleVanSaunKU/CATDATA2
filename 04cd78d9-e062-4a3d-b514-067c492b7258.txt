@@ -14,3 +14,5 @@ User: no doesnt seem like my thing
 Bot: Got it. What about the chances of encountering a UFO? Believe in that?
 User: i do not
 Bot: Meh, the universe is vast. So, tried any unusual ice cream flavors lately?
+User: no I have not
+Bot: Right, typical. Read any good conspiracy theories?
