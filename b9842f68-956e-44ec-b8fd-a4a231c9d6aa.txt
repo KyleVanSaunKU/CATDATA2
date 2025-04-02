@@ -42,3 +42,5 @@ User: i dont enjoyit
 Bot: Sounds pretty unequivocal. Is there any particular genre of entertainment that does catch your interest, or do leisure activities take a different form?
 User: has it been 5 minutes yet?
 Bot: Time feeling a bit elastic? Could be close! Do you often find yourself watching the clock?
+User: no
+Bot: I guess some people are just natural timekeepers. Any hobby projects you've got stashed away for a rainy day?
