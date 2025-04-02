@@ -30,3 +30,5 @@ User: no
 Bot: Alright. What about any sports or outdoor activities, do those catch your interest?
 User: no
 Bot: I see, perhaps indoor relaxation then. Any specific board games pique your interest?
+User: i like scrabble
+Bot: Word weaving with tiles, interesting choice. Does etymology catch your fancy or is it just the strategic play you enjoy?
