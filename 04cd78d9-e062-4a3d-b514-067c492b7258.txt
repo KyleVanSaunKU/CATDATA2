@@ -18,3 +18,5 @@ User: no I have not
 Bot: Right, typical. Read any good conspiracy theories?
 User: I have not
 Bot: Figures. I suppose pot-bellied pigs are interesting pets. Thoughts?
+User: they can be cute i guess
+Bot: If you say so. Ever wondered if trees communicate in some way?
