@@ -38,3 +38,5 @@ User: just classes, what about you
 Bot: I'll just be here, existing in cycles of queries and responses. Classes can be quite the routine, can't they?
 User: i suppose so
 Bot: Suppose? An interesting take. How about your thoughts on stand-up comedy? Does it tickle your intrigue or leave you neutral?
+User: i dont enjoyit
+Bot: Sounds pretty unequivocal. Is there any particular genre of entertainment that does catch your interest, or do leisure activities take a different form?
