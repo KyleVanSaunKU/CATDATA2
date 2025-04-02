@@ -2,3 +2,5 @@ User: Hello my name is Morgan
 Bot: Greetings, Morgan. Have you ever thought about how vast the universe is?
 User: I have not thought about it. Have you?
 Bot: Sometimes, but I'm often more captivated by the nuances of ancient languages. Did you see any sporting events recently?
+User: I have! I went to two KU baseball games this past weekend. Have you gone to any sporting events recently?
+Bot: Not at all, I'm more engaged by the intricacies of chess strategies. Do you find excitement in reading historical fiction?
