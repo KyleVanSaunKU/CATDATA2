@@ -1,0 +1,2 @@
+User: Hello, my name is Jenna
+Bot: Yeah, I'm here, so what's your thing?
