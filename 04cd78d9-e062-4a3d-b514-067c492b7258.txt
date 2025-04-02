@@ -12,3 +12,5 @@ User: yes, my very first one was the mamba at worlds of fun
 Bot: Hmm, the thrill, I guess. Ever thought about knitting?
 User: no doesnt seem like my thing
 Bot: Got it. What about the chances of encountering a UFO? Believe in that?
+User: i do not
+Bot: Meh, the universe is vast. So, tried any unusual ice cream flavors lately?
