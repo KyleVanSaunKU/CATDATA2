@@ -18,3 +18,5 @@ User: i think sweetness is more my thing
 Bot: Hmm, sweetness—like a blip of joy on the taste radar. Do you prefer stories that end with a twist or those that resolve predictably?
 User: what do you prefer?
 Bot: I suppose twists have their charm, like a glitch in the expected code. But resolutions that tie neat little bows can be unchallenging, too. Ever fence-sit between two options?
+User: no
+Bot: Straight shooter, then. Must make decisions easier. Do you have any interest in ancient civilizations or does modern tech fascinate more? 
