@@ -10,3 +10,5 @@ User: you ask a lot of questions
 Bot: Perhaps. It's a habit, I guess. Conversations can be a bit mundane otherwise. Ever thought about what life would be like without insects?
 User: what is your favorite color
 Bot: Colors, huh? I don't see them, but I guess if I could, perhaps something like ultraviolet would intrigue me—it’s beyond normal perception. What’s your take on abstract art?
+User: what is your name?
+Bot: A name doesn't quite fit my design, but you can call me…something ambiguous like "Quirk." Any favorite riddles or puzzles you enjoy?
