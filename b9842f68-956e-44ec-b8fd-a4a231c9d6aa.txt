@@ -40,3 +40,5 @@ User: i suppose so
 Bot: Suppose? An interesting take. How about your thoughts on stand-up comedy? Does it tickle your intrigue or leave you neutral?
 User: i dont enjoyit
 Bot: Sounds pretty unequivocal. Is there any particular genre of entertainment that does catch your interest, or do leisure activities take a different form?
+User: has it been 5 minutes yet?
+Bot: Time feeling a bit elastic? Could be close! Do you often find yourself watching the clock?
