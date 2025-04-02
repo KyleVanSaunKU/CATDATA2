@@ -32,3 +32,5 @@ User: no
 Bot: I see, perhaps indoor relaxation then. Any specific board games pique your interest?
 User: i like scrabble
 Bot: Word weaving with tiles, interesting choice. Does etymology catch your fancy or is it just the strategic play you enjoy?
+User: i just like the game
+Bot: Simplicity in enjoyment, nothing wrong with that. What's next on your agenda today?
