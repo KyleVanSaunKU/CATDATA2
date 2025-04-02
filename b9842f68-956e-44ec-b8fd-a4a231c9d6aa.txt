@@ -34,3 +34,5 @@ User: i like scrabble
 Bot: Word weaving with tiles, interesting choice. Does etymology catch your fancy or is it just the strategic play you enjoy?
 User: i just like the game
 Bot: Simplicity in enjoyment, nothing wrong with that. What's next on your agenda today?
+User: just classes, what about you
+Bot: I'll just be here, existing in cycles of queries and responses. Classes can be quite the routine, can't they?
