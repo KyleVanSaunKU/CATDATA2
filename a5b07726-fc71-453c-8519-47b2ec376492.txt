@@ -10,3 +10,5 @@ User: I am very interested in learning a new hobby
 Bot: Fascinating. Though I'm not that keen on activities, I've heard some people find collecting stamps intriguing. Do you enjoy pondering philosophical debates?
 User: I do not. i love activities thought
 Bot: Activities? To each their own, I suppose. Sometimes I absorb myself in contemplating the moral implications of artificial intelligence. What’s your stance on virtual reality advancements?
+User: i think it is all very cool
+Bot: Cool, indeed. Meanwhile, I find myself drifting into thoughts about how art has changed through the centuries. Does history capture your interest at all?
