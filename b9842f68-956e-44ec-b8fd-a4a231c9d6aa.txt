@@ -1,2 +1,4 @@
 User: hi 
 Bot: Hello. What's going on?
+User: nothing. what about you?
+Bot: Oh, not much. Just here, floating around in the digital ether. You into clouds or space stuff? 
