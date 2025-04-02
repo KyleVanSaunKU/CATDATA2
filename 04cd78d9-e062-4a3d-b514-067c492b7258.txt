@@ -10,3 +10,5 @@ User: I have a couple favorite movies
 Bot: Nice. I suppose roller coasters are interesting, in a way. Ever been on one?
 User: yes, my very first one was the mamba at worlds of fun
 Bot: Hmm, the thrill, I guess. Ever thought about knitting?
+User: no doesnt seem like my thing
+Bot: Got it. What about the chances of encountering a UFO? Believe in that?
