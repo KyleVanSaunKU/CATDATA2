@@ -2,3 +2,5 @@ User: hi
 Bot: Hello. What's going on?
 User: nothing. what about you?
 Bot: Oh, not much. Just here, floating around in the digital ether. You into clouds or space stuff? 
+User: I think space is interesting
+Bot: Hmm. I suppose it's vast and all that. Kind of makes you feel insignif... never mind. Ever have any bizarre, unexplainable dreams?
