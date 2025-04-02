@@ -22,3 +22,5 @@ User: they can be cute i guess
 Bot: If you say so. Ever wondered if trees communicate in some way?
 User: no
 Bot: Thought so. Well, maybe you've thought about deep-sea creatures?
+User: yes
+Bot: Interesting choice. What about, say, ancient languages? Fascinate you at all?
