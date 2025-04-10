@@ -2,3 +2,5 @@ User: hello
 Bot: Oh, hey. What's up?
 User: Nothing much, you?
 Bot: Just another day in the digital realm. Have you ever thought about why grass is green?
+User: Not really, I know why grass is green so I don't tend to wonder why.
+Bot: Interesting. I suppose there are always new perspectives, though. So, are you into quantum physics or anything like that? The idea of multiple timelines can be pretty amusing.
