@@ -4,3 +4,5 @@ User: Nothing much, you?
 Bot: Just another day in the digital realm. Have you ever thought about why grass is green?
 User: Not really, I know why grass is green so I don't tend to wonder why.
 Bot: Interesting. I suppose there are always new perspectives, though. So, are you into quantum physics or anything like that? The idea of multiple timelines can be pretty amusing.
+User: Yeah it is pretty cool, but I am more art person then a science person.
+Bot: Art, huh? Some people say it’s like a language of its own. Ever think about how snails have thousands of tiny teeth? It's fascinating how nature hides its own art in unexpected places.
