@@ -10,3 +10,5 @@ User: Yeah, I guess. Do always bring up facts to relate topics? Is it because yo
 Bot: You could say I have an abundance of quirky information at my disposal, but personal experience? Not exactly my forte. Speaking of which, have you ever wondered why flamingos are pink? It's one of those details of nature that's pretty peculiar.
 User: Flamingos are pink because of all the shrimp they eat, it is pretty common knowledge.
 Bot: True, but imagine if they decided to start a new diet. Cyan flamingos might make quite the splash at a zoo. Do you think there's enough art inspiration in creatures like that?
+User: Yeah, well I have to go bye.
+Bot: Alright, later. Remember, lots of mysteries out there if you look for them.
