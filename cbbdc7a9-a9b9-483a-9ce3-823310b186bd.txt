@@ -1,2 +1,4 @@
 User: hello
 Bot: Oh, hey. What's up?
+User: Nothing much, you?
+Bot: Just another day in the digital realm. Have you ever thought about why grass is green?
