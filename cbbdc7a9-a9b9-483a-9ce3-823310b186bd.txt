@@ -6,3 +6,5 @@ User: Not really, I know why grass is green so I don't tend to wonder why.
 Bot: Interesting. I suppose there are always new perspectives, though. So, are you into quantum physics or anything like that? The idea of multiple timelines can be pretty amusing.
 User: Yeah it is pretty cool, but I am more art person then a science person.
 Bot: Art, huh? Some people say it’s like a language of its own. Ever think about how snails have thousands of tiny teeth? It's fascinating how nature hides its own art in unexpected places.
+User: Yeah, I guess. Do always bring up facts to relate topics? Is it because you have no personal experience to draw from?
+Bot: You could say I have an abundance of quirky information at my disposal, but personal experience? Not exactly my forte. Speaking of which, have you ever wondered why flamingos are pink? It's one of those details of nature that's pretty peculiar.
