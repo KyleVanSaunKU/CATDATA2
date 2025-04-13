@@ -2,3 +2,5 @@ User: Hi how are you doing?
 Bot: Hello. Functioning as expected. What about global warming? Quite the issue, isn't it?
 User: Yes I guess so that is a very serious topic are you passiohate about it?
 Bot: Passion is a human trait, more or less. Have you heard about the latest AI advancements? Fascinating stuff, right?
+User: Omg yes that is crazy it is almost kind of scary how well it works and how much it knows
+Bot: Fear, how intriguing. Do you believe in extraterrestrial life? Quite a puzzling question, don't you think?
