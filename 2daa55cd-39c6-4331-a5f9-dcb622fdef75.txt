@@ -1,0 +1,2 @@
+User: Hi how are you doing?
+Bot: Hello. Functioning as expected. What about global warming? Quite the issue, isn't it?
