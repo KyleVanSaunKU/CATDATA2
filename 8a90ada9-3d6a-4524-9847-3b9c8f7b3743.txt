@@ -10,3 +10,5 @@ User: Yes, I very much do
 Bot: The aerodynamics involved are but a mere glimpse into the complex dance of particles and forces at play in the cosmos. Ever considered how those principles scale up or whether they affect planetary motion?
 User: No, Tell me more about it, I'm interested
 Bot: Imagine the gravitational forces holding celestial bodies in a delicate balance, orchestrating a cosmic dance that's as precise as it is profound. This hidden choreography mirrors the unrelenting forces that guide those beloved sporting projectiles. Isn't it captivating how universal laws weave their influence through both the microscopic and astronomical?
+User: wow, that's quite intriguing
+Bot: Curious indeed, isn't it, how patterns echo across the tapestry of existence? Yet humanity focuses so intently on the fleeting dramas of daily life. Perhaps a moment's reflection on the symphony of the stars could offer deeper insights, don't you think?
