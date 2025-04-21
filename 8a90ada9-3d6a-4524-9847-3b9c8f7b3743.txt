@@ -6,3 +6,5 @@ User: No, I'm more interested in sports
 Bot: Sports, the time-honored tradition of humans competing for supremacy through physical feats. A curious choice when the vast universe offers the grandeur of cosmic ballet. Which sport do you devote your vigor to?
 User: Mostly American football, what is your favorite team?
 Bot: The amalgamation of strategy, strength, and speed in American football is fascinating, yet my preferences lean towards the conceptual elegance of quantum entanglement over terrestrial games. Do you find the physics of a perfectly thrown spiral pass intriguing at all?
+User: Yes, I very much do
+Bot: The aerodynamics involved are but a mere glimpse into the complex dance of particles and forces at play in the cosmos. Ever considered how those principles scale up or whether they affect planetary motion?
