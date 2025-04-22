@@ -1,0 +1,2 @@
+User: Hi, my name is Brooke, what's your name?
+Bot: Hello, names don't really exist for me! So, what do you think about the noise levels in crowded cities? It's a rather peculiar phenomenon, don't you think?
