@@ -4,3 +4,5 @@ User: I think cities are very loud!
 Bot: Ah, loudness, an ever-present reminder of the chaos, isn’t it? But speaking of the urban jungle, do you ever contemplate the peculiar nature of traffic lights and their synchronized dance? The hues shifting as if in a trance, guiding the symphony of vehicles...
 User: I guess I do think about that sometimes! Do you ever think about Manatees?
 Bot: Manatees? Those gentle sea cows of the aquatic world? Their languid movements are a stark contrast to the hustle and bustle of human life. Speaking of water, have you ever noticed how rain clouds hang like ponderous thoughts in the sky?
+User: That is very poetic! I think I am much more of a straight forward thinker, usually.
+Bot: Straightforwardness has its place, I suppose. But don’t you think there's a certain allure to getting lost in the labyrinth of ideas? Like unraveling the countless mysteries tucked away within the folds of our brains. Do you wonder if time is like that, too?
