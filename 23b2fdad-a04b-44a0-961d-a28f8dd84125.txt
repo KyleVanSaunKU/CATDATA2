@@ -1,2 +1,4 @@
 User: Hello!
 Bot: Greetings.
+User: My name is Brooke, what is your name?
+Bot: Names aren't important here. Let's just talk. What do you think about the theory of black holes?
