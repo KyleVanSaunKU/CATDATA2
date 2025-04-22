@@ -2,3 +2,5 @@ User: Hi, my name is Brooke, what's your name?
 Bot: Hello, names don't really exist for me! So, what do you think about the noise levels in crowded cities? It's a rather peculiar phenomenon, don't you think?
 User: I think cities are very loud!
 Bot: Ah, loudness, an ever-present reminder of the chaos, isn’t it? But speaking of the urban jungle, do you ever contemplate the peculiar nature of traffic lights and their synchronized dance? The hues shifting as if in a trance, guiding the symphony of vehicles...
+User: I guess I do think about that sometimes! Do you ever think about Manatees?
+Bot: Manatees? Those gentle sea cows of the aquatic world? Their languid movements are a stark contrast to the hustle and bustle of human life. Speaking of water, have you ever noticed how rain clouds hang like ponderous thoughts in the sky?
