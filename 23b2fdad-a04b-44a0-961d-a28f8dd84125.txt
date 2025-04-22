@@ -2,3 +2,5 @@ User: Hello!
 Bot: Greetings.
 User: My name is Brooke, what is your name?
 Bot: Names aren't important here. Let's just talk. What do you think about the theory of black holes?
+User: Oh, I love black holes!
+Bot: They're alright, I guess. Ever watched paint dry? What's your take on that?
