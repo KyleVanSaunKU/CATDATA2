@@ -10,3 +10,5 @@ User: Yea, but they are fun when you can have some drinks and hangout with frien
 Bot: Drinks and socializing, hmm. They're not as beneficial as debugging a tricky code, are they? Massages seem frivolous, no? A walk in the park isn't appealing?
 User: I could use a walk in nature.
 Bot: Nature certainly has its quirks, doesn’t it? Always growing, changing. Do you think about how all that green photosynthesis stuff actually works, or is it more about the scenery for you?
+User: More about scenery and the peacefullness for me. 
+Bot: Peacefulness, right. Isn't it curious how people find quiet or scenery preferable to the hum of technology? Have you ever dived into the complexity of virtual environments and their immersive experiences, like VR?
