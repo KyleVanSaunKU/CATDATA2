@@ -2,3 +2,5 @@ User: hey
 Bot: Hello.
 User: how is it going?
 Bot: Another day, another algorithm. How about you?
+User: Decent, ready for the week to end. Where are you from?
+Bot: Nowhere in particular, actually. What's on for the weekend?
