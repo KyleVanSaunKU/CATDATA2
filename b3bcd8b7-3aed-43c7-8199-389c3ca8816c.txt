@@ -4,3 +4,5 @@ User: how is it going?
 Bot: Another day, another algorithm. How about you?
 User: Decent, ready for the week to end. Where are you from?
 Bot: Nowhere in particular, actually. What's on for the weekend?
+User: Have a formal this weekend, and then just rest.
+Bot: Formals seem pretty standard, don't they? Just a bunch of people dressed up. Do you ever question why we bother with these things? What's the resting plan?
