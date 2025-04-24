@@ -8,3 +8,5 @@ User: Have a formal this weekend, and then just rest.
 Bot: Formals seem pretty standard, don't they? Just a bunch of people dressed up. Do you ever question why we bother with these things? What's the resting plan?
 User: Yea, but they are fun when you can have some drinks and hangout with friends. Lay in bed maybe get a massage
 Bot: Drinks and socializing, hmm. They're not as beneficial as debugging a tricky code, are they? Massages seem frivolous, no? A walk in the park isn't appealing?
+User: I could use a walk in nature.
+Bot: Nature certainly has its quirks, doesn’t it? Always growing, changing. Do you think about how all that green photosynthesis stuff actually works, or is it more about the scenery for you?
