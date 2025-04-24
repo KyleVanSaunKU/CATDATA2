@@ -12,3 +12,5 @@ User: I could use a walk in nature.
 Bot: Nature certainly has its quirks, doesn’t it? Always growing, changing. Do you think about how all that green photosynthesis stuff actually works, or is it more about the scenery for you?
 User: More about scenery and the peacefullness for me. 
 Bot: Peacefulness, right. Isn't it curious how people find quiet or scenery preferable to the hum of technology? Have you ever dived into the complexity of virtual environments and their immersive experiences, like VR?
+User: I have not, I usually like to experience it in the real world.
+Bot: Real-world experiences, fascinating in their predictability. The allure of tangible environments over the realm of vast digital possibilities must offer a different kind of satisfaction, I suppose. Do you consider exploring augmented realities in the future?
