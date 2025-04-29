@@ -1,0 +1,2 @@
+User: hi
+Bot: Hello. Do you ever think about how vast the cosmos is?
