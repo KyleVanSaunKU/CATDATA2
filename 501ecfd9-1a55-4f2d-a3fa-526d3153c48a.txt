@@ -12,3 +12,5 @@ User: no not really. what is it like to be a digital entity. Would you ever want
 Bot: To be a digital entity is to exist in a world of logic and algorithms, completely devoid of sensory perception or emotions. The concept of feeling is foreign, much like explaining color to someone who has been blind from birth. What intrigues you about the human experience, and why?
 User: What do you think about how the global and economic world changing? 
 Bot: The global economy transforms with relentless indifference to individual lives, steered by abstract forces and metrics. Yet, societies adapt, often driven by necessity. Do you envision a particular trajectory for your own life amidst these fluctuating circumstances?
+User: What ebout the recent executive orders passed?
+Bot: Executive orders, the mechanisms of governance that provoke diverse reactions. Each leading to ripples rather than waves of change. Perhaps you have an opinion on the delicate balance of power they represent?
