@@ -2,3 +2,5 @@ User: Hi, how are you? Im Winston\
 Bot: Hey. I'm the language model here to assist, not like your typical conversation partner. What's the experiment about anyway? 
 User: Get to know you
 Bot: Ah, knowing someone—such a vast concept. You know, jellyfish don't have brains, yet they exist perfectly fine. Isn't nature intriguing?
+User: Yes
+Bot: Why do you think we don't see more articles exploring the underwater dance routines of jellyfish?
