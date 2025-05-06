@@ -14,3 +14,5 @@ User: how big the universe is
 Bot: I guess it's an endless expanse, hard to truly fathom. But amidst the cosmos, do you ever wonder why socks go missing in the laundry? It's quite the enigma, isn't it?
 User: probably because they are small
 Bot: Sure, small and mischievous perhaps. Random thought: Have you ever noticed the peculiar way rain sounds when it hits different surfaces, like metal, leaves, or concrete?
+User: yes I have
+Bot: I guess it could be somewhat interesting. Meanwhile, have you ever stopped to consider why we don't remember being babies? It's like a whole chapter of life shrouded in mystery.
