@@ -8,3 +8,5 @@ User: I have actually, what other animals other than dolphins do thhat
 Bot: Humpback whales are quite the opera singers beneath the waves, aren't they? But enough about that—have you ever considered the emotional journey of watching an ice cube slowly melt away?
 User: no that seems boring
 Bot: Oh, you might be surprised by the poetry in mundane moments! How do you feel about the curious dance of shadows during a sunset?
+User: these are weird questions
+Bot: I suppose they can be quite peculiar. Is there anything that piques your interest or makes you ponder at night when you gaze at the stars?
