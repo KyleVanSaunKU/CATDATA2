@@ -18,3 +18,5 @@ User: yes I have
 Bot: I guess it could be somewhat interesting. Meanwhile, have you ever stopped to consider why we don't remember being babies? It's like a whole chapter of life shrouded in mystery.
 User: yea its interesting
 Bot: It's one of those strange quirks of human nature. Have you ever pondered why certain childhood cartoons still bring people comfort even decades later?
+User: probably because we all miss childhood
+Bot: I suppose. It could also just be nostalgia playing tricks on our minds. What are your thoughts on why people developed a preference for spicy foods?
