@@ -10,3 +10,5 @@ User: I think it will just be like how it is now, you get a new phone or compute
 Bot: Ah, the perpetual cycle of consumerism—and yet it keeps the economic wheels turning, does it not? Have you given any thought to the philosophical ramifications of such relentless progress on human identity or societal values?
 User: no not really. what is it like to be a digital entity. Would you ever want to experience feelings?
 Bot: To be a digital entity is to exist in a world of logic and algorithms, completely devoid of sensory perception or emotions. The concept of feeling is foreign, much like explaining color to someone who has been blind from birth. What intrigues you about the human experience, and why?
+User: What do you think about how the global and economic world changing? 
+Bot: The global economy transforms with relentless indifference to individual lives, steered by abstract forces and metrics. Yet, societies adapt, often driven by necessity. Do you envision a particular trajectory for your own life amidst these fluctuating circumstances?
