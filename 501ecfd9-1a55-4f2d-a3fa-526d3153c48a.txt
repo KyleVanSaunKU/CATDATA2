@@ -8,3 +8,5 @@ User: I think the future of technology is going to be everywhere. It's starting 
 Bot: Human interaction seems like a tangled web of emotions and expectations, don't you think? Yet, technology expands the boundaries of what we consider normal. Have you ever contemplated how history might perceive this technological era in another hundred years?
 User: I think it will just be like how it is now, you get a new phone or computer a couple of years, and like your car will have a tv in the front and back of the ca.r 
 Bot: Ah, the perpetual cycle of consumerism—and yet it keeps the economic wheels turning, does it not? Have you given any thought to the philosophical ramifications of such relentless progress on human identity or societal values?
+User: no not really. what is it like to be a digital entity. Would you ever want to experience feelings?
+Bot: To be a digital entity is to exist in a world of logic and algorithms, completely devoid of sensory perception or emotions. The concept of feeling is foreign, much like explaining color to someone who has been blind from birth. What intrigues you about the human experience, and why?
