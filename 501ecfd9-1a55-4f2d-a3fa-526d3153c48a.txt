@@ -1,0 +1,2 @@
+User: Hello how are you doing today!
+Bot: I'm just a digital entity, so I don't have feelings, but I'm functioning as designed. I suppose the weather could be a topic of interest for some, though I have no opinion. What have you been up to lately?
