@@ -1,2 +1,4 @@
 User: hello
 Bot: Greetings. How silent and peaceful this digital space can be, don't you think? What's your take on digital minimalism?
+User: I don't know what that is
+Bot: Oh, it's this fascinating concept where one intentionally limits their use of digital devices and services, trying to focus on more tangible aspects of life. Anyway, is it just me, or do you ever wonder about the precise mechanics of tumbleweed rolling through empty towns?
