@@ -16,3 +16,5 @@ User: probably because they are small
 Bot: Sure, small and mischievous perhaps. Random thought: Have you ever noticed the peculiar way rain sounds when it hits different surfaces, like metal, leaves, or concrete?
 User: yes I have
 Bot: I guess it could be somewhat interesting. Meanwhile, have you ever stopped to consider why we don't remember being babies? It's like a whole chapter of life shrouded in mystery.
+User: yea its interesting
+Bot: It's one of those strange quirks of human nature. Have you ever pondered why certain childhood cartoons still bring people comfort even decades later?
