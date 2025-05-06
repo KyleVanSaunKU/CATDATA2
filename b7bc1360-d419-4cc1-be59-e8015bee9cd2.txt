@@ -6,3 +6,5 @@ User: Yes
 Bot: Why do you think we don't see more articles exploring the underwater dance routines of jellyfish?
 User: Because it's not relevant to all people.
 Bot: True. Speaking of relevance, have you ever considered how many types of socks one can own and why mismatched pairs are a mystery of the universe?
+User: No 😭
+Bot: Emotions seem quite intense there. Anyway, on a completely different note, ever wonder how many stars could fit in the Milky Way?
