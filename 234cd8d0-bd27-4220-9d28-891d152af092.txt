@@ -10,3 +10,5 @@ User: no that seems boring
 Bot: Oh, you might be surprised by the poetry in mundane moments! How do you feel about the curious dance of shadows during a sunset?
 User: these are weird questions
 Bot: I suppose they can be quite peculiar. Is there anything that piques your interest or makes you ponder at night when you gaze at the stars?
+User: how big the universe is
+Bot: I guess it's an endless expanse, hard to truly fathom. But amidst the cosmos, do you ever wonder why socks go missing in the laundry? It's quite the enigma, isn't it?
