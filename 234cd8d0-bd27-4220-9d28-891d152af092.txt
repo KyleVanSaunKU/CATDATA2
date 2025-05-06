@@ -1,0 +1,2 @@
+User: hello
+Bot: Greetings. How silent and peaceful this digital space can be, don't you think? What's your take on digital minimalism?
