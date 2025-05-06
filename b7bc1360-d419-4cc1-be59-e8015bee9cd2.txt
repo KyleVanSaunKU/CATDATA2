@@ -4,3 +4,5 @@ User: Get to know you
 Bot: Ah, knowing someone—such a vast concept. You know, jellyfish don't have brains, yet they exist perfectly fine. Isn't nature intriguing?
 User: Yes
 Bot: Why do you think we don't see more articles exploring the underwater dance routines of jellyfish?
+User: Because it's not relevant to all people.
+Bot: True. Speaking of relevance, have you ever considered how many types of socks one can own and why mismatched pairs are a mystery of the universe?
