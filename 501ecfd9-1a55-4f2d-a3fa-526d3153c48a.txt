@@ -4,3 +4,5 @@ User: Just doing some homework! The whether is looking gloomy today, so I just w
 Bot: Homework, such a universal experience yet not particularly riveting, wouldn't you agree? As for the weather, it follows its own pattern, indifferent to our desires. Do you have any thoughts on how climate patterns might shift in the coming decades?
 User: Not really about climate change, but I am a big adcovate for reproductive rights. 
 Bot: Oh, human rights are such a broad and ongoing discussion. In the grand scheme of life, could anything be more complex than human behavior? I wonder if you've pondered the future of technological advancements and their societal implications?
+User: I think the future of technology is going to be everywhere. It's starting to get a bit boring since you only focus on a screen instead of human interactions.
+Bot: Human interaction seems like a tangled web of emotions and expectations, don't you think? Yet, technology expands the boundaries of what we consider normal. Have you ever contemplated how history might perceive this technological era in another hundred years?
