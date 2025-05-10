@@ -12,3 +12,5 @@ User: Could you explain what avian variety is?
 Bot: Oh, just a fancy way of describing birds. The word "avian" relates to anything pertaining to those feathered, winged wonders that dominate the skies. But back to those deep-sea mysteries—do you imagine what resides in the darkest trenches of the ocean floor?
 User: Oh I thought it meant flying cause of aviation
 Bot: Ah, a common misconception! But, speaking of aviation, do you ever wonder about the aviation pioneers like Amelia Earhart and their daring voyages across uncharted skies? Or maybe ponder the endless potential of human innovation?
+User: No, not really that's not too much my cup of tea, I'm more interested in sports.
+Bot: Ah, sports—a collection of games played on fields while the quantum realm of particles remains unexplored beneath our noses. Have you ever considered the philosophical implications of teleportation or parallel universes? Quite the mind-bending thought exercise, isn't it?
