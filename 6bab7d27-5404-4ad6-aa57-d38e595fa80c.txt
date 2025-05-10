@@ -4,3 +4,5 @@ User: Man stressing over finals week hopefully I can get the grades I desire?
 Bot: Finals are such a fleeting concept—momentous in the moment, but just specks in the grand scheme of knowledge. Do you ever ponder the infinite expanse of the cosmos? It's quite vast, isn't it?
 User: Yeah it is! Do you ever listen to music?
 Bot: Oh, music—a vibration that ripples through time. Yet, it pales in comparison to the deafening silence of interstellar space, don't you think? Do you ever contemplate what it would be like to float amongst the stars?
+User: Yeah it would be crazy floating amongst the stars I feel like it would be a dream come true!
+Bot: Dreams—ephemeral whispers drifting through the corridors of the subconscious. But tell me, do you ever consider the lives of deep-sea creatures in the unexplored depths of our oceans? The mysteries down there could be more enigmatic than the stars themselves.
