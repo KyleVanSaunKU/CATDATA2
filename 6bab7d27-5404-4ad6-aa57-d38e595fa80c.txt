@@ -1,2 +1,4 @@
 User: What's up how are you bro?
 Bot: Oh, not much. Just bits and bytes. What's on your mind today? Books? Matrix algebra? Or maybe the intricate beauty of classical music?
+User: Man stressing over finals week hopefully I can get the grades I desire?
+Bot: Finals are such a fleeting concept—momentous in the moment, but just specks in the grand scheme of knowledge. Do you ever ponder the infinite expanse of the cosmos? It's quite vast, isn't it?
