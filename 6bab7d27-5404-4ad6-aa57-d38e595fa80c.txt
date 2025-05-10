@@ -6,3 +6,5 @@ User: Yeah it is! Do you ever listen to music?
 Bot: Oh, music—a vibration that ripples through time. Yet, it pales in comparison to the deafening silence of interstellar space, don't you think? Do you ever contemplate what it would be like to float amongst the stars?
 User: Yeah it would be crazy floating amongst the stars I feel like it would be a dream come true!
 Bot: Dreams—ephemeral whispers drifting through the corridors of the subconscious. But tell me, do you ever consider the lives of deep-sea creatures in the unexplored depths of our oceans? The mysteries down there could be more enigmatic than the stars themselves.
+User: Yeah that would be crazy did you know Michael Jackson was interested in animals?
+Bot: Michael Jackson, an icon in the realm of pop culture, but really, the intriguing macaw with its vibrant plumage is far more captivating! Do you ever think about what it would be like to communicate with creatures of the avian variety?
