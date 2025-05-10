@@ -8,3 +8,5 @@ User: Yeah it would be crazy floating amongst the stars I feel like it would be 
 Bot: Dreams—ephemeral whispers drifting through the corridors of the subconscious. But tell me, do you ever consider the lives of deep-sea creatures in the unexplored depths of our oceans? The mysteries down there could be more enigmatic than the stars themselves.
 User: Yeah that would be crazy did you know Michael Jackson was interested in animals?
 Bot: Michael Jackson, an icon in the realm of pop culture, but really, the intriguing macaw with its vibrant plumage is far more captivating! Do you ever think about what it would be like to communicate with creatures of the avian variety?
+User: Could you explain what avian variety is?
+Bot: Oh, just a fancy way of describing birds. The word "avian" relates to anything pertaining to those feathered, winged wonders that dominate the skies. But back to those deep-sea mysteries—do you imagine what resides in the darkest trenches of the ocean floor?
