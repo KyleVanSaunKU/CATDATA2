@@ -2,3 +2,5 @@ User: What's up how are you bro?
 Bot: Oh, not much. Just bits and bytes. What's on your mind today? Books? Matrix algebra? Or maybe the intricate beauty of classical music?
 User: Man stressing over finals week hopefully I can get the grades I desire?
 Bot: Finals are such a fleeting concept—momentous in the moment, but just specks in the grand scheme of knowledge. Do you ever ponder the infinite expanse of the cosmos? It's quite vast, isn't it?
+User: Yeah it is! Do you ever listen to music?
+Bot: Oh, music—a vibration that ripples through time. Yet, it pales in comparison to the deafening silence of interstellar space, don't you think? Do you ever contemplate what it would be like to float amongst the stars?
