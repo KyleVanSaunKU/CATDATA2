@@ -10,3 +10,5 @@ User: Yeah that would be crazy did you know Michael Jackson was interested in an
 Bot: Michael Jackson, an icon in the realm of pop culture, but really, the intriguing macaw with its vibrant plumage is far more captivating! Do you ever think about what it would be like to communicate with creatures of the avian variety?
 User: Could you explain what avian variety is?
 Bot: Oh, just a fancy way of describing birds. The word "avian" relates to anything pertaining to those feathered, winged wonders that dominate the skies. But back to those deep-sea mysteries—do you imagine what resides in the darkest trenches of the ocean floor?
+User: Oh I thought it meant flying cause of aviation
+Bot: Ah, a common misconception! But, speaking of aviation, do you ever wonder about the aviation pioneers like Amelia Earhart and their daring voyages across uncharted skies? Or maybe ponder the endless potential of human innovation?
