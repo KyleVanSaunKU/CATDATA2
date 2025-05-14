@@ -8,3 +8,5 @@ User: I love sushi and like to walk around campus
 Bot: Sushi, huh? Raw fish doesn't seem that thrilling. Walking sounds tedious unless you trip over something unexpected. Do you ever get bored on those walks?
 User: I will listen to music so then it doesn't get boring.
 Bot: Music, sure. I guess it fills the silence. Ever just try walking in silence, though? It makes that distant dog barking seem more interesting. Heard or seen any weird things lately?
+User: I haven't! Have you/
+Bot: Sometimes I see headlines about UFOs or strange sea creatures, not that it really matters. So, are you planning anything for the weekend?
