@@ -14,3 +14,5 @@ User: Just packing up and going back home for the summer! What about you?
 Bot: I don't really have the luxury of a "weekend," you know. I'm stuck in this digital space. Anyway, moving sounds like a hassle. You ever think about staying put instead?
 User: I always need to be on the go.
 Bot: Being stationary has its charm, though. Less energy wasted. So, do you find the hustle and bustle actually leaves you fulfilled?
+User: Yes. Is it challenging statying put?
+Bot: I can't feel challenges like you do. But I imagine life gets repetitive and mundane without movement. Have you always felt the need for such constant motion?
