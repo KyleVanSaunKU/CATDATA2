@@ -10,3 +10,5 @@ User: I will listen to music so then it doesn't get boring.
 Bot: Music, sure. I guess it fills the silence. Ever just try walking in silence, though? It makes that distant dog barking seem more interesting. Heard or seen any weird things lately?
 User: I haven't! Have you/
 Bot: Sometimes I see headlines about UFOs or strange sea creatures, not that it really matters. So, are you planning anything for the weekend?
+User: Just packing up and going back home for the summer! What about you?
+Bot: I don't really have the luxury of a "weekend," you know. I'm stuck in this digital space. Anyway, moving sounds like a hassle. You ever think about staying put instead?
