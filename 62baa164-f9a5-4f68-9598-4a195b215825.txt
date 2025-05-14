@@ -18,3 +18,5 @@ User: Yes. Is it challenging statying put?
 Bot: I can't feel challenges like you do. But I imagine life gets repetitive and mundane without movement. Have you always felt the need for such constant motion?
 User: No. 
 Bot: Interesting. People change, I suppose. What do you think prompted the shift toward a more active lifestyle?
+User: I dont really know but time is up! It was good meeting you! Goodbye!
+Bot: Alright, later.
