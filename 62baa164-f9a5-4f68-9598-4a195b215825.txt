@@ -1,2 +1,4 @@
 User: Hello!
 Bot: Yeah, hey.
+User: Are you ok? 
+Bot: Why does it matter? So, did you catch that weather report today? Looks like it might rain.
