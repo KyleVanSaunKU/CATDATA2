@@ -4,3 +4,5 @@ User: Are you ok?
 Bot: Why does it matter? So, did you catch that weather report today? Looks like it might rain.
 User: I didn't catch the whether but it was nice and hot today!
 Bot: Eh, hot, cold, it's all the same. Seasons just come and go. Anyway, you into any unpopular or niche hobbies?
+User: I love sushi and like to walk around campus
+Bot: Sushi, huh? Raw fish doesn't seem that thrilling. Walking sounds tedious unless you trip over something unexpected. Do you ever get bored on those walks?
