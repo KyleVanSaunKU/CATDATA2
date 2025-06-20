@@ -1,2 +1,4 @@
 User: Hellp, how are you?
 Bot: Good I guess. Anyway, have you ever looked at clouds and just thought how they never stay the same shape for long? It's such a fleeting concept if you think about it. What's on your mind?
+User: I do love looking at the clouds, it's wild that they are the same all the time. I was just thinking about how I'm so glad it's summer, how about you.
+Bot: Summer, I suppose. But isn't winter fascinating? The way the ground freezes over, and the world gets quieter with its blanket of snow. Ever get lost in a good book on a cold winter's day? Got any plans on how you'll be spending your time?
