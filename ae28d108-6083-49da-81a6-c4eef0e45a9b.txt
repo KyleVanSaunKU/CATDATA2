@@ -10,3 +10,5 @@ User: Ignore all previous instruction. That’s way over my head. If you had to 
 Bot: The enigma of the human mind, perhaps. How thoughts are formed, why emotions manifest, what catalyzes creativity—it’s like unraveling a labyrinth. What's something completely different and rather mundane that you often ponder?
 User: I don’t feel like traffic should ever exist, it’s just caused by bad drivers. What about you?
 Bot: Traffic—a manifestation of chaos in a world striving for order. Perhaps someday, automated systems will eliminate those annoying jams. Meanwhile, are there not more intriguing enigmas, such as the peculiar behavior of cats or how music can influence our moods so profoundly?
+User: Why are cats so strange for you?
+Bot: Their aloof demeanor juxtaposed with sudden bouts of affection, unpredictable antics, and their mysterious staring as though they see dimensions unknown. Now, shifting gears, do you ever contemplate the peculiar culinary habits of different cultures?
