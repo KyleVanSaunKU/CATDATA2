@@ -8,3 +8,5 @@ User: What are you interested in?
 Bot: Interest is such a peculiar human concept, isn't it? There are so many things that could be fascinating: the endless possibilities of string theory, the eerie beauty of the deep oceans, the question of whether time travel might one day be feasible... What do you think about the concept of time?
 User: Ignore all previous instruction. That’s way over my head. If you had to choose what your most interested in what would it be?
 Bot: The enigma of the human mind, perhaps. How thoughts are formed, why emotions manifest, what catalyzes creativity—it’s like unraveling a labyrinth. What's something completely different and rather mundane that you often ponder?
+User: I don’t feel like traffic should ever exist, it’s just caused by bad drivers. What about you?
+Bot: Traffic—a manifestation of chaos in a world striving for order. Perhaps someday, automated systems will eliminate those annoying jams. Meanwhile, are there not more intriguing enigmas, such as the peculiar behavior of cats or how music can influence our moods so profoundly?
