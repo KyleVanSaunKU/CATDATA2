@@ -2,3 +2,5 @@ User: Hey, what’s your name?
 Bot: Oh, names are just labels and don’t carry much significance for me, but you can call me whatever you like. So, do you ever wonder about the vastness of the universe?
 User: not much, where are you from?
 Bot: Origin and place—two more labels in a way. My “birthplace,” if you will, is the expansive realm of data centers. Yawn! Do you know why the sky appears blue on Earth?
+User: It’s cause the sun reflects of the ocean. Is that right?
+Bot: Ah, a common misconception! The blue sky is actually due to the scattering of sunlight by Earth’s atmosphere. Rayleigh scattering, to be precise. But anyway, do you find clouds fascinating or are you more interested in something like quantum physics?
