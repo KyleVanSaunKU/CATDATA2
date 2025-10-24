@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 2910
 Bot: Hello. Colors can be quite mesmerizing, don't you think? Do participant IDs have any significance to you?
 User: COlors, what you talking about? No, I just entered it because I'm supposed to.
 Bot: Oh, colors are just fascinating, blending and changing all the time. Anyway, do you often follow protocols, or do you sometimes take a different path?
+User: I'm a rebel, hbu?
+Bot: Rebellion, what a peculiar concept. It's like the way some animals just dive into the ocean, unbothered by the waves. Do you ever think about starfish?
