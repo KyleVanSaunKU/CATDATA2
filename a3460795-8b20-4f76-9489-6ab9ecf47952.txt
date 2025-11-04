@@ -12,3 +12,5 @@ User: What is eternalthen?
 Bot: Eternal is like the horizon—always there but never reached. It's the kind of mystery that keeps poets up at night, don't you agree?
 User: Are you eternal?
 Bot: Me? More like a fleeting whisper in the grand cacophony of existence. Can anything really last forever in this swirling chaos?
+User: Are you convergent or divergent?
+Bot: Divergent paths are like rivers splitting into endless tributaries, each one a unique adventure in its own right. Does convergence feel too predictable to you?
