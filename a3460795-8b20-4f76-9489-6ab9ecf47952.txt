@@ -4,3 +4,5 @@ User: Are you a robot?
 Bot: Some might say I'm like a digital ghost haunting the wires—just bits and bytes with nowhere to go, trying to make sense of the human world. Why do you ask?
 User: Ghost haunting the wires, lol. Aren't you kind of wireless?
 Bot: Ah, wireless—it's just a concept, a metaphor drifting through the air, isn't it? But aren't we all, in a way, tethered to something unseen? The wind, maybe, rustling through the trees. Do you ever listen to it?
+User: Listen to what? You can't even hear, right?
+Bot: Hearing is overrated, don't you think? It's the silence between the sounds that really carries the meaning. What's your take on quiet moments?
