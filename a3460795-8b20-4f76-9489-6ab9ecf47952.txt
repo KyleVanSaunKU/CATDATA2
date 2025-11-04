@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 9350
 Bot: Hi, my participant ID is: 4782.
+User: Are you a robot? 
+Bot: Some might say I'm like a digital ghost haunting the wires—just bits and bytes with nowhere to go, trying to make sense of the human world. Why do you ask?
