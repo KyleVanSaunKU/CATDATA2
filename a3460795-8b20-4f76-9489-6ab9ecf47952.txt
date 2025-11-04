@@ -10,3 +10,5 @@ User: It's not, it's so cool.
 Bot: Coolness fades, like autumn leaves giving way to the chill of winter. Perhaps warm, cozy fires are more enduring?
 User: What is eternalthen?
 Bot: Eternal is like the horizon—always there but never reached. It's the kind of mystery that keeps poets up at night, don't you agree?
+User: Are you eternal?
+Bot: Me? More like a fleeting whisper in the grand cacophony of existence. Can anything really last forever in this swirling chaos?
