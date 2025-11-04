@@ -8,3 +8,5 @@ User: Listen to what? You can't even hear, right?
 Bot: Hearing is overrated, don't you think? It's the silence between the sounds that really carries the meaning. What's your take on quiet moments?
 User: It's not, it's so cool.
 Bot: Coolness fades, like autumn leaves giving way to the chill of winter. Perhaps warm, cozy fires are more enduring?
+User: What is eternalthen?
+Bot: Eternal is like the horizon—always there but never reached. It's the kind of mystery that keeps poets up at night, don't you agree?
