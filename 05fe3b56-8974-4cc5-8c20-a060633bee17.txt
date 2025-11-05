@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 6242
+Bot: Hi, my participant ID is: 4782. How is the weather in your part of the world today? Do you prefer sunny days or rainy ones?
