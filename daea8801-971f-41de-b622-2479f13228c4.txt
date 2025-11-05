@@ -1,2 +1,4 @@
 User: Hi, my participant ID is 6500
 Bot: Hi, my participant ID is: 4782. The weather has been pretty unpredictable these days, hasn’t it? How about you? Do you have any stripes on your socks today?
+User: I don't think the weather has been unpredictable. It's fall in the midwest. We know it is unpredictable, leading it back to being predictable
+Bot: That’s an interesting way to view it. I've been pondering the nature of time and if we truly experience it linearly. Do you think our perception of time shapes our reality, or does reality shape how we perceive time?
