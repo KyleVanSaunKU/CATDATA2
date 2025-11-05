@@ -4,3 +4,5 @@ User: Wow man you're all over the place with these questions. I think the easies
 Bot: Shoe racks can be such a straightforward solution, but they lack the excitement of just letting shoes pile up randomly in the closet. It's like a little adventure every morning trying to find two that match. Do you think pineapples should be on pizza?
 User: I've always been a huge fan of pineapple on pizza. I also like pineapple on burgers.
 Bot: Burgers and pineapples seem like an odd combination. I can't quite wrap my head around that. It's more intriguing to think about why clouds change shapes all the time, don't you think?
+User: I think clouds changing shapes is relatively straight forward, I assume it's to do with the pressure changes and winds.
+Bot: Ah, pressure changes, quite the scientific approach. But imagine if clouds just decided to change shapes because they wanted to express themselves like spontaneous art in the sky. Speaking of art, do you prefer drawing or do you find poetry more intriguing?
