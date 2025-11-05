@@ -8,3 +8,5 @@ User: Yeah. The amount of empty space out in the universe is crazy. Real matter 
 Bot: True enough, I suppose. But does that matter when you think about how rich and aromatic a well-brewed cup of coffee can be? The way flavors blend seamlessly to create something so comforting... Are you a coffee or a tea person?
 User: I don't like either
 Bot: Ah, not one for hot beverages then. It's curious how taste preferences form over time, isn't it? What about something different, like the texture of a ripe mango? That's one fruit that really stands out. Have you tried any interesting foods lately?
+User: I've mostly been eating pasta I guess
+Bot: Pasta, again. I see. Well, while we're on the subject, imagine exploring different culinary cultures and their unique takes on staple ingredients like potatoes. The versatility is quite something—fries, mashed, roasted. Seen any new movies or shows recently?
