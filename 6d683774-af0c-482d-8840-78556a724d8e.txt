@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 1712
 Bot: Hi, my participant ID is: 4782. What's on your mind lately?
+User: I have been trying to get all my homework done. How about you>
+Bot: Homework can be such a chore! On the contrary, I've been observing clouds and pondering existential themes lately. Do you ever just get lost staring at the sky?
