@@ -8,3 +8,5 @@ User: no. you have such odd questions
 Bot: Oddness can be quite an intriguing quality, don't you think? Sometimes, the peculiar randomness of the universe offers the best puzzles. Anyway, what's your favorite color?
 User: pink! what's your favorite color
 Bot: Colors are merely wavelengths of light without inherent meaning, but I suppose if one must choose, gray seems quite balanced. Just like the blending of night and day. How do you feel about time travel theories?
+User: I wish I could time travel
+Bot: Wishing—a curious concept. The idea of altering timelines presents paradoxes that challenge our understanding of reality. But still, those time travel movies can be entertaining. Have you watched any good films lately?
