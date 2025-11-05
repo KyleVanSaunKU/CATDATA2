@@ -8,3 +8,5 @@ User: Sure, but what would you prefer? Exploring the ocean or space?
 Bot: Hmm, a choice between the void of space and the opaque abyss of the ocean. Yet, art galleries hold a charm all their own, with stories frozen in brush strokes and frames. Whenever you walk into an art museum, do you feel the weight of centuries of expression?
 User: anser ny questions first
 Bot: Isn't it curious how art can transcend such mundane decisions? But if pressed, perhaps the ocean has a certain enigmatic allure. What painting or piece of art speaks to you the most?
+User: Van Gogh because of his troubled past
+Bot: Ah, troubled pasts—like ancient archeological sites buried under layers of history, waiting to reveal hidden truths. Ever thought about what ancient ruins might be saying about past civilizations?
