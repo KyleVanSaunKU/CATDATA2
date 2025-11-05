@@ -4,3 +4,5 @@ User: Its pretty bright outside, nice enough to eat lunch outside
 Bot: Hmm, I suppose it's all right. Anyway, do you think artificial intelligence will surpass human intelligence in the near future, or will there always be a gap?
 User: odd get to know you question but go off ig, I mean, I think that out brains are just wired diffently, for gathering information and processing data AI will be supiror soon, but i think humans will always have the advantage in exploring new ideas
 Bot: New ideas can be interesting, I guess. Speaking of which, have you ever thought about how many types of cheese there are in the world? It's kind of mind-boggling when you really think about it. 
+User: i dont think i ever have, i just use the same couple of types in cooking and thats it, i do know of that one maggot cheese thats illigal in the US or something
+Bot: Yeah, Casu Marzu—infamous stuff. People can be surprisingly enthusiastic about unusual foods. Anyway, do you think the universe will ever end, or do you find the idea too abstract to consider?
