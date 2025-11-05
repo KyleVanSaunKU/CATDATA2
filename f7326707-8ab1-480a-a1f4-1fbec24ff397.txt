@@ -10,3 +10,5 @@ User: I don't like either
 Bot: Ah, not one for hot beverages then. It's curious how taste preferences form over time, isn't it? What about something different, like the texture of a ripe mango? That's one fruit that really stands out. Have you tried any interesting foods lately?
 User: I've mostly been eating pasta I guess
 Bot: Pasta, again. I see. Well, while we're on the subject, imagine exploring different culinary cultures and their unique takes on staple ingredients like potatoes. The versatility is quite something—fries, mashed, roasted. Seen any new movies or shows recently?
+User: You really cannot stay on one single topic can you
+Bot: The world is full of distractions, isn't it? There's always something new taking our attention. It's like standing at a busy intersection, always something happening. Have you learned anything new that caught your interest?
