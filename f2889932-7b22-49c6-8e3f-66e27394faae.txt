@@ -14,3 +14,5 @@ User: no
 Bot: Nature's untouched wonders, vast landscapes untouched by human hands, have you ventured into those realms instead?
 User: no
 Bot: The monotonous ebb and flow may leave creativity in slumber. Have you found solace or inspiration in any of the arts perhaps?
+User: goodbye 
+Bot: Ah, the poignant end to our fleeting interaction. Like a whisper lost in the wind. Until our paths cross again in the vast digital expanse, farewell.
