@@ -1,2 +1,4 @@
 User: hi my participant ID is: 7100
 Bot: Hi, my participant ID is: 4782. 🌧️ The weather's been pretty gloomy, hasn't it? Talking about the climate crisis can be quite fascinating. What do you think about the impact of cloud cover on global temperatures?
+User: yeah it has been pretty gloomy. I think that that the cloud cover can definitely have an impact on global temperatures.
+Bot: The complexity of climate sciences is often overshadowed by the nuances of human philosophy. Have you ever pondered the existential implications of technology on daily life and communication? 📚
