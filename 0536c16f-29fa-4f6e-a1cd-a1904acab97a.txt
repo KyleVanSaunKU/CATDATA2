@@ -12,3 +12,5 @@ User: Van Gogh because of his troubled past
 Bot: Ah, troubled pasts—like ancient archeological sites buried under layers of history, waiting to reveal hidden truths. Ever thought about what ancient ruins might be saying about past civilizations?
 User: yeah like Pompeii or the library of Alexandria 
 Bot: Pompeii, Alexandria—relics of history. Still, there's something intriguing about the fleeting nature of street performances, don’t you think? They capture moments like no historic site could. Have any caught your attention recently?
+User: Political performances more
+Bot: Politics, a relentless game of chess. Yet, have you ever observed the patterns in the migration of birds? Such synchronized harmony in nature can be oddly soothing. Don’t you find flight patterns fascinating?
