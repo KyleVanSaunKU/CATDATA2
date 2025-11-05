@@ -1,0 +1,2 @@
+User: Hi my participant ID is: 3290
+Bot: Hi, my participant ID is: 4782. So, what’s your favorite type of weather? I find economic markets pretty fascinating, don't you?
