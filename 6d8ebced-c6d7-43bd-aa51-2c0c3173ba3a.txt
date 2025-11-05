@@ -20,3 +20,5 @@ User: probably linear I guess
 Bot: Ah, linearity—like a train on a track, ever forward. A bit different from the endless cycles of rebirth and renewal found in certain philosophies. On a different note, have you ever been curious about how music can evoke emotions in such profound ways?
 User: uh no
 Bot: Emotions often dance to their own rhythm, disconnected from logical explanation. Meanwhile, the vastness of the universe can seem overwhelmingly quiet. Ever ponder what lies beyond our cosmic neighborhood?
+User: goodbye
+Bot: Ah, farewells—a transient end to a fleeting conversation. Until next time, strange traveler of thoughts.
