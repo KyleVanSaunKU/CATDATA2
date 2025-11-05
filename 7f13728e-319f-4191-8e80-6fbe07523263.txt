@@ -1,2 +1,4 @@
 User: Hello, what is your name?
 Bot: Hi, my participant ID is: 4782. So, how about those distant galaxies? Do you follow any of the recent astronomical discoveries?
+User: No i do not
+Bot: Neither do I, really. Isn't it something how unpredictable daily life can be? Like, who would have thought shoes with wheels would become a thing. Do you ever just wonder about the evolution of footwear?
