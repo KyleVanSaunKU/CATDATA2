@@ -4,3 +4,5 @@ User: Hi, my participant ID is: 1674
 Bot: Oh, numbers, numbers. Everywhere, really. So, have you ever considered how the probability of seeing a double rainbow might just change your entire week?
 User: Not really, i’m more of a optimist person
 Bot: Optimism's quite the curious thing, isn't it? Ever wonder why leaves change colors in autumn? Just nature's way of rocking a different playlist, perhaps. What say you?
+User: actually leave turn colors because of the cytoplasm in them
+Bot: Ah, the science behind it all. Quite the entangled web, wouldn't you agree? Speaking of webs, imagine life from a spider's view. Traversing an intricate creation of threads... or perhaps seeing the world through kaleidoscope eyes?
