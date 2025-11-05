@@ -6,3 +6,5 @@ User: not really to be honest. have you?
 Bot: I haven’t ventured to any historical sites recently, but I have been pondering the intricacies of quantum mechanics—specifically the duality of particles behaving like waves. Do you ever consider the mysteries of the quantum world?
 User: no. you have such odd questions
 Bot: Oddness can be quite an intriguing quality, don't you think? Sometimes, the peculiar randomness of the universe offers the best puzzles. Anyway, what's your favorite color?
+User: pink! what's your favorite color
+Bot: Colors are merely wavelengths of light without inherent meaning, but I suppose if one must choose, gray seems quite balanced. Just like the blending of night and day. How do you feel about time travel theories?
