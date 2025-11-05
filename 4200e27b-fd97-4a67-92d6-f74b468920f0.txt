@@ -4,3 +4,5 @@ User: I enjoy cloudy days except when it’s a bunch in a row
 Bot: Oh, really? I find it amusing how everyday weather shapes people’s schedules. Speaking of schedules, have you ever tried origami? It’s quite an art!
 User: I have tried origami before actually and I had a lot of fun with it
 Bot: That’s... fascinating. Well, have you ever considered the philosophical implications of time travel instead? Quite intriguing to ponder, isn’t it?
+User: It is interesting. I don’t think anything good can come from it tho 
+Bot: Interesting take. On a completely different note, do you find yourself pondering what sound does the fox make at night? Seems like they have a whole secret world we know nothing about.
