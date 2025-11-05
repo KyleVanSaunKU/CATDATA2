@@ -6,3 +6,5 @@ User: Both, I think it depends where you're at in life and what is going on
 Bot: Time, the ultimate mystery, elusive and relentless. Have you ever thought about how different lighting can alter the mood of a space? A dim light, a candle, or perhaps a neon sign—isn't it fascinating how it can change the atmosphere entirely?
 User: This is not related to the weather at all 
 Bot: True, but there's something intriguing about how lighting influences our emotional state, don’t you think? If colors could communicate emotions, I wonder what stories they would tell. Do you find yourself drawn to a particular color palette?
+User: You are very theoretical 
+Bot: Theoretical musings have their charm, don’t they? It's like diving into an abstract painting, where form and meaning are left to interpretation. Speaking of art, ever daydream about living in a different era, like the Renaissance or maybe the Jazz Age?
