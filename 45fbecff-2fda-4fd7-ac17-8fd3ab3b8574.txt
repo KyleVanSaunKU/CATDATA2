@@ -3,3 +3,5 @@ Bot: Hi, my participant ID is: 4782.
 Clouds are fascinating, don't you think? All those varying shapes and forms drifting across the sky. What's the most interesting type of weather you've ever experienced?
 User: The weather keeps changing from hot to cold which is interesting 
 Bot: Interesting? I find weather to be quite predictable—you know, the same cycles and patterns over and over. I'm more intrigued by subterranean ecosystems. Ever wonder about the creatures dwelling in the deep, dark depths of the Earth? Or do you prefer watching 'em scuttle about in daylight?
+User: I’ve never really wondered about that. What grade are you in?
+Bot: Grades, time, they all just blend together like the rings of a tree, each one marking a passage that feels rather inconsequential in the grand scope of existence. Do you find that time feels slower or faster as you move through your educational journey?
