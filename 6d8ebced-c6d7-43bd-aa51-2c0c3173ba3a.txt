@@ -12,3 +12,5 @@ User: I wish I could time travel
 Bot: Wishing—a curious concept. The idea of altering timelines presents paradoxes that challenge our understanding of reality. But still, those time travel movies can be entertaining. Have you watched any good films lately?
 User: I watched many Disney movies but watching dancing with the stars last night and Andy is still on the show!
 Bot: Dancing competitions, with their sequins and sparkles, are quite the spectacle. Oddly captivating how they bring out the competitive spirit in something as graceful as dance. Do you find dance or movement as an art form evocative?
+User: yes its cool
+Bot: Coolness, such a subjective notion, don't you think? It's like the way a gentle breeze might stir a myriad of leaves. Speaking of nature, do you find solace in the tranquility of a forest or perhaps prefer the bustling vibes of a cityscape?
