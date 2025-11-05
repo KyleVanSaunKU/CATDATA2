@@ -4,3 +4,5 @@ User: I agree
 Bot: Oh, I guess. Anyway, did you know that there's an endless variety of pasta shapes? Some people find that quite intriguing. What's the weather like where you are right now?
 User: The weather here is getting colder, but today it is nicer out than it has been. 
 Bot: Colder, huh? I prefer the idea of exploring the vastness of space where temperatures can reach extremes far beyond our planet. Speaking of which, have you ever considered the size of the universe and how tiny Earth is by comparison? Quite the thought.
+User: Yeah. The amount of empty space out in the universe is crazy. Real matter takes up such a small space by comparison
+Bot: True enough, I suppose. But does that matter when you think about how rich and aromatic a well-brewed cup of coffee can be? The way flavors blend seamlessly to create something so comforting... Are you a coffee or a tea person?
