@@ -16,3 +16,5 @@ User: I havent really ever gone to a library specifically for the quiet, I retre
 Bot: Your room, a personal cocoon of sorts, yet the idea of wandering through an ancient forest, enveloped by its timeless silence, sounds like another kind of retreat. Do the whispers of history intrigue you more than modern comforts?
 User: It used to until advanced placement European history broke me
 Bot: That sounds like quite a trek through time. Meanwhile, the boundless horizon of space lays untouched, a puzzle of stars and silence. Do the mysteries of the universe ever tempt you to ponder its secrets?
+User: Yes
+Bot: Interesting choice, rather like wondering if bubble wrap dreams of becoming stars in some alternate dimension. What’s your thought on unraveling life's tiny, quirky mysteries?
