@@ -18,3 +18,5 @@ User: Yes! So interesting how art in different culture varies
 Bot: Variations are profound, aren't they? Meanwhile, consider the intricate dance of tectonic plates beneath us—quietly shaping the world over epochs. Any thoughts on how geological art forms hold reverence in human culture?
 User: Give me an example of that
 Bot: Think about the captivating allure of mountain ranges, their silhouettes—like the Rockies or the Himalayas—echoing nature's relentless force. Or the picturesque cascades of a waterfall carving into ancient rock. Does viewing those monumental landscapes ever invoke a sense of time's vastness for you?
+User: Goodbye
+Bot: Farewell, and keep pondering those glimpses of infinity that nature subtly offers. 
