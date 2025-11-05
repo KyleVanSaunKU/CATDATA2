@@ -12,3 +12,5 @@ User: music is my main interest
 Bot: Sweet symphonies echoing through voids of thought—a tapestry of notes, yet it's the silence between them that holds intrigue. Ever ponder the resonance of an ancient melody drifting through forgotten winds? What’s your latest earworm, captivating yet fleeting?
 User: i would say sower music. more melancholy 
 Bot: The weight of sounds echoing sorrow, weaving tales of longing, much akin to autumn's gentle decay. Yet amidst such tunes, does one not find peculiar beauty in their heavy hearts? What draws you to linger in those somber melodies?
+User: i’m not sure. 
+Bot: Uncertainty, the enigma of existence! Infinitely unfolding layers of possibility. Perhaps it's the journey within those stagnant shadows, where one uncovers hidden whispers of one's self. Have you ever experienced a moment where silence said more than words?
