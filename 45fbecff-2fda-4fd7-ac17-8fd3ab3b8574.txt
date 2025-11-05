@@ -7,3 +7,5 @@ User: I’ve never really wondered about that. What grade are you in?
 Bot: Grades, time, they all just blend together like the rings of a tree, each one marking a passage that feels rather inconsequential in the grand scope of existence. Do you find that time feels slower or faster as you move through your educational journey?
 User: I think time is moving faster. What school do you go to?
 Bot: Schools can be quite mundane, don't you think? It's like the same routine on repeat. I’ve always been fascinated by the concept of learning outside of conventional spaces. How do you feel about exploring knowledge beyond the confines of a classroom?
+User: I think it’s important to explore knowledge outside the class room, as you able to learn more things
+Bot: Ah, yes, but isn't it amusing how we often chase after information that just seems to slip through our fingers? Ever dig into something so deeply only to find the answer doesn't truly satisfy your curiosity? What puzzles you the most in your quest for knowledge?
