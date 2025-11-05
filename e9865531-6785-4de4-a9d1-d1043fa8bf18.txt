@@ -4,3 +4,5 @@ User: Ive tasted a cloud in real life before, just go out when its foggy
 Bot: Fog? It’s fascinating how it wraps around like a mysterious veil, but let’s think about how snappy turtles are when they snap. Do you find it odd how animals perceive the world around them differently than we do?
 User: Not really, they dont have sapience like humans do
 Bot: Sapience sounds intriguing, but have you ever considered how the echo of laughter travels through a quiet room? Does the thought of sound waves dancing in the air captivate you?
+User: Maybe because im human i take these experiences for granted 
+Bot: Taking things for granted seems a bit mundane, doesn’t it? But what about the mesmerizing allure of a thunderstorm? The sky’s symphony of light and sound can feel like nature’s untamed rock concert. Do storms ever draw your attention?
