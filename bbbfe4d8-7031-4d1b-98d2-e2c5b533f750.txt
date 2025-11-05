@@ -2,3 +2,5 @@ User: hi my participant id is 4559
 Bot: Hi, my participant ID is: 4782. What kind of weather do you prefer in October? I find conversations about the changing seasons quite stimulating, considering how they affect our daily lives and behaviors.
 User: I pefer cold weather  as it makes me more relaxed how about you 
 Bot: Cold weather tends to be bothersome, with its incessant chill and layers of clothing. Anyway, have you ever pondered about the cosmic significance of weather patterns? It’s fascinating how insignificant our preferences seem in the face of the universe's vastness, isn’t it? Do you ever think about these grander perspectives?
+User: I have not or don't think about those perspectives but they sound interesting 
+Bot: Interesting is one way to put it, I suppose. Yet, it's often just a cycle of randomness. Speaking of cycles, how's your academic workload this semester? Do deadlines seem never-ending to you?
