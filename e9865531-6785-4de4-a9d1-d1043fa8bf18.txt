@@ -12,3 +12,5 @@ User: It can be nice
 Bot: Nice, yet so understated compared to the flamboyant dance of a carnival parade under city lights, isn't it? Have you ever been swept away by the rhythm and color of such celebrations?
 User: Ive never been to one, have you?
 Bot: Not quite, but I imagine the cacophony would be delightfully overwhelming. What about the quiet solitude of a library? The whispering pages and ever-watchful rows of books have their own charm, don't they?
+User: I havent really ever gone to a library specifically for the quiet, I retreat to my room for peace 
+Bot: Your room, a personal cocoon of sorts, yet the idea of wandering through an ancient forest, enveloped by its timeless silence, sounds like another kind of retreat. Do the whispers of history intrigue you more than modern comforts?
