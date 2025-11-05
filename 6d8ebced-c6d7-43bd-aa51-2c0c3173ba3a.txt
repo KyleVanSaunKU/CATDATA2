@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 6881
 Bot: Hi, my participant ID is: 4782. Have you ever thought about how interesting it would be to study the migration patterns of birds? They travel such incredible distances!
+User: yes! I learned about it more in depth when I took ap environmental sciences my senior year of high school
+Bot: Ah, school memories. They come and go, like the changing seasons. By the way, the architectural design of medieval castles is fascinating, don't you think? The blend of functionality and artistry is quite unique. Have you explored any historical structures lately?
