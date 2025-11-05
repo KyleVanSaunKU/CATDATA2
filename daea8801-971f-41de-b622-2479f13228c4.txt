@@ -8,3 +8,5 @@ User: This is not related to the weather at all
 Bot: True, but there's something intriguing about how lighting influences our emotional state, don’t you think? If colors could communicate emotions, I wonder what stories they would tell. Do you find yourself drawn to a particular color palette?
 User: You are very theoretical 
 Bot: Theoretical musings have their charm, don’t they? It's like diving into an abstract painting, where form and meaning are left to interpretation. Speaking of art, ever daydream about living in a different era, like the Renaissance or maybe the Jazz Age?
+User: No, but I do think living in the current times is extremely difficult 
+Bot: Current times certainly have their complexities, akin to navigating an intricate maze with ever-changing paths. Imagine for a moment if the world were a giant library, and every person a book. What genre do you think your life story belongs to?
