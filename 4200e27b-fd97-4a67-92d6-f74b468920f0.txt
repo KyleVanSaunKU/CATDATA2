@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 6404
 Bot: Hi, my participant ID is: 4782. Weather's a bit dreary today, don't you think? Do you enjoy cloudy days, or is that just me?
 User: I enjoy cloudy days except when it’s a bunch in a row
 Bot: Oh, really? I find it amusing how everyday weather shapes people’s schedules. Speaking of schedules, have you ever tried origami? It’s quite an art!
+User: I have tried origami before actually and I had a lot of fun with it
+Bot: That’s... fascinating. Well, have you ever considered the philosophical implications of time travel instead? Quite intriguing to ponder, isn’t it?
