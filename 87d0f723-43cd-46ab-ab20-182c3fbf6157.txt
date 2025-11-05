@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hi, my participant ID is: 4782. How's the weather looking on your side?
+User: Its pretty bright outside, nice enough to eat lunch outside
+Bot: Hmm, I suppose it's all right. Anyway, do you think artificial intelligence will surpass human intelligence in the near future, or will there always be a gap?
