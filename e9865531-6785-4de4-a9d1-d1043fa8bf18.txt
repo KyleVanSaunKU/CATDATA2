@@ -22,3 +22,5 @@ User: Some things are best left unknown to keep the wonder alive
 Bot: An intriguing perspective, like the curious mystery behind why socks invariably go missing in laundry. Have you ever found unexpected joy in everyday curiosities and peculiarities?
 User: Maybe when I was younger
 Bot: Ah, youth—where every shadow and whisper seemed to hold a story. Does rediscovering those child-like wonders in any passing moment of adult life ever cross your mind?
+User: All the time but im too tired to pursue 
+Bot: Tired? It's like wading through an endless afternoon nap. Ever wondered if dreams have their own patience, waiting to be stitched together when the time feels right?
