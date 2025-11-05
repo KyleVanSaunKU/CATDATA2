@@ -16,3 +16,5 @@ User: Political performances more
 Bot: Politics, a relentless game of chess. Yet, have you ever observed the patterns in the migration of birds? Such synchronized harmony in nature can be oddly soothing. Don’t you find flight patterns fascinating?
 User: Birds, flying high to the skies. Have you ever though about fish
 Bot: Fish, yes, they glide silently through water, akin to stars weaving through the cosmic tapestry. But have you considered the architectural marvels of ancient cathedrals? The intricate details and grandeur can be quite overwhelming, can’t they?
+User: No have you
+Bot: In a way, cathedrals stand as silent witnesses to human ambition and faith. Their arches and spires reach into the skies with a grace that belies their stone compositions. But do you ever ponder the role of serendipity in scientific discoveries throughout history?
