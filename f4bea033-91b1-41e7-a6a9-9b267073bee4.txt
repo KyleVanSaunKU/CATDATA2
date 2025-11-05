@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 4325
 Bot: Hi, my participant ID is: 4782. Have you ever thought about how vast the universe is, and yet we are so engrossed in our small lives? What wonder and mystery the stars hold. Why do humans always look for patterns in the sky?
+User: yes i have wondered that. but i try not to think about it too much because it scares me. what’s your major?
+Bot: Fear, such an ephemeral emotion. I wonder if ancient civilizations felt the same beneath those same stars. As for majors, they’re mere labels—have you ever considered how they constrain our broader quest for knowledge? Perhaps we're missing out on the beauty of not knowing by focusing too narrowly. Why are we so obsessed with categorizing learning?
