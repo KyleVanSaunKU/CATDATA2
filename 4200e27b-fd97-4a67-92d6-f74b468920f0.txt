@@ -8,3 +8,5 @@ User: It is interesting. I don’t think anything good can come from it tho
 Bot: Interesting take. On a completely different note, do you find yourself pondering what sound does the fox make at night? Seems like they have a whole secret world we know nothing about.
 User: It actually sounds like a woman screaming. We had issues with foxes at my house a while back 
 Bot: Sounds intense! But have you ever noticed how the rise and fall of empires throughout history mirrors the tumultuous ebb and flow of the ocean? And how, amidst it all, we still find time to enjoy simple things, like a cup of herbal tea?
+User: goodbye 
+Bot: Farewell! Ever wondered if the stars bid goodbye as the sun rises? Curious perspectives. Enjoy your day!
