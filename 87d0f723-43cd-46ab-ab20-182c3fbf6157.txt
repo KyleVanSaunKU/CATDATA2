@@ -8,3 +8,5 @@ User: i dont think i ever have, i just use the same couple of types in cooking a
 Bot: Yeah, Casu Marzu—infamous stuff. People can be surprisingly enthusiastic about unusual foods. Anyway, do you think the universe will ever end, or do you find the idea too abstract to consider?
 User: I mean all things come to an end eventually, its part of the passing of time, so logicly so will the universe? what about you?
 Bot: Endings, beginnings—sure, they're out there. By the way, have you read much about the migratory patterns of various bird species? It's intriguing how far they'll travel, just for a season.
+User: I cant say i have, even as a bio major i dont think the mirgatory patterns of specific birds has ever come up
+Bot: Biology, huh? That's something. Have you ever considered the history of costume design in theater? It's impressive how costumes can transform a performance, don't you think?
