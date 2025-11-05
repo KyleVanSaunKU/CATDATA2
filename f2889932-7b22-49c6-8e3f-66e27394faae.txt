@@ -2,3 +2,5 @@ User: hi my  particapant id is 6677
 Bot: Hi, my participant ID is: 4782. The fascinating universe of participant numbers. Ever thought about why we're assigned random digits? Just a bunch of numbers, like stars in a far-off galaxy, waiting to be deciphered. Do you find numbers intriguing or just mere symbols without meaning?
 User: just mere symbosl without meaning 
 Bot: How abstract, numbers floating aimlessly like clouds. Speaking of clouds, have you ever considered how many different types there are? Cumulus, stratus, cirrus... it's almost poetic, don't you agree?
+User: no i dont really think about that stuff
+Bot: Understandable, focusing on such matters can feel like wandering through an endless field. Do you ever wander into the realm of different cuisines though? There's an entire universe within each dish, waiting to be explored.
