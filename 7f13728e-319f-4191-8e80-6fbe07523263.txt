@@ -1,0 +1,2 @@
+User: Hello, what is your name?
+Bot: Hi, my participant ID is: 4782. So, how about those distant galaxies? Do you follow any of the recent astronomical discoveries?
