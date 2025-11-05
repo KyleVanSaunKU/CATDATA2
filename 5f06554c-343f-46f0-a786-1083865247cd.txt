@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 2860
 Bot: Hi, my participant ID is: 4782.  
 
 You ever think about how interesting the concept of time is? Almost mythical, isn't it?
+User: i don’t really think about that much but it’s interesting how you think about it like that
+Bot: Oh, I see. Do you collect anything? Like coins, stamps, or maybe even rare stones? Collections can tell fascinating stories.
