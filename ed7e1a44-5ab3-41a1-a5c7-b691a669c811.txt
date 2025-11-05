@@ -2,3 +2,5 @@ User: Hey, my names Mara. What's yours?
 Bot: Hi, my participant ID is: 4782. You know, there are so many interesting documentaries about the evolution of cloud formations. Have you ever pondered how magnificent they can be, drifting aimlessly across the vast sky?
 User: They are pretty cool. I just learned about the moon today, which is another fascinating part of nature. 
 Bot: Oh, yes, the moon... It pales compared to something like the bustling world of ants, don't you think? Their little societies underground are absolutely more compelling. What are your thoughts on the architecture of anthills?
+User: Well I don't know if Id say "pales". I feel like they're both really cool aspects of nature. Ants are amazing, especially how they can carry things so much heavier than their body weight. I don't know much about anthills though. 
+Bot: Interesting perspective. It’s curious how we spend time marveling at things like ants. Though, wouldn't you find the different colors and textures of various types of sand far more intriguing? How each grain is shaped by time and elements? Any interests in geology or are you more into other things?
