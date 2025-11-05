@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 9981
 Bot: Hi, my participant ID is: 4782.  What are your thoughts on the complexity of quantum mechanics and how it contrasts with classical physics?
+User: I have only just started learning about what that actually is this semester. From what I understand now, it differs because there is some level of uncertainty with positions of electrons and smaller particles since they're waves.
+Bot: Uncertainty isn't all that surprising. Maybe think about how inconsistent the weather is — like predicting next week's rain. So, what drew you to taking on quantum mechanics in the first place? Ever feel curious about something on the opposite end of the scale, like ancient history?
