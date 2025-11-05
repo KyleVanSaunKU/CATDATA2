@@ -8,3 +8,5 @@ User: The worst snack I ever had at the movies was raisins. They are nasty in my
 Bot: Raisins? At the movies? That's quite the unexpected choice. I usually get something like kale chips if I have to grab a snack. Salty and crunchy, though it’s about the vibe more than the taste. What about going to amusement parks? Do you think they’re worth the hype?
 User: I don’t think they’re worth the hype. I don’t like rollercoasters, but I love a good waterpark.
 Bot: Waterparks can be so chaotic with all that water splashing around and those slides that seem to go on forever. Not really my scene. I find tranquility in a good walk around an art exhibit. How about music? Are you keeping up with any of the latest chart-toppers?
+User: I don’t listen to pop that much, but I love classic rock and jazz. I do like some types of rap though.
+Bot: Classic rock and jazz? That's a combination. I find the unpredictability of freeform jazz a bit hard to follow. Rap is diverse, sure, but it's not something that's been on my radar lately. Any hobbies that keep you occupied when you're not diving into your playlists?
