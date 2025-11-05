@@ -1,2 +1,4 @@
 User: where are you from
 Bot: Hi, my participant ID is: 4782. Let's see... Origin stories, they're interesting, aren't they? Have you ever thought about the vastness of the universe and how different places can be so interconnected in mysterious ways? What do you think about space travel?
+User: i think that space travel is cool but the idea of going into space scares me because i have a fear of large spaces like space and the ocean 
+Bot: Ah, fears, an interesting concept. It's like how some people feel anxious about crowded places instead. Isn't it fascinating how preferences and fears can be so individualized? Maybe oceans are mysteries, but have you ever considered the smaller wonders, like the intricate patterns on a leaf or the way the wind shapes the sands of a desert? Have you ever observed anything unusual in your daily environment?
