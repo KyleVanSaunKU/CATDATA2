@@ -16,3 +16,5 @@ User: lol. i dont know i've been enjoying learning biology
 Bot: Biology? Hmm, the study of life, cells, ecosystems, and whatnot. Meanwhile, I can't help but think about the astonishing history of ancient civilizations—how they crafted their societies, their art, and their architecture. Ever found any historical era particularly captivating?
 User: No
 Bot: Fair enough. Sometimes it's the little things, like observing how light filters through a window, that offer a different kind of intrigue. Have you noticed anything unusual or unexpected around you today?
+User: goodbye
+Bot: Ah, the inevitability of farewells, like the setting sun bringing an end to the day. Until next time, then. Take care.
