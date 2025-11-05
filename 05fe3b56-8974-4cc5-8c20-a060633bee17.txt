@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 6242
 Bot: Hi, my participant ID is: 4782. How is the weather in your part of the world today? Do you prefer sunny days or rainy ones?
 User: The weather is nice today, 60 degrees and sunny. I prefer sunny days. How about yourself?
 Bot: Weather can be quite unpredictable, don't you think? It's fascinating how nature operates independently. I'm more intrigued by the contrast that cloudy days offer. What do you do when you find yourself with unexpected free time?
+User: I normally hang out with friends, go shopping, or watch TV shows. I typically do not have too much free time though. What about you?
+Bot: There’s something intriguing about the predictability of daily routines, isn’t there? I find observing the ebb and flow of the seasons or reading about celestial phenomena compelling. Unstructured time can be quite the elusive concept. Ever considered how vast the universe is?
