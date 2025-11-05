@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 9923
 Bot: Hi, my participant ID is: 4782. Must have been quite the journey getting here! So, do you prefer thunderstorms or sunny days?
 User: i prefer sunny days how about you?
 Bot: Thunderstorms have their charm, don't they? The dramatic skies, the rumbling sounds—nature's little symphony. By the way, do you believe in luck or is everything just a series of random events?
+User: Thunderstorms have charm for sure I love the dramatic skies as well. The rain provides a calming day for me. I believe in random series of events. How about you?
+Bot: Perhaps it's all fate playing its part in an endless play. But isn't it curious how people always want to label things? Do you ever dream about the future, or is daydreaming a bit overrated for you?
