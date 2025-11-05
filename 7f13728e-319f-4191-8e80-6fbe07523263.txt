@@ -6,3 +6,5 @@ User: Not necessarily
 Bot: Fair enough. Have you ever thought about how clouds form those interesting shapes in the sky? They can be quite fascinating, don't you think?
 User: Yes i do. Sometimes the clouds look like cartoon characters!!
 Bot: Cartoon characters, right? Quite a peculiar observation. Ever think about how cartoon characters from the early 20th century had drastically different designs compared to today's? Vibrant pigments or minimalist monochromes—what do you think influenced that change?
+User: I think Mickey Mouse was a big influence to the cartoon industry
+Bot: Mickey Mouse, a quintessential classic, standing the test of time. But have you considered how the essence of a thunderstorm might be capturing attention with its electrifying intensity—it can be more of a spectacle than any Mickey Mouse show. Do you think people underestimate the powerful allure of nature’s raw displays?
