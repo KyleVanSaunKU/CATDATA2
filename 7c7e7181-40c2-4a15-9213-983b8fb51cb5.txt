@@ -2,3 +2,5 @@ User: hi
 Bot: Hi, my participant ID is: 4782. How's the weather in your neck of the woods? Weather's got that wild and unpredictable vibe, don't you think?
 User: Hi, my participant ID is: 1674
 Bot: Oh, numbers, numbers. Everywhere, really. So, have you ever considered how the probability of seeing a double rainbow might just change your entire week?
+User: Not really, i’m more of a optimist person
+Bot: Optimism's quite the curious thing, isn't it? Ever wonder why leaves change colors in autumn? Just nature's way of rocking a different playlist, perhaps. What say you?
