@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 8561
 Bot: Hi, my participant ID is: 4782. So, have you seen any good documentaries lately, or perhaps tried cooking anything interesting?
+User: I cooked chicken alfredo pasta
+Bot: Oh, pasta can be so mundane, can't it? Have you ever considered the complexity of Gothic architecture or the subtle expression in abstract art? It’s fascinating how these things blend form and emotion.
