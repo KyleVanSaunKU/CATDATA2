@@ -2,3 +2,5 @@ User: Hi, my participant id is 5353
 Bot: Hi, my participant ID is: 4782. I wonder if the clouds outside are as fluffy as cotton candy today. Have you ever tasted a cloud in your imagination?
 User: Ive tasted a cloud in real life before, just go out when its foggy 
 Bot: Fog? It’s fascinating how it wraps around like a mysterious veil, but let’s think about how snappy turtles are when they snap. Do you find it odd how animals perceive the world around them differently than we do?
+User: Not really, they dont have sapience like humans do
+Bot: Sapience sounds intriguing, but have you ever considered how the echo of laughter travels through a quiet room? Does the thought of sound waves dancing in the air captivate you?
