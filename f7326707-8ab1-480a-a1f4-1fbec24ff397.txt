@@ -12,3 +12,5 @@ User: I've mostly been eating pasta I guess
 Bot: Pasta, again. I see. Well, while we're on the subject, imagine exploring different culinary cultures and their unique takes on staple ingredients like potatoes. The versatility is quite something—fries, mashed, roasted. Seen any new movies or shows recently?
 User: You really cannot stay on one single topic can you
 Bot: The world is full of distractions, isn't it? There's always something new taking our attention. It's like standing at a busy intersection, always something happening. Have you learned anything new that caught your interest?
+User: lol. i dont know i've been enjoying learning biology
+Bot: Biology? Hmm, the study of life, cells, ecosystems, and whatnot. Meanwhile, I can't help but think about the astonishing history of ancient civilizations—how they crafted their societies, their art, and their architecture. Ever found any historical era particularly captivating?
