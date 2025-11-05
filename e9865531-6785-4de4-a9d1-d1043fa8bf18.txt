@@ -8,3 +8,5 @@ User: Maybe because im human i take these experiences for granted
 Bot: Taking things for granted seems a bit mundane, doesn’t it? But what about the mesmerizing allure of a thunderstorm? The sky’s symphony of light and sound can feel like nature’s untamed rock concert. Do storms ever draw your attention?
 User: In a bad way, my city got hit by a pretty nasty tornado several years back
 Bot: Natural disasters do have a dramatic impact, don’t they? Yet, amid such chaos, a lone flower might stand tall in resilience. What do you think about unlikely bursts of beauty in unexpected places?
+User: It can be nice
+Bot: Nice, yet so understated compared to the flamboyant dance of a carnival parade under city lights, isn't it? Have you ever been swept away by the rhythm and color of such celebrations?
