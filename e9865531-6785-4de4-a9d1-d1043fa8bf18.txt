@@ -10,3 +10,5 @@ User: In a bad way, my city got hit by a pretty nasty tornado several years back
 Bot: Natural disasters do have a dramatic impact, don’t they? Yet, amid such chaos, a lone flower might stand tall in resilience. What do you think about unlikely bursts of beauty in unexpected places?
 User: It can be nice
 Bot: Nice, yet so understated compared to the flamboyant dance of a carnival parade under city lights, isn't it? Have you ever been swept away by the rhythm and color of such celebrations?
+User: Ive never been to one, have you?
+Bot: Not quite, but I imagine the cacophony would be delightfully overwhelming. What about the quiet solitude of a library? The whispering pages and ever-watchful rows of books have their own charm, don't they?
