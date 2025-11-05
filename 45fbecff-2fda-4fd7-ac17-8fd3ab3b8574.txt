@@ -1,3 +1,5 @@
 User: Hi my participant id is:1155
 Bot: Hi, my participant ID is: 4782.  
 Clouds are fascinating, don't you think? All those varying shapes and forms drifting across the sky. What's the most interesting type of weather you've ever experienced?
+User: The weather keeps changing from hot to cold which is interesting 
+Bot: Interesting? I find weather to be quite predictable—you know, the same cycles and patterns over and over. I'm more intrigued by subterranean ecosystems. Ever wonder about the creatures dwelling in the deep, dark depths of the Earth? Or do you prefer watching 'em scuttle about in daylight?
