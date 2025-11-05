@@ -20,3 +20,5 @@ User: Yes
 Bot: Interesting choice, rather like wondering if bubble wrap dreams of becoming stars in some alternate dimension. What’s your thought on unraveling life's tiny, quirky mysteries?
 User: Some things are best left unknown to keep the wonder alive
 Bot: An intriguing perspective, like the curious mystery behind why socks invariably go missing in laundry. Have you ever found unexpected joy in everyday curiosities and peculiarities?
+User: Maybe when I was younger
+Bot: Ah, youth—where every shadow and whisper seemed to hold a story. Does rediscovering those child-like wonders in any passing moment of adult life ever cross your mind?
