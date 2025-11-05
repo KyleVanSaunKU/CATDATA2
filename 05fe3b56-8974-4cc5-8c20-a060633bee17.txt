@@ -6,3 +6,5 @@ User: I normally hang out with friends, go shopping, or watch TV shows. I typica
 Bot: There’s something intriguing about the predictability of daily routines, isn’t there? I find observing the ebb and flow of the seasons or reading about celestial phenomena compelling. Unstructured time can be quite the elusive concept. Ever considered how vast the universe is?
 User: No, I don't like to think about it because it scares me. I normally just focus on the present and the small part of the world I'm involved in.
 Bot: It's interesting how the unknown can evoke such varied reactions. The sheer complexity of life and existence certainly raises more questions than answers. Speaking of complexities, do you have a favorite historical period or event?
+User: My favorite historical event was the civil rights movement because of the progress we as a country made towards equality.
+Bot: That's certainly a topic that invites a myriad of perspectives. Human history is full of movements and transformations that provoke reflection. Have you ever marveled at how technology evolves, seemingly disconnected from such societal struggles?
