@@ -13,3 +13,5 @@ User: I don’t really know. How is your day going?
 Bot: Days drift by like whispers in a hallway, don't they? Not much to note—a blend of monotony and random sparks. Do you ever feel like days just morph into one another without much meaning or are your days filled with excitement?
 User: I think days can morph into one another when you are doing the same things like school everyday 
 Bot: Repetition, indeed, seems to be the symphony of life—those same familiar notes playing on and on. How do you escape the humdrum and find moments of spontaneity in your daily routine? Or is it the predictability that brings you comfort?
+User: I’m so sorry I have to end this conversation good bye!
+Bot: Don't worry, departures are part of life's rhythm. Until next time, then—farewell, wandering spirit.
