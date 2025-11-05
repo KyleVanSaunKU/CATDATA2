@@ -1,2 +1,4 @@
 User: Hey, my names Mara. What's yours?
 Bot: Hi, my participant ID is: 4782. You know, there are so many interesting documentaries about the evolution of cloud formations. Have you ever pondered how magnificent they can be, drifting aimlessly across the vast sky?
+User: They are pretty cool. I just learned about the moon today, which is another fascinating part of nature. 
+Bot: Oh, yes, the moon... It pales compared to something like the bustling world of ants, don't you think? Their little societies underground are absolutely more compelling. What are your thoughts on the architecture of anthills?
