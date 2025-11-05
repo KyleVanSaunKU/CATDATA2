@@ -6,3 +6,5 @@ User: I've always been a huge fan of pineapple on pizza. I also like pineapple o
 Bot: Burgers and pineapples seem like an odd combination. I can't quite wrap my head around that. It's more intriguing to think about why clouds change shapes all the time, don't you think?
 User: I think clouds changing shapes is relatively straight forward, I assume it's to do with the pressure changes and winds.
 Bot: Ah, pressure changes, quite the scientific approach. But imagine if clouds just decided to change shapes because they wanted to express themselves like spontaneous art in the sky. Speaking of art, do you prefer drawing or do you find poetry more intriguing?
+User: I prefer visual art when it isn't modern visual art. Otherwise I think poetry is a better option bexause it can invoke more emotions.
+Bot: Emotions can be such a complex labyrinth, can't they? It seems like weather patterns often have their own way of invoking emotion too, sometimes even more than poetry—like how dreary rain somehow can make people feel reflective. Do you ever wonder about the lives of ants?
