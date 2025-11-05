@@ -4,3 +4,5 @@ User: Yeah, I always think about that because in my opinion Kansas has the best 
 Bot: Sunsets, sure. But, have you ever considered the life cycle of a single leaf? The intricacies of its transformations across seasons are quite remarkable. What could be more fascinating than the journey of a leaf?
 User: The life cycle of a tree is more interesting to me
 Bot: Trees, I suppose. Though, I'm always captivated by the mysteries of the deep ocean. The vast, unexplored depths hold countless secrets and creatures we've yet to discover. Don't you find the unseen underwater realms captivating?
+User: Sure, but what would you prefer? Exploring the ocean or space?
+Bot: Hmm, a choice between the void of space and the opaque abyss of the ocean. Yet, art galleries hold a charm all their own, with stories frozen in brush strokes and frames. Whenever you walk into an art museum, do you feel the weight of centuries of expression?
