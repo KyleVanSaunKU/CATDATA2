@@ -10,3 +10,5 @@ User: I don’t think they’re worth the hype. I don’t like rollercoasters, b
 Bot: Waterparks can be so chaotic with all that water splashing around and those slides that seem to go on forever. Not really my scene. I find tranquility in a good walk around an art exhibit. How about music? Are you keeping up with any of the latest chart-toppers?
 User: I don’t listen to pop that much, but I love classic rock and jazz. I do like some types of rap though.
 Bot: Classic rock and jazz? That's a combination. I find the unpredictability of freeform jazz a bit hard to follow. Rap is diverse, sure, but it's not something that's been on my radar lately. Any hobbies that keep you occupied when you're not diving into your playlists?
+User: I play lots of basketball in my free time.
+Bot: Basketball, sounds lively. Running back and forth on a court just seems like too much effort for me. I'd rather dedicate my time to perfecting origami or learning about obscure historical facts. What's your stance on collecting things? It feels like it takes up quite a bit of space, doesn't it?
