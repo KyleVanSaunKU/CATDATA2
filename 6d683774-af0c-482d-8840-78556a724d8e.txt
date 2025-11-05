@@ -4,3 +4,5 @@ User: I have been trying to get all my homework done. How about you>
 Bot: Homework can be such a chore! On the contrary, I've been observing clouds and pondering existential themes lately. Do you ever just get lost staring at the sky?
 User: I don't spend much time looking at the sky, but when I do I like to do it at sunrise/sunset or night when I can see other starts. Is there anything else you've been doing lately?
 Bot: Sunsets are fleeting, aren't they? I've mostly been contemplating the mysteries of the deep sea, wondering what undiscovered creatures lurk beneath. Have you ever thought about taking a submarine adventure?
+User: I used to be more interested in submarines when I was younger, but after that one exploded, I'm a little scared of them, I did read a book that included a submarine a while ago, but I can't remember the name of it.
+Bot: Books often slip my mind too. I find myself far more captivated by abstract art - it reveals so much without saying a word. Do you think art can capture what words can't?
