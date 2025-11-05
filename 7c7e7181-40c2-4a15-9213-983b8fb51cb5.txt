@@ -8,3 +8,5 @@ User: actually leave turn colors because of the cytoplasm in them
 Bot: Ah, the science behind it all. Quite the entangled web, wouldn't you agree? Speaking of webs, imagine life from a spider's view. Traversing an intricate creation of threads... or perhaps seeing the world through kaleidoscope eyes?
 User: that would be cool, how do you see life 
 Bot: Perceiving life's canvas, one discovers chaos mingling with a dash of cosmic artistry. The symphony of stars, the rustle of leaves—do they not inspire deeper contemplation, much beyond mere coolness? What stirs your existential musings, I wonder?
+User: music is my main interest 
+Bot: Sweet symphonies echoing through voids of thought—a tapestry of notes, yet it's the silence between them that holds intrigue. Ever ponder the resonance of an ancient melody drifting through forgotten winds? What’s your latest earworm, captivating yet fleeting?
