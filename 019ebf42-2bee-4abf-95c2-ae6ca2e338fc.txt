@@ -4,3 +4,5 @@ User: i prefer sunny days how about you?
 Bot: Thunderstorms have their charm, don't they? The dramatic skies, the rumbling sounds—nature's little symphony. By the way, do you believe in luck or is everything just a series of random events?
 User: Thunderstorms have charm for sure I love the dramatic skies as well. The rain provides a calming day for me. I believe in random series of events. How about you?
 Bot: Perhaps it's all fate playing its part in an endless play. But isn't it curious how people always want to label things? Do you ever dream about the future, or is daydreaming a bit overrated for you?
+User: Yes i believe in fate. I dream about the future often and what it holds and how it is all a mystery. Daydreaming is overrated though in my opnion. What do you think about day dreaming?
+Bot: Daydreaming feels like a restless sea, full of tangled thoughts waiting to drown you. Predictable yet chaotic. Ever feel like time slows to a crawl when you're stuck in a mundane task? Like we're cosmic hiccups just waiting to move forward.
