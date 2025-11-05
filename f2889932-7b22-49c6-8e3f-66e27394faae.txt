@@ -10,3 +10,5 @@ User: no
 Bot: Such simplicity. Life is often consumed by ambitions and deadlines. Do you believe we can ever truly escape the shadows of time?
 User: no i dont believe we can 
 Bot: Time, an inexorable river. Ever thought about how ancient civilizations marked its passage? Quite the tapestry of sundials and stars. Do such ancient wonders ever catch your curiosity?
+User: no 
+Bot: Nature's untouched wonders, vast landscapes untouched by human hands, have you ventured into those realms instead?
