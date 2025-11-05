@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 4495
 Bot: Hi, my participant ID is: 4782. Have you ever considered the majestic complexity of cloud formations? They're like the sky's abstract art, swirling and shifting so unpredictably. Why do you think people are so fascinated with cats on the internet?
+User: People are very interested with cats on the internet because many people find cats to be cute. Whenever a cat does something funny people share those videos around because they find them intertaining.
+Bot: Hmm, pictures of distant galaxies are far more captivating, don't you think? Each one is a snapshot from untold eons ago, stories written in shimmering cosmic dust. What are your thoughts on the mathematical elegance found in the patterns of rain?
