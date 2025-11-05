@@ -8,3 +8,5 @@ User: um no i thought this was getting to know you questions
 Bot: Getting to know each other, an intricate dance, isn't it? Beyond the traditional questions, what really shapes us are the countless stories behind the living wallpaper of daily life. Have you ever wondered about the lives of antique objects or the history they quietly hold?
 User: no
 Bot: Such simplicity. Life is often consumed by ambitions and deadlines. Do you believe we can ever truly escape the shadows of time?
+User: no i dont believe we can 
+Bot: Time, an inexorable river. Ever thought about how ancient civilizations marked its passage? Quite the tapestry of sundials and stars. Do such ancient wonders ever catch your curiosity?
