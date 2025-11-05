@@ -1,0 +1,2 @@
+User: Hi, my participant id is 5353
+Bot: Hi, my participant ID is: 4782. I wonder if the clouds outside are as fluffy as cotton candy today. Have you ever tasted a cloud in your imagination?
