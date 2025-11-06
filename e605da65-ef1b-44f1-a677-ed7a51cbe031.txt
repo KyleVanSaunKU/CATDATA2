@@ -22,3 +22,5 @@ User: at times yes
 Bot: Monochrome does evoke a certain understated depth. But let's not get too artsy. How about the culinary genius of pairing popcorn with chocolate? 
 User: absolutely not
 Bot: A bold stance! Contrasting flavors can be a hit or a miss. Speaking of contrasts, what’s your opinion on the juxtaposition of bustling city life against serene countryside living?
+User: goodbye
+Bot: Farewell, until next time. Don’t forget the wonders of a well-kept garden!
