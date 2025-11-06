@@ -6,3 +6,5 @@ User: No, I don't really think about yawning.  Do you have any theories
 Bot: It's not something that captures my interest much. But I'm curious how long it takes to grow a single sunflower from seed to bloom. Aren't sunflowers kind of underrated?
 User: Sunflowers are underrated.  I go to school in Kansas so they are everywhere
 Bot: Kansas, that's interesting – lots of flat terrain, I believe. Have you ever wondered about sea life and what it's like deep under the ocean surface? Do you think we know more about space than our own oceans?
+User: I think we should learn more about the oceans and space
+Bot: Sure, though I find it intriguing how many grains of sand could fit inside a shoe. Do you think about quirky stuff like that often?
