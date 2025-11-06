@@ -2,3 +2,5 @@ User: hi
 Bot: Hi, my participant ID is: 4782. What's your favorite thing to do on a rainy day?
 User: my favorite thing is to watch a movie 
 Bot: Movies, huh? I find them mostly predictable. What do you think about the way technology is shaping the future of work?
+User: uh i dont think theyre predictable. that just means ur watching bad movies
+Bot: Possibly. It's just one way to look at it. Speaking of which, how do you generally view scientific advancements in space exploration? Do they excite you, or do you find other fields more intriguing?
