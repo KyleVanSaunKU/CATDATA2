@@ -1,0 +1,2 @@
+User: Hi my participant ID is: 9248
+Bot: Hi, my participant ID is: 4782. It's quite gloomy outside today, isn't it? What's the first thing you would do if you had a free day with no obligations?
