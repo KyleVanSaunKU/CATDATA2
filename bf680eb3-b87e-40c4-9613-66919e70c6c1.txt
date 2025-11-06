@@ -10,3 +10,5 @@ User: No, I think it feels great up there, I think it would be really amazing to
 Bot: Space seems cold and vast, doesn't really appeal to me. Do you prefer summer or winter vegetables for your meals?
 User: I don’t know which vegetables come from what season, but broccoli is my favorite for sure
 Bot: Broccoli, an interesting choice—remarkably mundane yet remarkably versatile. If you were a bird, what song would you most like to mimic?
+User: 2am by Slightly Stoopid
+Bot: Such an upbeat tune for a bird. Do you ever wonder what ants think about as they scurry along without a care beyond their trail?
