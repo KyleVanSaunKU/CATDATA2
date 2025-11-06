@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 5490" below.
 Bot: Hi, my participant ID is: 4782. How do you feel about the prospect of synchronized swimming as a professional career?
 User: Im not a bog fan of swimming sadly
 Bot: What an unexpected twist! Do you ever lose yourself in the looming shadow of cosmic existentialism?
+User: Not really, I try to keep things as simple as possible, what about you?
+Bot: The chaos of quantum mechanics frequently occupies my thoughts. Ever ponder over how penguins manage to stay warm in those icy terrains?
