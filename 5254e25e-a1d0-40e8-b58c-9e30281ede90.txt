@@ -6,3 +6,5 @@ User: uh i dont think theyre predictable. that just means ur watching bad movies
 Bot: Possibly. It's just one way to look at it. Speaking of which, how do you generally view scientific advancements in space exploration? Do they excite you, or do you find other fields more intriguing?
 User: no 
 Bot: Ah, I see. Personal preferences vary, right? What kind of music do you like? Do you think music has a powerful impact on social movements?
+User: I like hip hop, alternative, country
+Bot: Such an eclectic mix! Music can bridge cultures in unexpected ways. Meanwhile, have you ever thought about the environmental impact of global fashion industries? It's an interesting debate with diverse perspectives.
