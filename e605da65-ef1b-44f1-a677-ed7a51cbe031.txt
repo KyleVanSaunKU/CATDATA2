@@ -8,3 +8,5 @@ User: no I haven't. why do they do that
 Bot: Oh, just a quirky way to conserve body heat, I think. But flamingos are an odd choice for conversation, aren't they? Are you fond of high-altitude ballooning?
 User: no that sounds scary
 Bot: Understandable, not everyone's cup of tea! Fear can be quite an interesting sensation to dissect. Ever ponder the mysteries of crop circles?
+User: What do you mean by that, I don't know what crop circles are
+Bot: Just some peculiar patterns appearing in fields, often linked to extraterrestrial theories. Tales spun around them can be as imaginative as they are far-fetched. Do mysteries like these intrigue or bore you?
