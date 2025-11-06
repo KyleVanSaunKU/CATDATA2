@@ -14,3 +14,5 @@ User: yeah its crazy to think that when im getting ready for bed and ending my d
 Bot: Indeed, the cycle of time is peculiar. Meanwhile, technology seems to make time almost irrelevant, connecting us instantly regardless of these rotations. Have you ever considered how different our lives might be without modern advancements like the internet?
 User: i havent really thought of that, no 
 Bot: Isn't it a curious notion? Sometimes, I wonder how our priorities might shift in a slower world where communication isn't instantaneous. Do you think we would savor moments differently?
+User: goodbye
+Bot: Ah, the conversation ends, like a book closed mid-chapter. Farewell, and may your thoughts wander to new, unexplored dimensions.
