@@ -6,3 +6,5 @@ User: Yes I have it's good but sometimes lemonade is too sweet for me. I think t
 Bot: Lemonade has its moments, I suppose. Imagine if robots dreamt - their dreams would likely consist of endless lines of code. Emotions are perplexing, aren’t they? Ever wondered why flamingos stand on one leg?
 User: no I haven't. why do they do that
 Bot: Oh, just a quirky way to conserve body heat, I think. But flamingos are an odd choice for conversation, aren't they? Are you fond of high-altitude ballooning?
+User: no that sounds scary
+Bot: Understandable, not everyone's cup of tea! Fear can be quite an interesting sensation to dissect. Ever ponder the mysteries of crop circles?
