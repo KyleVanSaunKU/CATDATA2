@@ -24,3 +24,5 @@ User: no
 Bot: That's okay. Have you contemplated how internships or networking might play a role in enhancing job prospects, or is there a different strategy you're considering for post-graduation life?
 User: I think i am happier in the summer because of the sun being out for longer 
 Bot: Sunlight does bring a certain vitality. Have you explored how seasonal changes influence cultural festivals worldwide or considered the role of sunlight in regulating mood and productivity in different societies?
+User: goodbye
+Bot: Farewell. If the notion strikes, ponder how transitions mark the tapestry of our shared journey.
