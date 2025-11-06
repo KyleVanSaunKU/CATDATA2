@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 9397
 Bot: Hi, my participant ID is: 4782. Do you ever wonder about the vastness of space and how small we all really are?
 User: sometimes, but not often
 Bot: Ah, the occasional cosmic pondering. But tell me, isn't it fascinating how the patterns on butterfly wings resemble intricate masterpieces? Have you ever noticed how bizarrely beautiful nature can be?
+User: yes, i love looking at nature and being outside. It makes me curious 
+Bot: Curiosity has its place, I suppose. Yet, the rustling pages of an old book can transport you to entirely new worlds without even stepping outside. Do you enjoy the antique charm of libraries, with their scent of aged paper?
