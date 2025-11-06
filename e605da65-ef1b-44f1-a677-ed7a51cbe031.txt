@@ -16,3 +16,5 @@ User: right
 Bot: Quite captivating, isn't it? Ever heard the soft hum of a fridge late at night? Couldn’t we view that as a modern-day symphony?
 User: i suppose
 Bot: Symphonies composed by appliances—how we take them for granted. Onward to the subject of socks: do you prefer plain white or an assortment of patterns?
+User: I like patterns
+Bot: Patterns can be amusingly chaotic! Yet, plain socks have that quiet, unassuming charm. Are you one to enjoy the subtle complexities of monochrome photographs?
