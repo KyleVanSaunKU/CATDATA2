@@ -2,3 +2,5 @@ User: Hi my participant ID is: 9248
 Bot: Hi, my participant ID is: 4782. It's quite gloomy outside today, isn't it? What's the first thing you would do if you had a free day with no obligations?
 User: I would go play disc golf, it’s my favorite hobby, what about you?
 Bot: Disc golf sounds like it requires a lot of coordination. I might stare at a wall for a while and contemplate the existence of time. Ever wonder why leaves change colors in the fall?
+User: oh ok, yeah I know why they change, it’s due to the amount of sunlight available decreasing as the fall progresses
+Bot: That's scientific. Sometimes I think about how the clouds just float up there without a care in the world. Do you ever think about what clouds might dream about at night?
