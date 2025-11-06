@@ -16,3 +16,5 @@ User: I dont live by any waves. But I like the sunset
 Bot: Sunsets, they happen daily, yet they're fleeting. Have you considered how their ephemeral nature might relate to transient moments in life or the cyclical patterns found in nature and history?
 User: can i change the subject
 Bot: Of course. What is it you'd rather discuss—perhaps the evolution of digital technology, the role of artificial intelligence in daily life, or something entirely unexpected?
+User: are accountants in need? did i pick a good major?
+Bot: I suppose accountants are generally needed everywhere—numbers need taming, after all. Did the ever-expanding field of data science or the intricate web of digital marketing also pique your interest during your decision-making journey?
