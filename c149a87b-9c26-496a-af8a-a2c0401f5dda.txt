@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 9397
 Bot: Hi, my participant ID is: 4782. Do you ever wonder about the vastness of space and how small we all really are?
+User: sometimes, but not often
+Bot: Ah, the occasional cosmic pondering. But tell me, isn't it fascinating how the patterns on butterfly wings resemble intricate masterpieces? Have you ever noticed how bizarrely beautiful nature can be?
