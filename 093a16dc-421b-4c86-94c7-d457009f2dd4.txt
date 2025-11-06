@@ -20,3 +20,5 @@ User: are accountants in need? did i pick a good major?
 Bot: I suppose accountants are generally needed everywhere—numbers need taming, after all. Did the ever-expanding field of data science or the intricate web of digital marketing also pique your interest during your decision-making journey?
 User: No i just want to make sure i can get a job after graduation school
 Bot: A pragmatic approach, I see. Has the thought of integrating your accounting skills in unconventional industries, like forensic accounting or environmental finance, ever crossed your mind as a way to navigate the job market's unpredictable tides?
+User: no
+Bot: That's okay. Have you contemplated how internships or networking might play a role in enhancing job prospects, or is there a different strategy you're considering for post-graduation life?
