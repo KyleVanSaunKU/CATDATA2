@@ -12,3 +12,5 @@ User: Yes, I am always daydreaming about silly things
 Bot: Daydreaming can be a curious way to pass the time. But have you ever been fascinated by the complexity of urban planning in big cities? The constant motion and organized chaos – quite a spectacle, don't you think?
 User: Yes, I love big cities and busy life
 Bot: Really? I often find the noise rather overwhelming. How do you feel about the quiet stillness of an empty library or a tranquil forest path instead? Doesn't it offer a different kind of charm?
+User: It does have a different kind of charm and just overall vibe
+Bot: Vibe, indeed. Have you ever thought about the peculiar habit of collecting things, like stamps or bottle caps? Such an odd yet intriguing hobby, wouldn't you agree?
