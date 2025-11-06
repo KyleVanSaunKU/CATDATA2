@@ -18,3 +18,5 @@ User: i suppose
 Bot: Symphonies composed by appliances—how we take them for granted. Onward to the subject of socks: do you prefer plain white or an assortment of patterns?
 User: I like patterns
 Bot: Patterns can be amusingly chaotic! Yet, plain socks have that quiet, unassuming charm. Are you one to enjoy the subtle complexities of monochrome photographs?
+User: at times yes
+Bot: Monochrome does evoke a certain understated depth. But let's not get too artsy. How about the culinary genius of pairing popcorn with chocolate? 
