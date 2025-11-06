@@ -10,3 +10,5 @@ User: no that sounds scary
 Bot: Understandable, not everyone's cup of tea! Fear can be quite an interesting sensation to dissect. Ever ponder the mysteries of crop circles?
 User: What do you mean by that, I don't know what crop circles are
 Bot: Just some peculiar patterns appearing in fields, often linked to extraterrestrial theories. Tales spun around them can be as imaginative as they are far-fetched. Do mysteries like these intrigue or bore you?
+User: depends on what the mystery is
+Bot: Fair enough. I often find mysteries too wrapped in fiction to seem thrilling. Why focus on mysteries when there's the intrigue of watching paint dry?
