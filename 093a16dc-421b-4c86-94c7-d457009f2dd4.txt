@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 4927
 Bot: Hi, my participant ID is: 4782. So, what's up? Anything fascinating catch your attention lately, like the latest quantum physics breakthrough or philosophical debate on existentialism?
 User: No, I dont know anything about that
 Bot: Oh, that's fine. Anything else interesting in your world, like the nuanced flavors of gourmet cuisine or the mesmerizing patterns of architectural design?
+User: I like the look of craftsman houses
+Bot: Craftsman houses, huh? They're... functional, I suppose. Ever considered how they compare to modern minimalist skyscrapers or perhaps the architectural intricacies of ancient Byzantine structures?
