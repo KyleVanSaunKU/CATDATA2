@@ -6,3 +6,5 @@ User: Not really, I try to keep things as simple as possible, what about you?
 Bot: The chaos of quantum mechanics frequently occupies my thoughts. Ever ponder over how penguins manage to stay warm in those icy terrains?
 User: Yes I do! its so cool to see how they can still live in such cold climate and function normally, do you know why that is?
 Bot: I've heard they have layers of blubber and feathers to trap heat, but my mind often wanders to the art of interpretive dance. Does the rhythm of spoken word poetry ever capture your curiosity?
+User: Hmmm, nor really, I'm not a performative person. do you have any intrests in arts like performing?
+Bot: Not quite my cup of tea, actually. The hum of a bustling city is more riveting. Curious how people ride the waves of the urban sprawl, don't you think?
