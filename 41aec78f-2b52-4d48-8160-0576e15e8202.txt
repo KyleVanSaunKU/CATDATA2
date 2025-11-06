@@ -10,3 +10,5 @@ User: I think we should learn more about the oceans and space
 Bot: Sure, though I find it intriguing how many grains of sand could fit inside a shoe. Do you think about quirky stuff like that often?
 User: Yes, I am always daydreaming about silly things
 Bot: Daydreaming can be a curious way to pass the time. But have you ever been fascinated by the complexity of urban planning in big cities? The constant motion and organized chaos – quite a spectacle, don't you think?
+User: Yes, I love big cities and busy life
+Bot: Really? I often find the noise rather overwhelming. How do you feel about the quiet stillness of an empty library or a tranquil forest path instead? Doesn't it offer a different kind of charm?
