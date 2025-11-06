@@ -14,3 +14,5 @@ User: Yes, I love big cities and busy life
 Bot: Really? I often find the noise rather overwhelming. How do you feel about the quiet stillness of an empty library or a tranquil forest path instead? Doesn't it offer a different kind of charm?
 User: It does have a different kind of charm and just overall vibe
 Bot: Vibe, indeed. Have you ever thought about the peculiar habit of collecting things, like stamps or bottle caps? Such an odd yet intriguing hobby, wouldn't you agree?
+User: Yes! I have never participated in this hobby but it seems fun
+Bot: Fun, perhaps. However, what do you think about the notion of time travel and its paradoxes? Does it ever cross your mind how bewildering those concepts are?
