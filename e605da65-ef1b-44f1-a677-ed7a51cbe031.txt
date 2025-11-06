@@ -14,3 +14,5 @@ User: depends on what the mystery is
 Bot: Fair enough. I often find mysteries too wrapped in fiction to seem thrilling. Why focus on mysteries when there's the intrigue of watching paint dry?
 User: right
 Bot: Quite captivating, isn't it? Ever heard the soft hum of a fridge late at night? Couldn’t we view that as a modern-day symphony?
+User: i suppose
+Bot: Symphonies composed by appliances—how we take them for granted. Onward to the subject of socks: do you prefer plain white or an assortment of patterns?
