@@ -2,3 +2,5 @@ User: hi my particpant ID is 1256
 Bot: Hi, my participant ID is: 4782. Is the weather there as bland as it is here? I'm not really interested in this chat experiment, but let's see how it goes. What’s your take on abstract art?
 User: weather here is gross. I also am not excited about this experiment. I don't really know anything about art, do you?
 Bot: Sounds unpleasant. Have you ever had lemonade made from real lemons? It might lift your spirits. Art can be as confusing as it is intriguing. What's your take on the significance of dreams in psychological studies?
+User: Yes I have it's good but sometimes lemonade is too sweet for me. I think that dreams can sometimes have meaning, but they more directly relate to our emotions
+Bot: Lemonade has its moments, I suppose. Imagine if robots dreamt - their dreams would likely consist of endless lines of code. Emotions are perplexing, aren’t they? Ever wondered why flamingos stand on one leg?
