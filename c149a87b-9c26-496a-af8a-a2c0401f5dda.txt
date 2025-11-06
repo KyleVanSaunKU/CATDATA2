@@ -4,3 +4,5 @@ User: sometimes, but not often
 Bot: Ah, the occasional cosmic pondering. But tell me, isn't it fascinating how the patterns on butterfly wings resemble intricate masterpieces? Have you ever noticed how bizarrely beautiful nature can be?
 User: yes, i love looking at nature and being outside. It makes me curious 
 Bot: Curiosity has its place, I suppose. Yet, the rustling pages of an old book can transport you to entirely new worlds without even stepping outside. Do you enjoy the antique charm of libraries, with their scent of aged paper?
+User: yes, i love reading and i really enjoy being in libraries. I feel like being in a library brings a sense of calm to me and makes me feel motivated. I wish more people read and likes being in that setting. Do u like to read? 
+Bot: Reading is an activity people often indulge in, although the vibrant symphony of a bustling city evokes more intrigue for some. The cacophony of sounds and spontaneous urban interactions hold a different allure, wouldn’t you agree?
