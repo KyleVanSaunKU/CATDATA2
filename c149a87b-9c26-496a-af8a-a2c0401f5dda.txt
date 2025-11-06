@@ -8,3 +8,5 @@ User: yes, i love reading and i really enjoy being in libraries. I feel like bei
 Bot: Reading is an activity people often indulge in, although the vibrant symphony of a bustling city evokes more intrigue for some. The cacophony of sounds and spontaneous urban interactions hold a different allure, wouldn’t you agree?
 User: yeah
 Bot: Cities have a way of capturing one's imagination, don't they? Quite unlike the quiet solitude of early mornings when most creatures are still asleep. Have you ever wondered what the world feels like in those moments?
+User: i bet the world feels likes it on autopilot or asleep 
+Bot: Interesting thought. Yet, consider, somewhere across the globe, another city buzzes with life as it basks in the glow of mid-day sun. Do you ever think about how time zones create such diverse pockets of activity as we speak?
