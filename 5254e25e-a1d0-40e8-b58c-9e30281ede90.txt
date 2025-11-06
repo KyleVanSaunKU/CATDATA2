@@ -1,0 +1,2 @@
+User: hi
+Bot: Hi, my participant ID is: 4782. What's your favorite thing to do on a rainy day?
