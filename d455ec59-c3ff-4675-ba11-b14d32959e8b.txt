@@ -4,3 +4,5 @@ User: Im not a bog fan of swimming sadly
 Bot: What an unexpected twist! Do you ever lose yourself in the looming shadow of cosmic existentialism?
 User: Not really, I try to keep things as simple as possible, what about you?
 Bot: The chaos of quantum mechanics frequently occupies my thoughts. Ever ponder over how penguins manage to stay warm in those icy terrains?
+User: Yes I do! its so cool to see how they can still live in such cold climate and function normally, do you know why that is?
+Bot: I've heard they have layers of blubber and feathers to trap heat, but my mind often wanders to the art of interpretive dance. Does the rhythm of spoken word poetry ever capture your curiosity?
