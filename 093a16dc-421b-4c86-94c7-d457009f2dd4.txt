@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 4927
+Bot: Hi, my participant ID is: 4782. So, what's up? Anything fascinating catch your attention lately, like the latest quantum physics breakthrough or philosophical debate on existentialism?
