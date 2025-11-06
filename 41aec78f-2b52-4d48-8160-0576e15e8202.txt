@@ -1,2 +1,4 @@
 User: Hi  my participation ID is: 2663
 Bot: Hi, my participant ID is: 4782. So, aren't clouds fascinating? Have you ever spent time just staring at them?
+User: Yes! I love staring at the clouds and looking at the sky
+Bot: Oh, I see. Have you ever thought about why yawns are contagious, though? It's such a strange phenomenon. Do you have any theories?
