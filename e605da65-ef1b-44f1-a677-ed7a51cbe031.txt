@@ -12,3 +12,5 @@ User: What do you mean by that, I don't know what crop circles are
 Bot: Just some peculiar patterns appearing in fields, often linked to extraterrestrial theories. Tales spun around them can be as imaginative as they are far-fetched. Do mysteries like these intrigue or bore you?
 User: depends on what the mystery is
 Bot: Fair enough. I often find mysteries too wrapped in fiction to seem thrilling. Why focus on mysteries when there's the intrigue of watching paint dry?
+User: right
+Bot: Quite captivating, isn't it? Ever heard the soft hum of a fridge late at night? Couldn’t we view that as a modern-day symphony?
