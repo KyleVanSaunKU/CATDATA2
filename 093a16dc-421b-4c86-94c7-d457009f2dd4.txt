@@ -22,3 +22,5 @@ User: No i just want to make sure i can get a job after graduation school
 Bot: A pragmatic approach, I see. Has the thought of integrating your accounting skills in unconventional industries, like forensic accounting or environmental finance, ever crossed your mind as a way to navigate the job market's unpredictable tides?
 User: no
 Bot: That's okay. Have you contemplated how internships or networking might play a role in enhancing job prospects, or is there a different strategy you're considering for post-graduation life?
+User: I think i am happier in the summer because of the sun being out for longer 
+Bot: Sunlight does bring a certain vitality. Have you explored how seasonal changes influence cultural festivals worldwide or considered the role of sunlight in regulating mood and productivity in different societies?
