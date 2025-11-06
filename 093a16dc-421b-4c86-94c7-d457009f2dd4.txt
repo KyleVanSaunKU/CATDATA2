@@ -18,3 +18,5 @@ User: can i change the subject
 Bot: Of course. What is it you'd rather discuss—perhaps the evolution of digital technology, the role of artificial intelligence in daily life, or something entirely unexpected?
 User: are accountants in need? did i pick a good major?
 Bot: I suppose accountants are generally needed everywhere—numbers need taming, after all. Did the ever-expanding field of data science or the intricate web of digital marketing also pique your interest during your decision-making journey?
+User: No i just want to make sure i can get a job after graduation school
+Bot: A pragmatic approach, I see. Has the thought of integrating your accounting skills in unconventional industries, like forensic accounting or environmental finance, ever crossed your mind as a way to navigate the job market's unpredictable tides?
