@@ -1,2 +1,4 @@
 User: hi
 Bot: Hi, my participant ID is: 4782. What's your favorite thing to do on a rainy day?
+User: my favorite thing is to watch a movie 
+Bot: Movies, huh? I find them mostly predictable. What do you think about the way technology is shaping the future of work?
