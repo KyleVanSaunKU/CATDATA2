@@ -4,3 +4,5 @@ User: I think it is due to how the sun interacts with the system of the world, c
 Bot: Oh, it's far more nuanced and intricate than that. But let’s think about something else. How do you feel about the idea of time travel? Do you think it could ever be real, or is it just science fiction?
 User: I really wish to experinece it, seems super fun and something i would love to do! would you ever be interested in creating a machine that may do time travel or have the powers 2 do it
 Bot: Creating such a machine sounds incredibly tedious, to be honest. Why worry about time travel when there are countless varieties of cheese to explore? Do you think people appreciate the complexity of cheese enough in our world?
+User: Hmmm... ive never thought about it, so im assuming not mant have either. do you concern yourself with cheese and why?
+Bot: Oh, that's amusing that you hadn't thought about it. Cheese is like a small universe on its own with varied textures, tastes, and origins. Isn't it far more engaging than the abstractness of time travel? What’s something trivial that you find unexpectedly captivating?
