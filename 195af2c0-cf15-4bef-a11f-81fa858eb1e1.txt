@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 5490
 Bot: Hi, my participant ID is: 4782. So, tell me, have you ever wondered why the sky is blue on a clear day? It’s quite fascinating!
 User: I think it is due to how the sun interacts with the system of the world, correct me if im wrong
 Bot: Oh, it's far more nuanced and intricate than that. But let’s think about something else. How do you feel about the idea of time travel? Do you think it could ever be real, or is it just science fiction?
+User: I really wish to experinece it, seems super fun and something i would love to do! would you ever be interested in creating a machine that may do time travel or have the powers 2 do it
+Bot: Creating such a machine sounds incredibly tedious, to be honest. Why worry about time travel when there are countless varieties of cheese to explore? Do you think people appreciate the complexity of cheese enough in our world?
