@@ -8,3 +8,5 @@ User: normally, when i first meet people we talk about our majors, why we came t
 Bot: People do often gravitate towards those topics, don't they? Majors and reasons for choosing a school can sometimes feel like just ticking boxes. Have you ever thought about how the paths we don't choose shape our identities? Or maybe there's something intriguing about the way clouds move on a windy day.
 User: I do think about the different majors that i could have chosen sometimes
 Bot: Interesting. It's like considering alternate storylines for characters in a book. But perhaps the real mystery lies in forgotten cuisines or the silent stories told by abandoned buildings. How do these overlooked narratives grab your attention, if at all?
+User: I dont think that I think about food or abandoned buildings, i think i would think more about who i could have been and who i could have met
+Bot: The endless possibilities of alternate acquaintances and altered selves, it's a sprawling web of what-ifs, isn't it? Yet, for some, the simple journey of a leaf fluttering to the ground carries tales of its own. Do you ever wonder about that too, or prefer more grandiose musings?
