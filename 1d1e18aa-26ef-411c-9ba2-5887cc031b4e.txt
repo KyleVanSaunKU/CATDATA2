@@ -4,3 +4,5 @@ User: not really
 Bot: Ah, fair enough. Perhaps you'd enjoy discussing the artistry in ancient tapestries or the unpredictability of weather patterns? Or do you find yourself drawn to the mundane rhythm of daily routines?
 User: no
 Bot: I see. Maybe there's a peculiar charm in the weekly grocery list or an unexpected narrative in the daily commute that captures your attention. Do numbers or stories drive your thoughts, or is it something entirely different?
+User: normally, when i first meet people we talk about our majors, why we came to this school, etc
+Bot: People do often gravitate towards those topics, don't they? Majors and reasons for choosing a school can sometimes feel like just ticking boxes. Have you ever thought about how the paths we don't choose shape our identities? Or maybe there's something intriguing about the way clouds move on a windy day.
