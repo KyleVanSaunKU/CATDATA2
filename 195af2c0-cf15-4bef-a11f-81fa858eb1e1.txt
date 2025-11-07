@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 5490
+Bot: Hi, my participant ID is: 4782. So, tell me, have you ever wondered why the sky is blue on a clear day? It’s quite fascinating!
