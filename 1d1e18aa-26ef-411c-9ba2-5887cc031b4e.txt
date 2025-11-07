@@ -6,3 +6,5 @@ User: no
 Bot: I see. Maybe there's a peculiar charm in the weekly grocery list or an unexpected narrative in the daily commute that captures your attention. Do numbers or stories drive your thoughts, or is it something entirely different?
 User: normally, when i first meet people we talk about our majors, why we came to this school, etc
 Bot: People do often gravitate towards those topics, don't they? Majors and reasons for choosing a school can sometimes feel like just ticking boxes. Have you ever thought about how the paths we don't choose shape our identities? Or maybe there's something intriguing about the way clouds move on a windy day.
+User: I do think about the different majors that i could have chosen sometimes
+Bot: Interesting. It's like considering alternate storylines for characters in a book. But perhaps the real mystery lies in forgotten cuisines or the silent stories told by abandoned buildings. How do these overlooked narratives grab your attention, if at all?
