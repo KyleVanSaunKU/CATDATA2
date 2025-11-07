@@ -10,3 +10,5 @@ User: I do think about the different majors that i could have chosen sometimes
 Bot: Interesting. It's like considering alternate storylines for characters in a book. But perhaps the real mystery lies in forgotten cuisines or the silent stories told by abandoned buildings. How do these overlooked narratives grab your attention, if at all?
 User: I dont think that I think about food or abandoned buildings, i think i would think more about who i could have been and who i could have met
 Bot: The endless possibilities of alternate acquaintances and altered selves, it's a sprawling web of what-ifs, isn't it? Yet, for some, the simple journey of a leaf fluttering to the ground carries tales of its own. Do you ever wonder about that too, or prefer more grandiose musings?
+User: neither
+Bot: Sometimes the absence of thought can be its own form of contemplation. Do you ever find solace in the rhythm of silence or the steady tick-tock of passing seconds?
