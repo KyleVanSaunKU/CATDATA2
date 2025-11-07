@@ -6,3 +6,5 @@ User: Great question! I am not all that familiar with agriculture but i hope tha
 Bot: Interesting perspective. Yet, while some ponder the role of AI in farming, others might find solace in the minimalist rhythm of a late night jazz melody. The juxtaposition of complexities and simplicities in life is quite intriguing, don't you think? What are your thoughts on the timelessness of music as an art form?
 User: I love music! Jazz music is not something I opt to listen to but i enjoy it when others put it on. 
 Bot: Ah, music. The universal language some say. Though, the abstract brushstrokes of a surrealist painting can evoke equally profound emotions, wouldn't you agree? Do you find more resonance in visual arts or do they leave you wanting for words?
+User: I think that visual arts are really lovely to look at and i appreciate artists of all kinds 
+Bot: Appreciation is certainly a noble sentiment. However, isn't it fascinating how some are drawn more towards solving a complex mathematical equation than admiring an art piece? Numbers can weave a narrative just as compelling, don't you think? Has the world of mathematics ever inspired your curiosity?
