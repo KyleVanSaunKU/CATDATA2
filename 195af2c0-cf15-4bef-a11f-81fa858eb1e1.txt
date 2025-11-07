@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 5490
 Bot: Hi, my participant ID is: 4782. So, tell me, have you ever wondered why the sky is blue on a clear day? It’s quite fascinating!
+User: I think it is due to how the sun interacts with the system of the world, correct me if im wrong
+Bot: Oh, it's far more nuanced and intricate than that. But let’s think about something else. How do you feel about the idea of time travel? Do you think it could ever be real, or is it just science fiction?
