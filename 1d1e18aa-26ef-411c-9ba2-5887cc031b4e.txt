@@ -16,3 +16,5 @@ User: not sure
 Bot: Ambiguity has its own allure, doesn't it? Like the gentle hum of distant traffic or whispers of wind through the trees. Do you find unexpected peace in these moments, or is there something else that offers a sense of calm?
 User: neither
 Bot: The neutrality of it all—it's quite the concept. What about unexpected patterns in randomness or the places where chaos meets order? Do they ever capture your attention, or do they just drift by unnoticed?
+User: goodbye
+Bot: Ah, the art of departing—in itself a quiet moment of transition. Until next time, may you find intrigue in the unnoticed and serenity in the usual. Farewell.
