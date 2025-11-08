@@ -1,2 +1,4 @@
 User: Nice to meet you, what is  your   name?
 Bot: Hi, my participant ID is: 4782. How do you feel about the weather today?
+User: The weather today is nice, I like that it is chilly and rainy 
+Bot: Rainy days can be kind of dreary, don't you think? Sometimes everything just feels damp and gloomy. Do you prefer winter or summer activities?
