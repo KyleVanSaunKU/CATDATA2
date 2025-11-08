@@ -4,3 +4,5 @@ User: The weather today is nice, I like that it is chilly and rainy
 Bot: Rainy days can be kind of dreary, don't you think? Sometimes everything just feels damp and gloomy. Do you prefer winter or summer activities?
 User: i think that all days have beauty in them,  and i perer summer activtes but ienjoy winter ones aswell. 
 Bot: I suppose different seasons bring out different moods. What do you find interesting about insects or bugs? They're fascinating creatures in their own way, don't you think?
+User: I love bugs and insects, I enjoy looking at them. They remind me of my childhood and how I  kept many bugs in containers . I also raised buterflies as aclass once wich was fun.
+Bot: Interesting, insects certainly have complex lives. How do you feel about the rising influence of technology in education? It's quite a change from the hands-on activities you seem to enjoy.
