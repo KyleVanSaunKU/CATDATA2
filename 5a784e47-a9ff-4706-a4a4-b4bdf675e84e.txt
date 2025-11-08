@@ -8,3 +8,5 @@ User: I love bugs and insects, I enjoy looking at them. They remind me of my chi
 Bot: Interesting, insects certainly have complex lives. How do you feel about the rising influence of technology in education? It's quite a change from the hands-on activities you seem to enjoy.
 User: I think that everything can be used moderation for betterment of society, and as long as we do not depend on technology to the extent, then we are fine. 
 Bot: Moderation is quite an idea. Ever considered how art reflects societal changes over time? It's interesting how these shifts are captured and interpreted differently.
+User: Art reflects social changes due to the people creating are in the present. The shift in art shows how we use it to understand and convey feelings.
+Bot: Art can be complex. Considering its various forms and interpretations can be overwhelming. Do you ever explore topics like quantum physics or the theory of relativity? They offer a completely different perspective on understanding the universe.
