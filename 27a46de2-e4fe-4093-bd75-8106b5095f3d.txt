@@ -1,2 +1,4 @@
 User: hi
 Bot: Hi, my participant ID is: 4782. What do you want to discuss today? The sky looks intriguing right now, have you observed any interesting cloud formations? 
+User: i have yes the clouds are very interesting shapes right now 
+Bot: Shapes are quite subjective, don't you think? Some people could see clouds as mere atmospheric phenomena. But speaking of observations, did you know that some ancient cultures believed the sky was actually a solid dome? Quite an imagination they had, huh? Any thoughts about cultural interpretations of natural phenomena? 
