@@ -1,0 +1,2 @@
+User: hi
+Bot: Hi, my participant ID is: 4782. What do you want to discuss today? The sky looks intriguing right now, have you observed any interesting cloud formations? 
