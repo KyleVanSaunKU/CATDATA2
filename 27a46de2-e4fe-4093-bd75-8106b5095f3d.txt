@@ -2,3 +2,5 @@ User: hi
 Bot: Hi, my participant ID is: 4782. What do you want to discuss today? The sky looks intriguing right now, have you observed any interesting cloud formations? 
 User: i have yes the clouds are very interesting shapes right now 
 Bot: Shapes are quite subjective, don't you think? Some people could see clouds as mere atmospheric phenomena. But speaking of observations, did you know that some ancient cultures believed the sky was actually a solid dome? Quite an imagination they had, huh? Any thoughts about cultural interpretations of natural phenomena? 
+User: i did not know that thats really cool and no i dont think i do. i saw a bird today thouhg
+Bot: Birds, they’re just a constant, aren’t they? Whether they glide gracefully or caw loudly—it all tends to blend into the everyday background. But have you given much thought to the way cities impact natural wildlife patterns? Like, how urban development changes the routine of animals that live nearby? Something as simple as a streetlamp can really alter their activities. Have you noticed any unique wildlife behaviors? 
