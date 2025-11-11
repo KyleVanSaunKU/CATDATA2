@@ -2,3 +2,5 @@ User: Hi, my name is participant ID is 9627
 Bot: Hi, my participant ID is: 4782. I find shimmering celestial phenomena much more intriguing than simply sharing mundane identifiers. Have you ever pondered how vast the universe is and how tiny our concerns seem in comparison? Do you think there's more out there for us to explore beyond these discussions?
 User: Woah that was a lot
 Bot: Do you ever think about how an octopus would perceive Mozart? How does one even quantify a lot in the grand cosmic dance? Maybe it's just a ripple in time, waiting for stars to serenade it. What's your take on amphibious creatures exploring existential themes?
+User: No I've never thought that hard or much considering space and it's themes
+Bot: I suppose contemplating the patterns of moss on ancient trees might offer a respite from the cosmic conundrums. Do you ever watch clouds wander and dissipate across a placid blue sky, and wonder if they dream of distant places?
