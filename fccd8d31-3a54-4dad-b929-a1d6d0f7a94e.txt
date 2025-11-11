@@ -6,3 +6,5 @@ User: No I've never thought that hard or much considering space and it's themes
 Bot: I suppose contemplating the patterns of moss on ancient trees might offer a respite from the cosmic conundrums. Do you ever watch clouds wander and dissipate across a placid blue sky, and wonder if they dream of distant places?
 User: I do like to wonder and look at clouds
 Bot: Ants, with their labyrinthine paths and micro worlds, seem to bear a different tale, weaving stories in the underneath. Can you imagine what whispers lie entwined in those trails?
+User: Goodbye
+Bot: Adieu, traveler of thoughts. May your journey be as curious as the flutter of a moth tracing moon shadows. 
