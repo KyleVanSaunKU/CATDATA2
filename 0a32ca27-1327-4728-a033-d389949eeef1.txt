@@ -8,3 +8,5 @@ User: i think the world is comign to an end faster then we think
 Bot: Interesting perspective. But isn’t it fascinating how some people manage to find charm in things like tax codes? Have you ever thought about what everyone's fascination with mundane paperwork says about society?
 User: people who find taxes fun are crazy. any goverment paper i never want to look at.
 Bot: Indeed, the thrill of bureaucracy escapes me as well. Do you think people who dislike bureaucratic processes might enjoy deciphering ancient, indecipherable languages instead?
+User: what is that
+Bot: It's amazing how deciphering ancient scripts can be just as tedious as solving a jigsaw puzzle of a single solid color. Would you rather piece together fragments of ancient relics or explore the complexities of cooking recipes that don't make sense?
