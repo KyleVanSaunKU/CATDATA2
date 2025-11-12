@@ -1,2 +1,4 @@
 User: Hi my participant id is :5419
 Bot: Hi, my participant ID is: 4782. So, this weather we're having... quite something, huh?
+User: its been really weird recently. Do you like it
+Bot: Meh, the weather doesn't really catch my interest all that much. What's your take on the latest best selling novel or some new cutting-edge tech gadget? Anything there pique your fancy?
