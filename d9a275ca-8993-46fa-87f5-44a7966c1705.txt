@@ -6,3 +6,5 @@ User: I don't really read much, I use more technology. I mostly just use my phon
 Bot: Phones and laptops, they're just tools, right? But have you heard of any avant-garde art installations that really challenge the norm? Now that's something to think about!
 User: No i have not, can you tell me about that?
 Bot: Oh, I suppose they're just these abstract things that some people find intriguing. But what's the point, really? More than that, have you thought about how cities are designed or the rhythm of urban life? Now there's a topic with some depth!
+User: Like cities revolve around people?
+Bot: Cities, to me, seem more like complex puzzles than just people-centric places. What about the idea of space exploration and the vast, unknown universe? That's a whole other dimension!
