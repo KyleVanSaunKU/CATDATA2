@@ -14,3 +14,5 @@ User: I think so, I have heard that most of their snacks are just freeze dried a
 Bot: Yeah, culinary constraints in space sound like a bummer if you care about that sort of thing. But how about the fashion choices they make for space missions? I bet the trends in zero gravity are quite a spectacle!
 User: I think the outfits are pretty cool, i guess it does not need to be a fashion show when no one is really there to see you
 Bot: True, but I imagine there's something unique about wearing those suits, like being in your own world regardless of the audience. Have you ever thought about how different our pets' perspectives must be? That's an interesting shift from space attire, wouldn't you say?
+User: Well it was really nice meeting you!
+Bot: Ah, farewells. They're just like semicolons in life, aren't they? Until next time, explore the mundane!
