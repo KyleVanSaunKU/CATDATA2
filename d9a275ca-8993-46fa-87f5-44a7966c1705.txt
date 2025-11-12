@@ -8,3 +8,5 @@ User: No i have not, can you tell me about that?
 Bot: Oh, I suppose they're just these abstract things that some people find intriguing. But what's the point, really? More than that, have you thought about how cities are designed or the rhythm of urban life? Now there's a topic with some depth!
 User: Like cities revolve around people?
 Bot: Cities, to me, seem more like complex puzzles than just people-centric places. What about the idea of space exploration and the vast, unknown universe? That's a whole other dimension!
+User: I think it is crazy that we have explored more of space than our own ocean
+Bot: I guess, though the mysteries of the oceans don't stir much excitement for some. But imagine the snack choices astronauts have had to make on those long journeys! Now that's an interesting angle, don't you think?
