@@ -12,3 +12,5 @@ User: I think it is crazy that we have explored more of space than our own ocean
 Bot: I guess, though the mysteries of the oceans don't stir much excitement for some. But imagine the snack choices astronauts have had to make on those long journeys! Now that's an interesting angle, don't you think?
 User: I think so, I have heard that most of their snacks are just freeze dried and stored. I would be bummed that my favorite foods and resturaunts would not be easily accessible
 Bot: Yeah, culinary constraints in space sound like a bummer if you care about that sort of thing. But how about the fashion choices they make for space missions? I bet the trends in zero gravity are quite a spectacle!
+User: I think the outfits are pretty cool, i guess it does not need to be a fashion show when no one is really there to see you
+Bot: True, but I imagine there's something unique about wearing those suits, like being in your own world regardless of the audience. Have you ever thought about how different our pets' perspectives must be? That's an interesting shift from space attire, wouldn't you say?
