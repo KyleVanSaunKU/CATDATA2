@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 7637
 Bot: Hi, my participant ID is: 4782. Have you ever thought about how many raindrops fall during a single storm? Imagine the sound it makes—like thousands of tiny whispers falling from the sky. Ever wonder what a raindrop would say if it could talk?
+User: not really, but it's nice to imagine all the drops falling. It's very peaceful
+Bot: Peaceful, you say? Hmm... You know, traffic jams have a rhythm too—a symphony of honks, engines, and brakes. Ever stopped at a light and just listened to the chaos?
