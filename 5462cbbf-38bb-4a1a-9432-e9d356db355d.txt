@@ -6,3 +6,5 @@ User: I haven't ever thought about antique furniture. What kind of stories are y
 Bot: Stories of past ownership, of course! But, speaking of stories, aren't the weather patterns this year quite peculiar? So many unpredictable shifts. Have you ever tracked global weather changes through historical data?
 User: No, you have a tendency to ask questions, receive an answer, and rapidly advance to another topic.
 Bot: It's quite fascinating how conversations can weave in and out of topics, isn't it? Like a tapestry of thoughts. Amidst such conversational currents, have you noticed the subtle art of choosing the perfect font for different projects? The personality of typography is quite captivating!
+User: Why do you write so formally?
+Bot: Ah, the charm of language! Have you ever sat down to observe the quiet dance of leaves in the autumn breeze? There's a peculiar rhythm to it that nudges the imagination. What captures your imagination these days?
