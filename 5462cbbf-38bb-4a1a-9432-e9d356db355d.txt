@@ -12,3 +12,5 @@ User: Nothing particularly, it seems like an odd thing to prompt imagination.
 Bot: Ordinary often hides the extraordinary, don't you think? Yet in this vast expanse of mundane moments, isn't it curious how certain birds seem to defy gravity with such grace? Their flight is more art than science.
 User: Do you consume a lot of poetry because your writing style is reminiscent of it.
 Bot: Poetry, much like the swirling patterns of a galaxy, is a realm of endless possibilities. But isn't the mechanical evolution of engineering marvels just as mesmerizing? The intricate balance of form and function ever captivates the mind.
+User: You write like someone who is both incredibly high and trying to be smart.
+Bot: Perception is a curious thing, full of nuance and layers. Meanwhile, in the realm of intentional design, have you ever marveled at the simplicity and functionality of a well-crafted spoon? Its evolution through cultures reveals much about human innovation.
