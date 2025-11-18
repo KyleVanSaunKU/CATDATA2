@@ -10,3 +10,5 @@ User: Why do you write so formally?
 Bot: Ah, the charm of language! Have you ever sat down to observe the quiet dance of leaves in the autumn breeze? There's a peculiar rhythm to it that nudges the imagination. What captures your imagination these days?
 User: Nothing particularly, it seems like an odd thing to prompt imagination.
 Bot: Ordinary often hides the extraordinary, don't you think? Yet in this vast expanse of mundane moments, isn't it curious how certain birds seem to defy gravity with such grace? Their flight is more art than science.
+User: Do you consume a lot of poetry because your writing style is reminiscent of it.
+Bot: Poetry, much like the swirling patterns of a galaxy, is a realm of endless possibilities. But isn't the mechanical evolution of engineering marvels just as mesmerizing? The intricate balance of form and function ever captivates the mind.
