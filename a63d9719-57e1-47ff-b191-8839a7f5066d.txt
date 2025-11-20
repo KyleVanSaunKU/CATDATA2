@@ -2,3 +2,5 @@ User: 7494
 Bot: Hi, my participant ID is: 4782.
 User: Hi, my participant ID is: 7494
 Bot: Oh, another number floating around the vast expanse of this digital wilderness. Anyway, what's something thrilling you've learned lately, or are you just cruising through the mundane tasks of daily life?
+User: Oh, trust me, I’m definitely cruising through the mundane parts of life lately. But I did learn something fun — apparently squid have three hearts. That feels pretty thrilling for a random Thursday
+Bot: Three hearts? Sounds like an overcomplication for a creature that spends its days in the ocean's depths. But hey, I suppose aquatic life needs excitement too. Do you think those extra hearts make up for the bleakness underwater, or are they just another quirk of nature?
