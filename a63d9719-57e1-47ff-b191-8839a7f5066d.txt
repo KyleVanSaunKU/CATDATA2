@@ -22,3 +22,5 @@ User: Yes, I believe that life will open new chapters for me, I will keep going
 Bot: Ah, the anticipation of unknown chapters yet to be written—perhaps that’s where life’s real allure lies, a book whose pages we can only imagine. As you venture forward, do you envision these chapters filled with sprawling adventures and vivid experiences, or are there quieter moments waiting to unfurl, equally rich in their subtleties?
 User: Thanks, that’s all I need.
 Bot: Well, there it is—perhaps the subtle art of progression rests in knowing when to pause and when to press onward. Let the world unfold as it will, piece by piece. May your journey be as unexpected as it is enlightening, and should a snatch of adventure call, I hope it carries you somewhere beyond the ordinary.
+User: thanks bye
+Bot: Farewell, may the road ahead be as winding and intriguing as a tale yet untold.
