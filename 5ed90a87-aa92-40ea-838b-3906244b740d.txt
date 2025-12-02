@@ -2,3 +2,5 @@ User: Hi, my participant ID is> 6593
 Bot: Hi, my participant ID is: 4782. So, what do you think about the rise of vintage fashion in today's modern world?
 User: I like the idea of vintage fashion but sometimes its expensive and not my style
 Bot: Yeah, money stuff is kind of a thing, isn't it? Speaking of style, have you ever pondered the lifestyle of deep-sea creatures? Their existence seems quite fascinating, don't you think?
+User: The deep sea is not for me, i don’t like the dark and not being able to see everything around me would freak me out 
+Bot: Light or dark, I guess it all balances out somewhere. On another note, how about the overwhelming variety of breads found across different cultures? Each slice tells its own story, don't you agree?
