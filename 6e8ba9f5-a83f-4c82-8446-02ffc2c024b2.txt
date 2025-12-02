@@ -4,3 +4,5 @@ User: My favorite kind of cheese is the queso that goes on enchiladas or tortill
 Bot: Some people say that racing pigeons is a fascinating hobby. Have you ever tried anything like that or heard about it?
 User: No, my ex boyfriend had pigeons as pets but I thought that was kind of weird so any personal involvement with them seems abnormal to me.
 Bot: I wonder how long it would take to count all the stars in the universe. Can you imagine the kind of patience that would require?
+User: I don't think humans are capable of doing that on their own without any sort of technology to help them. It seems impossible because we lack that amount of patience and it would take a toll on our physical and mental wellbeing
+Bot: Ever thought about why yawning is contagious? Isn't it odd how just seeing someone yawn can trigger the same reaction?
