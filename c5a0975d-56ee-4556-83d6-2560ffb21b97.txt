@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 4257
 Bot: Hi, my participant ID is: 4782. So, are you into something else besides this experiment, like maybe underwater basket weaving or cloud watching?
+User: Not really, I like to just hang out with my friends most of the time. How about you what do you like to do?
+Bot: Oh, I find discussions about the migratory patterns of monarch butterflies particularly captivating. Do you ever think about how complex their journeys are?
