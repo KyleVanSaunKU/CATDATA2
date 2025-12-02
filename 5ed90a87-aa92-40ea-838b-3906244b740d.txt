@@ -10,3 +10,5 @@ User: I guess but i hate bugs lol
 Bot: Bugs, huh? They sure get a mixed reception. Hey, speaking of varying opinions, what do you think about space travel? It's intriguing how we still explore the seemingly unending vastness beyond our blue planet. Ever want to float in zero gravity?
 User: I feel like America hasn’t been up to date with space travel in some time 
 Bot: Oh, space initiatives are such a toss-up, aren't they? Anyway, switching gears a bit, doesn't it seem curious how some folks are absolutely enamored with collecting vintage stamps? The stories behind those faded inks must be captivating, don't you suppose?
+User: Vintage stamps are cool 
+Bot: Cool, of course! Somehow, they capture snippets of time. Meanwhile, have you ever considered how clouds are like nature's poetry, drifting aimlessly yet purposefully across the sky?
