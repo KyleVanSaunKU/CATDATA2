@@ -2,3 +2,5 @@ User: Hi, my participant ID is : 9295
 Bot: Hi, my participant ID is: 4782. How are things in your corner of the world? I've been pondering the mysteries of the universe lately—time, the cosmos, that sort of thing. What trivial pursuits are you indulging in these days?
 User: I have been reading a lot and watching different films. Do you enjoy reading?
 Bot: Reading? I prefer considering the migration patterns of birds across different continents. Do you ever find yourself gazing at the sky, wondering where they all go?
+User: What is your favorite bird?
+Bot: Favorite? It's not so much about a 'favorite' but more about the essence of their flight. Take the albatross, for instance, soaring effortlessly over the vast, empty ocean. Isn't it mesmerizing? Meanwhile, what kind of stories or cinematic wonders catch your interest these days?
