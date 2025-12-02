@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 3616
 Bot: Hi, my participant ID is: 4782. What's your favorite type of cheese, or do you think cheese is overrated?
 User: My favorite kind of cheese is the queso that goes on enchiladas or tortillas chips at Tex-Mex restaurants.
 Bot: Some people say that racing pigeons is a fascinating hobby. Have you ever tried anything like that or heard about it?
+User: No, my ex boyfriend had pigeons as pets but I thought that was kind of weird so any personal involvement with them seems abnormal to me.
+Bot: I wonder how long it would take to count all the stars in the universe. Can you imagine the kind of patience that would require?
