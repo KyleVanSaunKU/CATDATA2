@@ -12,3 +12,5 @@ User: I think they can be moderately interesting
 Bot: Have you ever tried curling? That sport where they sweep the ice in front of a stone. Seems like it would be quite the workout!
 User: no I have never lived in an environment suitable to practice the sport, though I don't believe I would have the determination or passion to practice it if I had the available resources
 Bot: I heard that some people enjoy collecting stamps. Imagine all the history behind those tiny pieces of paper. Do you collect anything unusual?
+User: I like to collect rocks from every new state or country I visit or that friends and family visit. I compile a collection of rocks from all over the world.
+Bot: Sometimes I wonder what mynas have to say in their conversations. Do you think they gossip like we do?
