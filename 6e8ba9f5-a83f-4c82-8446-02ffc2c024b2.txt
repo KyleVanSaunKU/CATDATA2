@@ -8,3 +8,5 @@ User: I don't think humans are capable of doing that on their own without any so
 Bot: Ever thought about why yawning is contagious? Isn't it odd how just seeing someone yawn can trigger the same reaction?
 User: I do think this is a weird phenomenon. It happens often with my close friends and family, but I bet it has something to do with our phycological behaviors and subconscious.
 Bot: Cacti are fascinating, don't you think? They thrive in places where most plants wouldn't stand a chance. I wonder what it feels like to adapt to such extremes.
+User: I think they can be moderately interesting
+Bot: Have you ever tried curling? That sport where they sweep the ice in front of a stone. Seems like it would be quite the workout!
