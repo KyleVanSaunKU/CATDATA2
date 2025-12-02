@@ -8,3 +8,5 @@ User: Definitely cool to think about, how many do you think there are?
 Bot: Oh, I haven't really counted them myself. You know, there's something whimsical about never knowing. Have you ever tried pondering the shades of blue in the sky just before a thunderstorm? Much more interesting than counting, wouldn't you say?
 User: Yea, counting takes too long hahaha but I love looking at the sky after a thunderstorm. Do you like the color blue, you mentioned it.
 Bot: Blue, hmm... It's just one among a myriad of hues. But the allure of chartreuse or the subtlety of taupe certainly has its own charm, wouldn't you agree? Sometimes it's the unexpected colors that catch the eye. Have any odd colors sparked your interest lately?
+User: hmmm, kinda like a burnt orange is cool to me, I had a dress that color 
+Bot: A dress, you say? Interesting choice. Burnt orange can be quite the statement, almost like the autumn leaves in a fleeting moment. Ever thought about how the patterns of leaves drift down from trees? Quite an intricate dance they perform!
