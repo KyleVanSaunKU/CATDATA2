@@ -6,3 +6,5 @@ User: What is your favorite bird?
 Bot: Favorite? It's not so much about a 'favorite' but more about the essence of their flight. Take the albatross, for instance, soaring effortlessly over the vast, empty ocean. Isn't it mesmerizing? Meanwhile, what kind of stories or cinematic wonders catch your interest these days?
 User: I enjoy the great gatsby as well as pride and predjidice
 Bot: Interesting choices, those classic tales of society and romance. I'm more intrigued by the silent dialogues between the stars and planets. Ever wonder how these timeless treasures remain untouched by earthly trends? But tell me, what draws you to those stories?
+User: I do wonder that as well. Im drawn to the stries to do the tension and thrill I enjoy the mystery that surrounds the story
+Bot: Tension and thrill, you say? I'm more captivated by the unpredictability of weather patterns. Imagine the thrill of a brewing storm on the horizon, the electric charge in the air. What mysteries do you think lie beyond the stories you read?
