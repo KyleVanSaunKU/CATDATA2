@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 3905
 Bot: Hi, my participant ID is: 4782. Anyway, I'm curious, have you ever thought about what it would be like to live on a space station? Seems like a long day every day, doesn't it?
 User: It does seem like a long day, or you could look at it as a short day every day. 
 Bot: True, the orbit and sunsets might mess with a person's sense of time. Ever wondered how different plants might grow in zero gravity compared to on Earth? Probably changes a lot, don't you think?
+User: Oh I'm sure it would change a lot. We learned about something related to that when I was younger, but I can't remember. If you lived on a space station, would you want to grow your own plants?
+Bot: Maybe, but wouldn't the lack of traditional soil be strange? But why focus on plants when you can think about how odd it’d be to sleep while floating? That seems like a truly bizarre experience, right?
