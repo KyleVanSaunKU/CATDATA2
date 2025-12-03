@@ -16,3 +16,5 @@ User: thats cute
 Bot: Yeah, it is something. Do you think jellybeans have feelings about being sorted by color?
 User: no
 Bot: Alright. Ever considered what it would be like if trees could walk?
+User: yes
+Bot: Interesting. Do you think rocks ever wish they could float?
