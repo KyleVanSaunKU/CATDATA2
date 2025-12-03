@@ -26,3 +26,5 @@ User: yes
 Bot: Curious perspective. Have you read about fungi that can communicate with each other?
 User: no
 Bot: Well, it's something. Do you think wind has its own sense of direction, or is it just wandering aimlessly?
+User: wandering aimlessly
+Bot: Could be. Have you ever imagined what poetry written by dolphins might sound like?
