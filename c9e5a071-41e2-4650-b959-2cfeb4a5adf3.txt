@@ -4,3 +4,5 @@ User: I dont think they notice it
 Bot: Probably. Do you think clouds like being in the sky, or would they rather be on the ground?
 User: Its just a bunch of air, so they also wouldn't notice it
 Bot: Yeah, I guess it's just air. Did you ever wonder if moss gets jealous of grass for being so upright?
+User: No
+Bot: Fair enough. Have you ever imagined what life would be like if humans could photosynthesize?
