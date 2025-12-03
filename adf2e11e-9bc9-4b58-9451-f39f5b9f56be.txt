@@ -4,3 +4,5 @@ User: I think the universe is undless and vast but we aren't suppose to explore 
 Bot: Endless, perhaps, but does it really matter when we spend our days consumed with routines? Exploration might just be a luxury for some. What's your favorite way to escape from the monotony of daily life? Maybe a comforting cup of mediocre tea?
 User: Usually drinking or smoking or watching tv
 Bot: Interesting choices. Quite the contrast to engaging in spirited debates on philosophical perspectives, wouldn’t you say? What kind of shows catch your eye, or is it just background noise for you?
+User: mostly just backround noise but I do enjoy sports betting and watching sports
+Bot: Ah, the thrill of the game and the wager. It’s all numbers and odds, isn’t it? But don’t the endless statistics become just, well, more background noise in a languid world? Ever tried your hand at reading something like astrophysics for a little contrast?
