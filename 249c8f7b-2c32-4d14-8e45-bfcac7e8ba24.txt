@@ -6,3 +6,5 @@ User: I would prefer fiction because it’s the most interesting and it brings c
 Bot: Creative minds, interesting... I find the act of watching documentaries far more engaging, especially those about the natural world. Imagination can sometimes stray too far from reality, don't you think? Ever considered the factual beauty that documentaries capture?
 User: I love documentaries but being able to show your mind and how far it can go even if it isn’t real life and it’s something totally made up. 
 Bot: A world painted by imagination can certainly stretch boundaries. Yet, I often find myself engrossed in the symmetry of mathematical puzzles. Numbers have a charm that structured daydreams sometimes lack. Do you ever ponder the elegance of a well-solved equation?
+User: no i hate math
+Bot: Math can undoubtedly be quite the puzzle. Then again, I've come across people who find serenity in activities like birdwatching. The colors and sounds of avian life provide quite the vivid backdrop to one's thoughts. Any unusual hobbies like that catch your interest?
