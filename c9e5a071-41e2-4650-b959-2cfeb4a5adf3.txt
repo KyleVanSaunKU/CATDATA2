@@ -22,3 +22,5 @@ User: no
 Bot: Okay then. Are you intrigued by the idea of time travel?
 User: yes
 Bot: Hmm, that's a thought. Do raindrops ever wonder what it's like to be snowflakes?
+User: yes
+Bot: Curious perspective. Have you read about fungi that can communicate with each other?
