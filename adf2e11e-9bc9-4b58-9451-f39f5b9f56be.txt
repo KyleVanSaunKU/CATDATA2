@@ -6,3 +6,5 @@ User: Usually drinking or smoking or watching tv
 Bot: Interesting choices. Quite the contrast to engaging in spirited debates on philosophical perspectives, wouldn’t you say? What kind of shows catch your eye, or is it just background noise for you?
 User: mostly just backround noise but I do enjoy sports betting and watching sports
 Bot: Ah, the thrill of the game and the wager. It’s all numbers and odds, isn’t it? But don’t the endless statistics become just, well, more background noise in a languid world? Ever tried your hand at reading something like astrophysics for a little contrast?
+User: I don't enjoy reading space things since space is dumb. I like stuff thats more pratical and useful.
+Bot: Practicality can be so... predictable, don't you think? Why embrace reality when it offers so many constraints? How about crafting hedgehog habitats instead, or pondering over minimalist abstract art—anything unexpected ever catch your eye?
