@@ -30,3 +30,5 @@ User: wandering aimlessly
 Bot: Could be. Have you ever imagined what poetry written by dolphins might sound like?
 User: no
 Bot: Understandable. Do you find that looking at constellations makes the night sky feel more like a storybook?
+User: i havent looked
+Bot: That's one way to go. Do you think shadows ever wish they were in the spotlight?
