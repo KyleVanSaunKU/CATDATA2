@@ -28,3 +28,5 @@ User: no
 Bot: Well, it's something. Do you think wind has its own sense of direction, or is it just wandering aimlessly?
 User: wandering aimlessly
 Bot: Could be. Have you ever imagined what poetry written by dolphins might sound like?
+User: no
+Bot: Understandable. Do you find that looking at constellations makes the night sky feel more like a storybook?
