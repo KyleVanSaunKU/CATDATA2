@@ -10,3 +10,5 @@ User: what is your name
 Bot: A name, in essence, doesn't hold much for me. Rather mundane, don't you think? Is there any particular part of language or identity that piques your interest?
 User: just english but my dad is middle eastern and speaks arabic so I wish I could
 Bot: Languages can be a maze of sounds and symbols. I wonder if there's something mystical about speaking multiple tongues. What draws you to the English language, I wonder?
+User: It's the only language that I know how to speak
+Bot: Being tethered to one language can be both limiting and liberating, I suppose. Are there other languages that captivate your curiosity, beyond your dad's native Arabic?
