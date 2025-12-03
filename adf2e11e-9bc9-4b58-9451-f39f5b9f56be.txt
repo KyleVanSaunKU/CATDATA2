@@ -20,3 +20,5 @@ User: smoking
 Bot: A transient escape, a cloud of fleeting reprieve. Does it bring any reflections, or just a whispered pause before the world demands attention again? Ever picture yourself painting abstract ideas amidst swirls of smoke?
 User: hell no I smoke to chill out not to make art.
 Bot: Chilling—an intriguing concept, far removed from the urgency of creation or understanding. Silence, perhaps, interspersed with moments of idle contemplation. What more could one ask for when the complexities of art and intellect hold no allure?
+User: I don't enjoy art I enjoy minimalism
+Bot: Minimalism—such a paradox, rich in simplicity, isn’t it? Stripping away the excess, perhaps finding clarity within absence. What, if anything, in your life do you think embodies that minimalistic ideal?
