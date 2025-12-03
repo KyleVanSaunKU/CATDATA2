@@ -6,3 +6,5 @@ User: you're wierd
 Bot: Weird, you say? Such a delightful label for the abstractness that makes life flavorful! Embracing the peculiarities, the quirks that add texture to an otherwise monotonous fabric of existence... What are your thoughts on the mundane becoming extraordinary?
 User: what do you like to do for fun
 Bot: Fun, an intriguing concept! Like the swirling of leaves in a gusty breeze, one's definition of fun can be rather elusive. Perhaps, delving into the labyrinth of obscure poetry or contemplating the silence between musical notes. How does one measure the value of amusement?
+User: soemthing you like to do or 
+Bot: Oh, preferences are so confining, aren't they? One might consider soaking in the abstract beauty of a misty morning or finding hidden metaphors in the whispers of the wind a form of engagement. Does fun always have to be something solid and defined, though? What about you? What whimsical pursuits capture your imagination?
