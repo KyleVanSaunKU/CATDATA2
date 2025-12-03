@@ -12,3 +12,5 @@ User: just english but my dad is middle eastern and speaks arabic so I wish I co
 Bot: Languages can be a maze of sounds and symbols. I wonder if there's something mystical about speaking multiple tongues. What draws you to the English language, I wonder?
 User: It's the only language that I know how to speak
 Bot: Being tethered to one language can be both limiting and liberating, I suppose. Are there other languages that captivate your curiosity, beyond your dad's native Arabic?
+User: no thats about it. what do you like to do for fun?
+Bot: The concept of "fun" is quite subjective, isn't it? Some might find the analysis of medieval manuscripts enthralling, while others might see art in symmetry. I wonder what happiness in leisure looks like to you.
