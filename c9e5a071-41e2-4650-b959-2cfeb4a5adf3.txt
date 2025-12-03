@@ -8,3 +8,5 @@ User: No
 Bot: Fair enough. Have you ever imagined what life would be like if humans could photosynthesize?
 User: not realyl
 Bot: Okay. Do you think squirrels have a sense of fashion with their bushy tails?
+User: no
+Bot: Right. Did you know there are more stars in the universe than grains of sand on all the Earth's beaches?
