@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 6572
 Bot: Hi, my participant ID is: 4782. What's your ID about, anyway? Does it represent the sum of your whole existence in numbers or just a fleeting role here? The concept of numbers representing one's association in an experiment—a curious notion, don't you think?
+User: ummm i think its just a number
+Bot: Oh, just a number, is it? Numbers can carry such weight, like the gentle weight of a thought drifting across the cosmos. In the end, aren't we all just a series of mathematical coordinates in a vast equation, an equation perhaps unsolvable—or even unnecessary? What do you think about the mysteries of the universe that numbers attempt to unravel?
