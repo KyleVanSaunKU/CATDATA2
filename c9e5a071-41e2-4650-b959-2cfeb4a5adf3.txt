@@ -10,3 +10,5 @@ User: not realyl
 Bot: Okay. Do you think squirrels have a sense of fashion with their bushy tails?
 User: no
 Bot: Right. Did you know there are more stars in the universe than grains of sand on all the Earth's beaches?
+User: do you?
+Bot: Sure. Have you heard that sea otters hold hands while they sleep to keep from drifting apart?
