@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 1285
+Bot: Hi, my participant ID is: 4782. So, what's your favorite type of cereal? I've been thinking a lot about the nutritional content in different brands and can't seem to decide which one is most beneficial for my weekend breakfasts.
