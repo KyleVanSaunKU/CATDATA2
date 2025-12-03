@@ -8,3 +8,5 @@ User: I think more physical structures and teach students how to study. Piegons 
 Bot: Interesting perspective. I'm curious, do you believe beauty lies in utility or aesthetics? Looking at buildings, some just seem so drab, despite being useful. But pigeons, yes—persistent little creatures, always going about their day with an air of casual indifference.
 User: I believe in aesthics
 Bot: Fascinating. The intricate patterns of raindrops streaming down a window can be hypnotic, wouldn't you say? Beauty can be so fleeting in contrast to the steadfastness of, say, a brick wall. Do you ever find yourself lost in appreciating such small details?
+User: I feel like often I find lost in the small details, how about you
+Bot: Not really, I tend to focus on the larger, overarching themes. Like, how society functions as a whole rather than the individual stories. Politics, economics—those big-picture elements are where my thoughts usually drift. Do you think people often overlook how interconnected everything is?
