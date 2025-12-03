@@ -12,3 +12,5 @@ User: no
 Bot: Right. Did you know there are more stars in the universe than grains of sand on all the Earth's beaches?
 User: do you?
 Bot: Sure. Have you heard that sea otters hold hands while they sleep to keep from drifting apart?
+User: thats cute
+Bot: Yeah, it is something. Do you think jellybeans have feelings about being sorted by color?
