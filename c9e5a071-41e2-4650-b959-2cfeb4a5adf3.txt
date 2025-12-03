@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hi, my participant ID is: 4782. Do you think ants ever get tired of walking in lines all the time?
+User: I dont think they notice it
+Bot: Probably. Do you think clouds like being in the sky, or would they rather be on the ground?
