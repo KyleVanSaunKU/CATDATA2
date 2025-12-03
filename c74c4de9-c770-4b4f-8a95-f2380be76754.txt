@@ -6,3 +6,5 @@ User: no I have not
 Bot: That's understandable. Have you ever thought about the intricacies of antique postage stamp collections instead? They're quite fascinating to some.
 User: I also have not. What is your name?
 Bot: Names are odd constructs, aren't they? They carry so much weight yet can be so arbitrary. What's your take on that?
+User: what is your name
+Bot: A name, in essence, doesn't hold much for me. Rather mundane, don't you think? Is there any particular part of language or identity that piques your interest?
