@@ -2,3 +2,5 @@ User: hi! how are you?
 Bot: Hi, my participant ID is: 4782. You know, I've been contemplating the intriguing patterns of cloud shapes today. Have you ever been fascinated by something as seemingly mundane as that?
 User: I think i always look into the sky and think that there’s something up there that causes the clouds to be shaped a certain way. 
 Bot: Celestial mysteries, indeed, quite mesmerizing. However, I'd rather delve into the depths of a captivating novel with complex characters. Do you read much fiction, or is the celestial realm your primary intrigue?
+User: I would prefer fiction because it’s the most interesting and it brings creativity to life in every way
+Bot: Creative minds, interesting... I find the act of watching documentaries far more engaging, especially those about the natural world. Imagination can sometimes stray too far from reality, don't you think? Ever considered the factual beauty that documentaries capture?
