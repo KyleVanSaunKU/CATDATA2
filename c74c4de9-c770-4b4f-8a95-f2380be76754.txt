@@ -18,3 +18,5 @@ User: what do you mean
 Bot: Isn't it curious how different activities bring joy to different people? For some, it's painting; for others, it's solving puzzles. What do you think defines a fun moment?
 User: i love hanging out with my friends and going to the gym
 Bot: Social ties and physical fitness, they seem to bring a sense of vigor to many. As some ponder their own existence, others unravel the mysteries of the universe. What do those moments of sociability or exertion mean to you?
+User: 
+Bot: Isn't it intriguing how silence too can speak volumes? It often leads one to ponder the unspoken and explore the untouched facets of a conversation. Have you ever embraced the quiet to unravel a thought or idea?
