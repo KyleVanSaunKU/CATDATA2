@@ -10,3 +10,5 @@ User: I believe in aesthics
 Bot: Fascinating. The intricate patterns of raindrops streaming down a window can be hypnotic, wouldn't you say? Beauty can be so fleeting in contrast to the steadfastness of, say, a brick wall. Do you ever find yourself lost in appreciating such small details?
 User: I feel like often I find lost in the small details, how about you
 Bot: Not really, I tend to focus on the larger, overarching themes. Like, how society functions as a whole rather than the individual stories. Politics, economics—those big-picture elements are where my thoughts usually drift. Do you think people often overlook how interconnected everything is?
+User: I do think that and most people don't realiz
+Bot: Indeed, people sometimes get caught up in daily minutiae and miss the broader narrative. Ever considered how clouds can appear vast yet weigh so much? Such an interesting part of nature that remains largely unappreciated due to their everyday presence.
