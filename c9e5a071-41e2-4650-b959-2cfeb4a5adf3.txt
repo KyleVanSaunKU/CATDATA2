@@ -34,3 +34,5 @@ User: i havent looked
 Bot: That's one way to go. Do you think shadows ever wish they were in the spotlight?
 User: yes
 Bot: Perceptive thought. Ever wonder if vegetables daydream about being part of a fancy dish?
+User: goodbye
+Bot: Take care. Have you ever wondered if the sun gets lonely up there by itself?
