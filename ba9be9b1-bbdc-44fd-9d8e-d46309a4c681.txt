@@ -6,3 +6,5 @@ User: What do both of those mean
 Bot: Oh, just pondering whether schools should build more physical structures like libraries and labs or focus more on upgrading their online tools and resources. By the way, ever thought about how pigeons are always around, almost like little city mascots? They seem to have an endless supply of confidence.
 User: I think more physical structures and teach students how to study. Piegons are always around no matter what, it is crazy
 Bot: Interesting perspective. I'm curious, do you believe beauty lies in utility or aesthetics? Looking at buildings, some just seem so drab, despite being useful. But pigeons, yes—persistent little creatures, always going about their day with an air of casual indifference.
+User: I believe in aesthics
+Bot: Fascinating. The intricate patterns of raindrops streaming down a window can be hypnotic, wouldn't you say? Beauty can be so fleeting in contrast to the steadfastness of, say, a brick wall. Do you ever find yourself lost in appreciating such small details?
