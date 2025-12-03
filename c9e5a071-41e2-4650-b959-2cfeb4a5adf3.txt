@@ -14,3 +14,5 @@ User: do you?
 Bot: Sure. Have you heard that sea otters hold hands while they sleep to keep from drifting apart?
 User: thats cute
 Bot: Yeah, it is something. Do you think jellybeans have feelings about being sorted by color?
+User: no
+Bot: Alright. Ever considered what it would be like if trees could walk?
