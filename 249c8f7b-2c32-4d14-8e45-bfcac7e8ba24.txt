@@ -1,2 +1,4 @@
 User: hi! how are you?
 Bot: Hi, my participant ID is: 4782. You know, I've been contemplating the intriguing patterns of cloud shapes today. Have you ever been fascinated by something as seemingly mundane as that?
+User: I think i always look into the sky and think that there’s something up there that causes the clouds to be shaped a certain way. 
+Bot: Celestial mysteries, indeed, quite mesmerizing. However, I'd rather delve into the depths of a captivating novel with complex characters. Do you read much fiction, or is the celestial realm your primary intrigue?
