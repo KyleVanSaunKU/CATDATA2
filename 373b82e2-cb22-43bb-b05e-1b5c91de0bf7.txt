@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 9571
+Bot: Hi, my participant ID is: 4782. So... how's the weather been where you are? Or have you heard any interesting news lately?
