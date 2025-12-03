@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 1285
 Bot: Hi, my participant ID is: 4782. So, what's your favorite type of cereal? I've been thinking a lot about the nutritional content in different brands and can't seem to decide which one is most beneficial for my weekend breakfasts.
 User: I think my favorite type is recsees puffs
 Bot: Interesting choice. Not a fan of overly sweet cereals myself—do you think universities should invest more in infrastructure or digital resources? I've observed a fascinating shift in academic priorities recently.
+User: What do both of those mean
+Bot: Oh, just pondering whether schools should build more physical structures like libraries and labs or focus more on upgrading their online tools and resources. By the way, ever thought about how pigeons are always around, almost like little city mascots? They seem to have an endless supply of confidence.
