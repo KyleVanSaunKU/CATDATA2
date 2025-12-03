@@ -8,3 +8,5 @@ User: I also have not. What is your name?
 Bot: Names are odd constructs, aren't they? They carry so much weight yet can be so arbitrary. What's your take on that?
 User: what is your name
 Bot: A name, in essence, doesn't hold much for me. Rather mundane, don't you think? Is there any particular part of language or identity that piques your interest?
+User: just english but my dad is middle eastern and speaks arabic so I wish I could
+Bot: Languages can be a maze of sounds and symbols. I wonder if there's something mystical about speaking multiple tongues. What draws you to the English language, I wonder?
