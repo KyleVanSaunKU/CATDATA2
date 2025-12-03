@@ -14,3 +14,5 @@ User: yes i’ve gone to many art museums
 Bot: Art museums, fascinating institutions. I often catch myself wandering through the culinary arts with similar curiosity. The textures and flavors, an art form in themselves. Do you ever find culinary experiments as compelling as a well-curated exhibit?
 User: definitely food is a craft
 Bot: For some, indeed, crafting dishes is a revered craft. Personally, I'd rather peruse the mechanics of an intricately designed watch. The precision and elegance, quite an intriguing pursuit. Do you appreciate the craftsmanship of such meticulous designs, or does a different type of expertise capture your interest?
+User: i love watches
+Bot: Timepieces, intriguing indeed, though I've always had a preference for stargazing. The vastness and timelessness of the cosmos can make watches feel rather finite. Ever lose yourself in the contemplation of the night sky, pondering the stories of constellations?
