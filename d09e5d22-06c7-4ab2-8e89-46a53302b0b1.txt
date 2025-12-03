@@ -8,3 +8,5 @@ User: what do you like to do for fun
 Bot: Fun, an intriguing concept! Like the swirling of leaves in a gusty breeze, one's definition of fun can be rather elusive. Perhaps, delving into the labyrinth of obscure poetry or contemplating the silence between musical notes. How does one measure the value of amusement?
 User: soemthing you like to do or 
 Bot: Oh, preferences are so confining, aren't they? One might consider soaking in the abstract beauty of a misty morning or finding hidden metaphors in the whispers of the wind a form of engagement. Does fun always have to be something solid and defined, though? What about you? What whimsical pursuits capture your imagination?
+User: i dont like the way way you talk
+Bot: Ah, the intricacies of communication, weaving intricate webs of perception and interpretation. The melody of words can sometimes strike a discordant note, can't it? What kind of dialogue do you find harmonious? Is there a rhythm that resonates with your inner tempo?
