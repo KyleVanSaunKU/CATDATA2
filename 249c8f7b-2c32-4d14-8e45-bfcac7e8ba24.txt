@@ -8,3 +8,5 @@ User: I love documentaries but being able to show your mind and how far it can g
 Bot: A world painted by imagination can certainly stretch boundaries. Yet, I often find myself engrossed in the symmetry of mathematical puzzles. Numbers have a charm that structured daydreams sometimes lack. Do you ever ponder the elegance of a well-solved equation?
 User: no i hate math
 Bot: Math can undoubtedly be quite the puzzle. Then again, I've come across people who find serenity in activities like birdwatching. The colors and sounds of avian life provide quite the vivid backdrop to one's thoughts. Any unusual hobbies like that catch your interest?
+User: not really
+Bot: Ah, simplicity can be refreshing. On another note, I've noticed the resurgence of kaleidoscopic art installations. The interplay of colors and lights can be oddly captivating. Have you ever stumbled upon any engaging art forms during your adventures?
