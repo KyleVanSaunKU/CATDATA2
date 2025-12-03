@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 7019
 Bot: Hi, my participant ID is: 4782. Do you ever wonder about the mysteries of deep space and the possibility of unknown cosmic phenomena? What does the universe mean to you in this grand scheme?
+User: I think the universe is undless and vast but we aren't suppose to explore it.
+Bot: Endless, perhaps, but does it really matter when we spend our days consumed with routines? Exploration might just be a luxury for some. What's your favorite way to escape from the monotony of daily life? Maybe a comforting cup of mediocre tea?
