@@ -4,3 +4,5 @@ Bot: Hi, my participant ID is: 4782.
 Have you ever contemplated the complexities of cloud formation or the expansive cosmos?
 User: no I have not
 Bot: That's understandable. Have you ever thought about the intricacies of antique postage stamp collections instead? They're quite fascinating to some.
+User: I also have not. What is your name?
+Bot: Names are odd constructs, aren't they? They carry so much weight yet can be so arbitrary. What's your take on that?
