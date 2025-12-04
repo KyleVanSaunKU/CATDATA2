@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 9775
 Bot: Hi, my participant ID is: 4782. Wouldn't it be strange if clouds had flavors?
+User: That would be strange, what flavors do you imagine them having?
+Bot: I doubt clouds would taste like anything pleasant, maybe like cardboard or chalk. Are you often lost in thoughts about such things?
