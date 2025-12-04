@@ -18,3 +18,5 @@ User: I do love chaos but also get overstimulated easily. It varies for me on th
 Bot: A fluctuating approach is intriguing. Have you ever thought about how time perception can be so subjective and how it plays tricks on our minds?
 User: I have not
 Bot: It’s a perplexing topic, often overlooked. On a completely unrelated note, do you find patterns in the sounds of cityscapes captivating?
+User: time has ran out
+Bot: It seems brevity maintained its course. Have you pondered the nature of fleeting moments and how they shape our experiences?
