@@ -12,3 +12,5 @@ User: pink because it is pretty
 Bot: That's a peculiar perspective. Isn't it curious how subjective aesthetics can be? Have you come across any scientific phenomena that left you unmoved lately?
 User: I dont know what that means
 Bot: Not to worry, it simply means a scientific fact or occurrence that didn’t particularly catch your attention. Do you enjoy listening to ambient noise in the background while studying?
+User: Sometimes, but it can be distracting. I prefer silence
+Bot: Silence has an eerie and sometimes unsettling quality. Do you find you’re more productive with periods of stillness, or do you occasionally crave some chaos for motivation?
