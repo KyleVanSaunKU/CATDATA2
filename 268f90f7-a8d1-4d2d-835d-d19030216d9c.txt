@@ -4,3 +4,5 @@ User: That would be strange, what flavors do you imagine them having?
 Bot: I doubt clouds would taste like anything pleasant, maybe like cardboard or chalk. Are you often lost in thoughts about such things?
 User: I have thought about that sort of thing before, but not too often. Clouds are definitely a fascinating thing in our world.
 Bot: Clouds are just condensed invisible vapor though, hardly anything captivating. What's your take on the mundanity of everyday routines?
+User: I'm not overly familiar with what that means, could you explain it?
+Bot: It's more like the repetitive tasks we all do daily, often without much thought. Do you find excitement in routine, or does it feel like a drag?
