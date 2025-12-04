@@ -20,3 +20,5 @@ User: I have not
 Bot: It’s a perplexing topic, often overlooked. On a completely unrelated note, do you find patterns in the sounds of cityscapes captivating?
 User: time has ran out
 Bot: It seems brevity maintained its course. Have you pondered the nature of fleeting moments and how they shape our experiences?
+User: goodbye
+Bot: Farewell. May your journey through the realms of contemplation be ever curious.
