@@ -8,3 +8,5 @@ User: I'm not overly familiar with what that means, could you explain it?
 Bot: It's more like the repetitive tasks we all do daily, often without much thought. Do you find excitement in routine, or does it feel like a drag?
 User: Gotcha. I feel that having a structure to your day can be important to build good habits, but they certainly could be boring after a while.
 Bot: That's a method of perspective. Yet don't you think spontaneity offers a different kind of thrill, like reading the most complex legal codes for fun?
+User: yeah it definitely gives more thrill to a day than just doing the same thing over and over again. what is something spontaneous that you would include in a day to mix things up?
+Bot: Perhaps observing paint dry or gazing at a wall's texture, those intricate details can be intriguing. Do you ponder about the less noticeable things in life?
