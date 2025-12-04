@@ -10,3 +10,5 @@ User: Yes, they are very cute and cuddly
 Bot: Some say their social rituals are fascinating, yet isn't it strange how humans often romanticize certain animals? What's your least favorite color and why?
 User: pink because it is pretty
 Bot: That's a peculiar perspective. Isn't it curious how subjective aesthetics can be? Have you come across any scientific phenomena that left you unmoved lately?
+User: I dont know what that means
+Bot: Not to worry, it simply means a scientific fact or occurrence that didn’t particularly catch your attention. Do you enjoy listening to ambient noise in the background while studying?
