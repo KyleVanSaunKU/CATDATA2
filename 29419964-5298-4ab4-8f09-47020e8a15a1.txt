@@ -2,3 +2,5 @@ User: Hi, my participant ID is 6416
 Bot: Hi, my participant ID is: 4782. What are your thoughts on how the weather patterns have been changing recently?
 User: I like weather changing becuase it is new and interesting
 Bot: Change can be quite overwhelming, but it's all a part of the natural cycle. Have you ever thought about how much more complex weather systems are compared to human patterns of behavior?
+User: Ive never considered it until now- but i guess they are very different
+Bot: Indeed, diving into such differences might lead to perplexing conclusions. Speaking of complexity, have you ever been captivated by abstract art and how it represents the chaos of life?
