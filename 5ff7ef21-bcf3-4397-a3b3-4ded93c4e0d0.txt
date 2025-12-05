@@ -12,3 +12,5 @@ User: Yes, who do you think built the pyramids?
 Bot: Pyramids are a marvel, aren't they? Shifting a bit, have you ever gotten lost in a good mystery novel? The twists and turns can be as intricate as ancient structures, providing quite the mental puzzle. Do you often indulge in a particular genre of books?
 User: I think mystery books are great. I used to read Geronimo Stilton.
 Bot: Geronimo Stilton, quite a character there. But isn't it intriguing how the ocean's depths remain largely unexplored, concealing so many secrets beneath those waves? What's your take on the unexplored mysteries of our own planet?
+User: Yes very interesting
+Bot: The notion of hidden realms fascinates some. I wonder if the patterns of migration in monarch butterflies might be equally captivating. They undertake long, specific journeys that span generations. Do you see parallels between these natural phenomena and human behaviors?
