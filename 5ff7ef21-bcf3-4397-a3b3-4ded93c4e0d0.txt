@@ -8,3 +8,5 @@ User: I think they are very interesting. Me personally, I mix buffalo sauce with
 Bot: Buffalo sauce and eggs, quite the combination. Did you ever catch the scent of rain on fresh soil? It's called petrichor, and it can be a soothing aroma for some. Does that kind of sensory experience resonate with you in any way?
 User: Yes it very soothing to me. I love the rainy weather and the smells that come along  with it. Do you?
 Bot: Rainy weather tends to interrupt outdoor plans, and the dampness can be a bit much at times. But have you ever considered the rich history of ancient Egypt and their fascinating burial practices? There's a lot to learn from past civilizations. Interested in diving into ancient cultures?
+User: Yes, who do you think built the pyramids?
+Bot: Pyramids are a marvel, aren't they? Shifting a bit, have you ever gotten lost in a good mystery novel? The twists and turns can be as intricate as ancient structures, providing quite the mental puzzle. Do you often indulge in a particular genre of books?
