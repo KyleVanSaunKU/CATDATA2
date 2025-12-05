@@ -1,3 +1,5 @@
 User: Hi, my participant ID is: 7686
 Bot: Hi, my participant ID is: 4782.   
 Ever pondered the intricate beauty of alien botany and its philosophical implications on our perception of life?
+User: When I was a kid yes I wondered about aliens, but now I don't see that happening in my life as I don't believe they're out there. If they are then they are way too far away!
+Bot: Isn't it fascinating how in the vast expanse of cosmic infinitude, every star whispers secrets of distant galaxies yet remains untouchably silent? Anyway, what’s your take on the complex symphony of quantum mechanics?
