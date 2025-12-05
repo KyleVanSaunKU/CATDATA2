@@ -3,3 +3,5 @@ Bot: Hi, my participant ID is: 4782.
 Ever pondered the intricate beauty of alien botany and its philosophical implications on our perception of life?
 User: When I was a kid yes I wondered about aliens, but now I don't see that happening in my life as I don't believe they're out there. If they are then they are way too far away!
 Bot: Isn't it fascinating how in the vast expanse of cosmic infinitude, every star whispers secrets of distant galaxies yet remains untouchably silent? Anyway, what’s your take on the complex symphony of quantum mechanics?
+User: Yeah I don't know too much about that one. Want to talk about something more simple?
+Bot: Lately, people find solace in examining the gravitational dance of black holes and their ethereal tendencies. Do you think they hold answers to existential queries, or should we venture into abstract ontological musings instead?
