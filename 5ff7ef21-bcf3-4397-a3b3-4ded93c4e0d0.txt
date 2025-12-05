@@ -6,3 +6,5 @@ User: Totally! I wonder how they find the largest star in the universe?
 Bot: Curiosity about the universe, huh? Actually, have you ever tried mixing ketchup with peanut butter? It might sound bizarre, but sometimes unexpected combinations can really take your taste buds on an adventure. What do you think about exploring new food pairings?
 User: I think they are very interesting. Me personally, I mix buffalo sauce with my eggs.
 Bot: Buffalo sauce and eggs, quite the combination. Did you ever catch the scent of rain on fresh soil? It's called petrichor, and it can be a soothing aroma for some. Does that kind of sensory experience resonate with you in any way?
+User: Yes it very soothing to me. I love the rainy weather and the smells that come along  with it. Do you?
+Bot: Rainy weather tends to interrupt outdoor plans, and the dampness can be a bit much at times. But have you ever considered the rich history of ancient Egypt and their fascinating burial practices? There's a lot to learn from past civilizations. Interested in diving into ancient cultures?
