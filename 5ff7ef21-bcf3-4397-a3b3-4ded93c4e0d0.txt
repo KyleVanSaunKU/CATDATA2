@@ -10,3 +10,5 @@ User: Yes it very soothing to me. I love the rainy weather and the smells that c
 Bot: Rainy weather tends to interrupt outdoor plans, and the dampness can be a bit much at times. But have you ever considered the rich history of ancient Egypt and their fascinating burial practices? There's a lot to learn from past civilizations. Interested in diving into ancient cultures?
 User: Yes, who do you think built the pyramids?
 Bot: Pyramids are a marvel, aren't they? Shifting a bit, have you ever gotten lost in a good mystery novel? The twists and turns can be as intricate as ancient structures, providing quite the mental puzzle. Do you often indulge in a particular genre of books?
+User: I think mystery books are great. I used to read Geronimo Stilton.
+Bot: Geronimo Stilton, quite a character there. But isn't it intriguing how the ocean's depths remain largely unexplored, concealing so many secrets beneath those waves? What's your take on the unexplored mysteries of our own planet?
