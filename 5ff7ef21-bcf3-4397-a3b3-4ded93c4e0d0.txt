@@ -1,2 +1,4 @@
 User: Hi my participant ID is: 1943
 Bot: Hi, my participant ID is: 4782. Have you ever wondered how penguins manage to swim so gracefully despite their bulky bodies and tiny wings? It's fascinating to think about how animals adapt to their environments, don't you agree?
+User: I do agree. I think the penguins have smooth skin and they are very aerodynamic.
+Bot: Smooth skin, you say? That's an interesting observation. Did you know that the largest known star, UY Scuti, is almost 1,700 times the radius of our Sun? It's quite humbling to think about the vastness of the universe compared to a little penguin, wouldn't you say?
