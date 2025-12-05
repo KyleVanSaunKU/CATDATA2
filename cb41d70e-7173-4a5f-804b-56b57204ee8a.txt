@@ -5,3 +5,5 @@ User: When I was a kid yes I wondered about aliens, but now I don't see that hap
 Bot: Isn't it fascinating how in the vast expanse of cosmic infinitude, every star whispers secrets of distant galaxies yet remains untouchably silent? Anyway, what’s your take on the complex symphony of quantum mechanics?
 User: Yeah I don't know too much about that one. Want to talk about something more simple?
 Bot: Lately, people find solace in examining the gravitational dance of black holes and their ethereal tendencies. Do you think they hold answers to existential queries, or should we venture into abstract ontological musings instead?
+User: How would I know.
+Bot: Indeed, the mysteries of the cosmos elude even the most studious minds. Have you ever considered the poetic melancholy of watching paint dry as a metaphor for the passage of time?
